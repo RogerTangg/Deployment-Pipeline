@@ -1,7 +1,7 @@
 {
   "name": "deployment-pipeline-assignment",
   "version": "1.0.0",
-  "description": "A sample project for GitHub Actions deployment pipeline assignment",
+  "description": "部署流水線作業範例專案 - A sample project for GitHub Actions deployment pipeline assignment",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
@@ -19,9 +19,11 @@
     "deployment",
     "ci-cd",
     "pipeline",
-    "automation"
+    "automation",
+    "部署流水線",
+    "自動化部署"
   ],
-  "author": "Your Name",
+  "author": "Roger Tang",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
@@ -42,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/deployment-pipeline-assignment.git"
+    "url": "https://github.com/RogerTangg/Deployment-Pipeline.git"
   },
   "jest": {
     "testEnvironment": "node",
