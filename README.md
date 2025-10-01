@@ -324,6 +324,4 @@ npm test -- --coverage
 
 ---
 
-**祝您部署愉快！🚀 (Happy Deploying! 🚀)**
-
 *最後更新：2024年10月 | Last Updated: October 2024*
