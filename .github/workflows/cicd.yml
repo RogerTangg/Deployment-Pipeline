@@ -259,5 +259,3 @@ jobs:
           
           # 建立新的 release
           gh release create "$TAG" "${{ env.ARTIFACT_FILE }}" --latest --notes "$NOTE"
-
-          
