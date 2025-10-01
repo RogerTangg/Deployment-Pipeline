@@ -1,7 +1,7 @@
 /**
  * 部署流水線作業 - Express.js API 伺服器
  * Deployment Pipeline Assignment - Express.js API Server
- * 
+ *
  * 這是一個簡單的 REST API 伺服器，用於演示 CI/CD 部署流水線
  * A simple REST API server for demonstrating CI/CD deployment pipeline
  */
@@ -17,8 +17,8 @@ const PORT = process.env.PORT || 3000
 const NODE_ENV = process.env.NODE_ENV || 'development'
 
 // 中介軟體 (Middleware) 設定
-app.use(helmet())      // 安全性標頭設定
-app.use(cors())        // 跨來源資源共享設定
+app.use(helmet()) // 安全性標頭設定
+app.use(cors()) // 跨來源資源共享設定
 app.use(express.json()) // JSON 解析設定
 
 // 路由定義 (Routes)
@@ -45,7 +45,7 @@ app.get('/health', (req, res) => {
   res.json({
     status: 'healthy',
     environment: NODE_ENV,
-    uptime: process.uptime(),    // 伺服器執行時間（秒）
+    uptime: process.uptime(), // 伺服器執行時間（秒）
     timestamp: new Date().toISOString()
   })
 })

@@ -1,7 +1,7 @@
 /**
  * API 端點測試
  * API Endpoints Testing
- * 
+ *
  * 測試所有 API 端點的功能性和正確性
  * Testing functionality and correctness of all API endpoints
  */
@@ -36,7 +36,7 @@ describe('API Endpoints', () => {
       expect(response.status).toBe(200)
       expect(response.body).toHaveProperty('status', 'healthy')
       expect(response.body).toHaveProperty('environment')
-      expect(response.body).toHaveProperty('uptime')  // 執行時間
+      expect(response.body).toHaveProperty('uptime') // 執行時間
       expect(response.body).toHaveProperty('timestamp')
     })
   })
