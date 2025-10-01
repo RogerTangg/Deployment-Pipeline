@@ -44,6 +44,7 @@ app.get('/api/info', (req, res) => {
 
 // Error handling middleware
 app.use((err, req, res, next) => {
+  // eslint-disable-next-line no-console
   console.error(err.stack)
   res.status(500).json({
     error: 'Something went wrong!',
@@ -62,8 +63,11 @@ app.use('*', (req, res) => {
 // Start server only if this file is run directly
 if (require.main === module) {
   app.listen(PORT, () => {
+    // eslint-disable-next-line no-console
     console.log(`Server running on port ${PORT} in ${NODE_ENV} mode`)
+    // eslint-disable-next-line no-console
     console.log(`Build Tag: ${process.env.BUILD_TAG || 'local-build'}`)
+    // eslint-disable-next-line no-console
     console.log(`Version: ${process.env.APP_VERSION || '1.0.0'}`)
   })
 }
