@@ -110,6 +110,11 @@ jobs:
     runs-on: ubuntu-latest
     environment: dev
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
@@ -136,20 +141,22 @@ jobs:
           NOTE: ${{ steps.meta.outputs.note }}
         run: |
           set -e
-          # 先刪除現有的 release 如果存在（避免衝突）
-          if gh release view "$TAG" >/dev/null 2>&1; then
-            echo "Deleting existing release: $TAG"
-            gh release delete "$TAG" --yes || true
-          fi
           
-          # 刪除現有的 tag 如果存在
-          if git ls-remote --tags origin | grep -q "refs/tags/$TAG"; then
-            echo "Deleting existing tag: $TAG"
-            git push origin ":refs/tags/$TAG" || true
-          fi
+          # Configure git
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Generate unique tag to avoid conflicts
+          TIMESTAMP=$(date +%Y%m%d-%H%M%S)
+          UNIQUE_TAG="${TAG}-${TIMESTAMP}"
+          
+          echo "Creating release with tag: $UNIQUE_TAG"
           
           # 建立新的 release
-          gh release create "$TAG" "${{ env.ARTIFACT_FILE }}" --prerelease --notes "$NOTE"
+          gh release create "$UNIQUE_TAG" "${{ env.ARTIFACT_FILE }}" \
+            --repo "${{ github.repository }}" \
+            --prerelease \
+            --notes "$NOTE"
 
   # ==================== Staging（手動） ====================
   deploy-staging:
@@ -159,6 +166,11 @@ jobs:
     runs-on: ubuntu-latest
     environment: staging
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
@@ -191,20 +203,22 @@ jobs:
           NOTE: ${{ steps.meta.outputs.note }}
         run: |
           set -e
-          # 先刪除現有的 release 如果存在（避免衝突）
-          if gh release view "$TAG" >/dev/null 2>&1; then
-            echo "Deleting existing release: $TAG"
-            gh release delete "$TAG" --yes || true
-          fi
           
-          # 刪除現有的 tag 如果存在
-          if git ls-remote --tags origin | grep -q "refs/tags/$TAG"; then
-            echo "Deleting existing tag: $TAG"
-            git push origin ":refs/tags/$TAG" || true
-          fi
+          # Configure git
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Generate unique tag to avoid conflicts
+          TIMESTAMP=$(date +%Y%m%d-%H%M%S)
+          UNIQUE_TAG="${TAG}-${TIMESTAMP}"
+          
+          echo "Creating release with tag: $UNIQUE_TAG"
           
           # 建立新的 release
-          gh release create "$TAG" "${{ env.ARTIFACT_FILE }}" --prerelease --notes "$NOTE"
+          gh release create "$UNIQUE_TAG" "${{ env.ARTIFACT_FILE }}" \
+            --repo "${{ github.repository }}" \
+            --prerelease \
+            --notes "$NOTE"
 
   # =============== Production（手動＋審核） ===============
   deploy-production:
@@ -214,6 +228,11 @@ jobs:
     runs-on: ubuntu-latest
     environment: production     # ⚠️ 會觸發 Environment 保護：需 Reviewer 核准
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
@@ -245,19 +264,19 @@ jobs:
           NOTE: ${{ steps.meta.outputs.note }}
         run: |
           set -e
-          # 先刪除現有的 release 如果存在（避免衝突）
-          if gh release view "$TAG" >/dev/null 2>&1; then
-            echo "Deleting existing release: $TAG"
-            gh release delete "$TAG" --yes || true
-          fi
           
-          # 刪除現有的 tag 如果存在
-          if git ls-remote --tags origin | grep -q "refs/tags/$TAG"; then
-            echo "Deleting existing tag: $TAG"
-            git push origin ":refs/tags/$TAG" || true
-          fi
+          # Configure git
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Generate unique tag to avoid conflicts
+          TIMESTAMP=$(date +%Y%m%d-%H%M%S)
+          UNIQUE_TAG="${TAG}-${TIMESTAMP}"
+          
+          echo "Creating release with tag: $UNIQUE_TAG"
           
           # 建立新的 release
-          gh release create "$TAG" "${{ env.ARTIFACT_FILE }}" --latest --notes "$NOTE"
-
-          
+          gh release create "$UNIQUE_TAG" "${{ env.ARTIFACT_FILE }}" \
+            --repo "${{ github.repository }}" \
+            --latest \
+            --notes "$NOTE"
