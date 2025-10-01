@@ -1,0 +1,237 @@
+name: CI/CD Deployment Pipeline
+
+on:
+  # 自動：Push 到 main 只做 Dev 發佈（A 級）
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - '**/*.md'
+      - 'docs/**'
+  # 手動：執行 Staging → Production（E 級）
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Optional version (e.g., 1.2.3). 若提供，Tag 變成 <env>-v<version>'
+        required: false
+        type: string
+      notes:
+        description: 'Optional notes（若提供，覆寫環境中的 RELEASE_NOTE）'
+        required: false
+        type: string
+
+# 讓內建的 GITHUB_TOKEN 具備建立/更新 Release 與 Deployment 的權限
+permissions:
+  contents: write
+  deployments: write
+
+# 避免同分支同一時間有多個部署流程互相覆蓋
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  NODE_VERSION: '20'
+  ARTIFACT_NAME: build-artifact
+  ARTIFACT_FILE: build.zip
+
+jobs:
+  build:
+    name: Build, Lint, Test, Package
+    runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.setver.outputs.version }}
+      sha_short: ${{ steps.meta.outputs.sha_short }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Use Node.js ${{ env.NODE_VERSION }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+
+      - name: Install deps (CI)
+        run: npm ci
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Test
+        run: npm test -- --ci
+
+      - name: Build
+        run: |
+          # 若專案沒有 build 腳本不報錯（作業重點在管線）
+          if npm run | grep -q "^  build"; then
+            npm run build
+          else
+            echo "No build script found. Skipping..."
+          fi
+
+      - name: Package artifact
+        run: |
+          zip -r "${{ env.ARTIFACT_FILE }}" . \
+            -x ".git/*" ".github/*" "node_modules/*"
+
+      - name: Compute git metadata
+        id: meta
+        run: echo "sha_short=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
+
+      - name: Resolve version
+        id: setver
+        run: |
+          # 取得 workflow_dispatch 的 version（push 事件則為空）
+          INPUT_VER="${{ github.event.inputs.version }}"
+          if [ -n "$INPUT_VER" ]; then
+            VERSION="$INPUT_VER"
+          elif [ -f package.json ]; then
+            VERSION=$(node -p "require('./package.json').version" 2>/dev/null || echo "")
+          fi
+          # 後備：用 run_number 組出可遞增版本
+          if [ -z "$VERSION" ] || [ "$VERSION" = "null" ]; then
+            VERSION="0.1.${{ github.run_number }}"
+          fi
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
+          echo "Resolved version: $VERSION"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.ARTIFACT_NAME }}
+          path: ${{ env.ARTIFACT_FILE }}
+          retention-days: 7
+
+  # ====================== Dev（自動） ======================
+  deploy-dev:
+    name: Deploy to Dev (Pre-release)
+    if: github.event_name == 'push'
+    needs: build
+    runs-on: ubuntu-latest
+    environment: dev
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ env.ARTIFACT_NAME }}
+
+      - name: Compose tag & notes (Dev)
+        id: meta
+        shell: bash
+        env:
+          ENV_TAG:   ${{ vars.BUILD_TAG }}      # 例：dev-v1.0（可在環境中設置）
+          ENV_NOTE:  ${{ vars.RELEASE_NOTE }}   # 例：Development build
+          VER:       ${{ needs.build.outputs.version }}
+          SHA7:      ${{ needs.build.outputs.sha_short }}
+        run: |
+          TAG="${ENV_TAG:-dev-v${VER}}"
+          NOTE="${ENV_NOTE:-Development build ${VER} (${SHA7})}"
+          echo "tag=$TAG"   >> "$GITHUB_OUTPUT"
+          echo "note=$NOTE" >> "$GITHUB_OUTPUT"
+
+      - name: Create/Update Dev Release (pre-release)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # gh CLI 使用 GH_TOKEN/GITHUB_TOKEN 其一
+          TAG:  ${{ steps.meta.outputs.tag }}
+          NOTE: ${{ steps.meta.outputs.note }}
+        run: |
+          set -e
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" "${{ env.ARTIFACT_FILE }}" --clobber
+            gh release edit "$TAG" --prerelease --notes "$NOTE"
+          else
+            gh release create "$TAG" "${{ env.ARTIFACT_FILE }}" --prerelease --notes "$NOTE"
+          fi
+
+  # ==================== Staging（手動） ====================
+  deploy-staging:
+    name: Deploy to Staging (Pre-release)
+    if: github.event_name == 'workflow_dispatch'
+    needs: build
+    runs-on: ubuntu-latest
+    environment: staging
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ env.ARTIFACT_NAME }}
+
+      - name: Compose tag & notes (Staging)
+        id: meta
+        shell: bash
+        env:
+          ENV_TAG:   ${{ vars.BUILD_TAG }}         # 例：staging-v1.0
+          ENV_NOTE:  ${{ vars.RELEASE_NOTE }}      # 例：Testing pre-production release
+          INPUT_VER: ${{ github.event.inputs.version }}
+          INPUT_NOT: ${{ github.event.inputs.notes }}
+          VER:       ${{ needs.build.outputs.version }}
+        run: |
+          # 若手動輸入 version，則覆寫為 staging-v<version>
+          if [ -n "$INPUT_VER" ]; then
+            TAG="staging-v${INPUT_VER}"
+          else
+            TAG="${ENV_TAG:-staging-v${VER}}"
+          fi
+          NOTE="${INPUT_NOT:-${ENV_NOTE:-Testing pre-production release ${VER}}}"
+          echo "tag=$TAG"   >> "$GITHUB_OUTPUT"
+          echo "note=$NOTE" >> "$GITHUB_OUTPUT"
+
+      - name: Create/Update Staging Release (pre-release)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG:  ${{ steps.meta.outputs.tag }}
+          NOTE: ${{ steps.meta.outputs.note }}
+        run: |
+          set -e
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" "${{ env.ARTIFACT_FILE }}" --clobber
+            gh release edit "$TAG" --prerelease --notes "$NOTE"
+          else
+            gh release create "$TAG" "${{ env.ARTIFACT_FILE }}" --prerelease --notes "$NOTE"
+          fi
+
+  # =============== Production（手動＋審核） ===============
+  deploy-production:
+    name: Deploy to Production (Final release, approval required)
+    if: github.event_name == 'workflow_dispatch'
+    needs: deploy-staging
+    runs-on: ubuntu-latest
+    environment: production     # ⚠️ 會觸發 Environment 保護：需 Reviewer 核准
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ env.ARTIFACT_NAME }}
+
+      - name: Compose tag & notes (Production)
+        id: meta
+        shell: bash
+        env:
+          ENV_TAG:   ${{ vars.BUILD_TAG }}        # 例：prod-v1.0
+          ENV_NOTE:  ${{ vars.RELEASE_NOTE }}     # 例：Production release
+          INPUT_VER: ${{ github.event.inputs.version }}
+          INPUT_NOT: ${{ github.event.inputs.notes }}
+          VER:       ${{ needs.build.outputs.version }}
+        run: |
+          if [ -n "$INPUT_VER" ]; then
+            TAG="prod-v${INPUT_VER}"
+          else
+            TAG="${ENV_TAG:-prod-v${VER}}"
+          fi
+          NOTE="${INPUT_NOT:-${ENV_NOTE:-Production release ${VER}}}"
+          echo "tag=$TAG"   >> "$GITHUB_OUTPUT"
+          echo "note=$NOTE" >> "$GITHUB_OUTPUT"
+
+      - name: Create/Update Production Release (latest)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG:  ${{ steps.meta.outputs.tag }}
+          NOTE: ${{ steps.meta.outputs.note }}
+        run: |
+          set -e
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" "${{ env.ARTIFACT_FILE }}" --clobber
+            gh release edit "$TAG" --latest --notes "$NOTE"
+          else
+            gh release create "$TAG" "${{ env.ARTIFACT_FILE }}" --latest --notes "$NOTE"
+          fi
