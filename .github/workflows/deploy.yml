@@ -2,6 +2,7 @@ name: CI Dev Deployment
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   build:
@@ -10,13 +11,31 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Build
-        run: |
-          npm install
-          npm run build
-          zip -r build.zip .
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '16'
+          cache: 'npm'
 
-      - name: Upload Artifact
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Linting
+        run: npm run lint
+
+      - name: Run Tests
+        run: npm test
+
+      - name: Build Application
+        run: npm run build
+
+      - name: Create Build Archive
+        run: |
+          cd build
+          zip -r ../build.zip .
+          cd ..
+
+      - name: Upload Build Artifact
         uses: actions/upload-artifact@v4
         with:
           name: build-artifact
@@ -27,15 +46,31 @@ jobs:
     runs-on: ubuntu-latest
     environment: dev
     steps:
-      - name: Download Artifact
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download Build Artifact
         uses: actions/download-artifact@v4
         with:
           name: build-artifact
 
-      - name: Release Dev Build
+      - name: Verify Build Artifact
+        run: |
+          ls -la
+          file build.zip
+
+      - name: Create Dev Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TAG: ${{ vars.BUILD_TAG }}
-          NOTE: ${{ vars.RELEASE_NOTE }}
+          TAG: ${{ vars.BUILD_TAG || 'dev-v1.0' }}
+          NOTE: ${{ vars.RELEASE_NOTE || 'Development build for testing' }}
         run: |
-          gh release create "$TAG" build.zip --notes "$NOTE"
+          # Delete tag if it exists
+          git tag -d "$TAG" 2>/dev/null || true
+          git push origin ":refs/tags/$TAG" 2>/dev/null || true
+          
+          # Create new release
+          gh release create "$TAG" build.zip \
+            --title "Development Release $TAG" \
+            --notes "$NOTE" \
+            --prerelease
