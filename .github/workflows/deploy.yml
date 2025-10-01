@@ -52,6 +52,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full history for git operations
 
       - name: Download Build Artifact
         uses: actions/download-artifact@v4
@@ -62,6 +64,8 @@ jobs:
         run: |
           ls -la
           file build.zip
+          pwd
+          ls -la .git
 
       - name: Create Dev Release
         env:
@@ -69,14 +73,20 @@ jobs:
           TAG: ${{ vars.BUILD_TAG || 'dev-v1.0' }}
           NOTE: ${{ vars.RELEASE_NOTE || 'Development build for testing' }}
         run: |
+          # Configure git user (required for gh commands)
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
           # Generate unique tag with timestamp
           TIMESTAMP=$(date +%Y%m%d-%H%M%S)
           UNIQUE_TAG="${TAG}-${TIMESTAMP}"
           
           echo "Creating release with tag: $UNIQUE_TAG"
+          echo "Repository: ${{ github.repository }}"
           
           # Create new release with unique tag
           gh release create "$UNIQUE_TAG" build.zip \
+            --repo "${{ github.repository }}" \
             --title "Development Release $UNIQUE_TAG" \
             --notes "$NOTE" \
             --prerelease
