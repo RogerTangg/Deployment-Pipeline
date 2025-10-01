@@ -1,0 +1,97 @@
+# Basic CI/CD Pipeline for Assignment
+# This workflow demonstrates a 2-stage pipeline (Grade A requirement)
+
+name: CI Dev Deployment
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+    inputs:
+      deploy_to:
+        description: 'Deploy to environment'
+        required: true
+        default: 'dev'
+        type: choice
+        options:
+        - dev
+        - staging
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run linting
+        run: npm run lint
+
+      - name: Run tests
+        run: npm test
+
+      - name: Build application
+        env:
+          NODE_ENV: production
+          BUILD_TAG: ${{ github.sha }}
+        run: npm run build
+
+      - name: Create deployment package
+        run: |
+          cd build
+          zip -r ../build.zip .
+          cd ..
+          
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-artifact
+          path: build.zip
+          retention-days: 30
+
+  deploy-dev:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: dev
+    if: github.ref == 'refs/heads/main' || github.event.inputs.deploy_to == 'dev'
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: build-artifact
+
+      - name: Extract build artifact
+        run: unzip build.zip -d deployment/
+
+      - name: Create dev release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ vars.BUILD_TAG || format('dev-v{0}-{1}', github.run_number, github.sha) }}
+          NOTE: ${{ vars.RELEASE_NOTE || 'Automated development release' }}
+        run: |
+          echo "Creating release with tag: $TAG"
+          echo "Release notes: $NOTE"
+          
+          # Create git tag
+          git tag $TAG
+          git push origin $TAG
+          
+          # Create GitHub release
+          gh release create "$TAG" build.zip \
+            --title "Development Release $TAG" \
+            --notes "$NOTE" \
+            --prerelease

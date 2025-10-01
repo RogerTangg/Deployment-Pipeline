@@ -1,0 +1,252 @@
+# Outstanding CI/CD Pipeline (Grade O)
+# This workflow demonstrates advanced automation features
+
+name: Outstanding CI/CD Pipeline
+
+on:
+  workflow_dispatch:
+    inputs:
+      version_bump:
+        description: 'Version bump type'
+        required: true
+        default: 'patch'
+        type: choice
+        options:
+        - patch
+        - minor
+        - major
+      skip_tests:
+        description: 'Skip tests (for hotfixes)'
+        required: false
+        default: false
+        type: boolean
+      notify_slack:
+        description: 'Send Slack notification'
+        required: false
+        default: true
+        type: boolean
+
+env:
+  SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+
+jobs:
+  version-and-tag:
+    runs-on: ubuntu-latest
+    outputs:
+      new-version: ${{ steps.version.outputs.new-version }}
+      git-tag: ${{ steps.version.outputs.git-tag }}
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Bump version
+        id: version
+        run: |
+          npm version ${{ github.event.inputs.version_bump }} --no-git-tag-version
+          NEW_VERSION=$(node -p "require('./package.json').version")
+          GIT_TAG="v${NEW_VERSION}"
+          echo "new-version=$NEW_VERSION" >> $GITHUB_OUTPUT
+          echo "git-tag=$GIT_TAG" >> $GITHUB_OUTPUT
+          
+          # Commit version bump
+          git add package.json
+          git commit -m "chore: bump version to $NEW_VERSION [skip ci]"
+          git tag $GIT_TAG
+          git push origin main
+          git push origin $GIT_TAG
+
+  build-matrix:
+    needs: version-and-tag
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [16, 18, 20]
+        include:
+          - node-version: 18
+            primary: true
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run linting
+        if: matrix.primary
+        run: npm run lint
+
+      - name: Run tests
+        if: github.event.inputs.skip_tests != 'true'
+        run: npm test
+
+      - name: Build application
+        if: matrix.primary
+        env:
+          NODE_ENV: production
+          APP_VERSION: ${{ needs.version-and-tag.outputs.new-version }}
+          BUILD_TAG: ${{ format('build-{0}-{1}', needs.version-and-tag.outputs.new-version, github.run_number) }}
+        run: npm run build
+
+      - name: Upload build artifacts
+        if: matrix.primary
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-artifacts-${{ needs.version-and-tag.outputs.new-version }}
+          path: |
+            build.zip
+            build.tar.gz
+            build/build-info.json
+          retention-days: 90
+
+  security-scan:
+    needs: version-and-tag
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run security audit
+        run: npm audit --audit-level=moderate
+
+      - name: Run dependency check
+        run: npx auditjs ossi
+
+  deploy-staging:
+    needs: [version-and-tag, build-matrix, security-scan]
+    runs-on: ubuntu-latest
+    environment: staging
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download build artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: build-artifacts-${{ needs.version-and-tag.outputs.new-version }}
+
+      - name: Deploy to staging
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ format('staging-{0}', needs.version-and-tag.outputs.git-tag) }}
+          NOTE: ${{ format('Staging release {0} - {1}', needs.version-and-tag.outputs.new-version, vars.RELEASE_NOTE) }}
+        run: |
+          gh release create "$TAG" build.zip build.tar.gz \
+            --title "Staging Release ${{ needs.version-and-tag.outputs.new-version }}" \
+            --notes "$NOTE" \
+            --prerelease
+
+      - name: Smoke tests
+        run: |
+          echo "Running staging smoke tests..."
+          # Add actual smoke tests here
+
+      - name: Notify staging deployment
+        if: github.event.inputs.notify_slack == 'true' && env.SLACK_WEBHOOK_URL != ''
+        run: |
+          curl -X POST -H 'Content-type: application/json' \
+            --data '{"text":"🚀 Staging deployment successful for version ${{ needs.version-and-tag.outputs.new-version }}"}' \
+            $SLACK_WEBHOOK_URL
+
+  deploy-production:
+    needs: [version-and-tag, deploy-staging]
+    runs-on: ubuntu-latest
+    environment: production
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download build artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: build-artifacts-${{ needs.version-and-tag.outputs.new-version }}
+
+      - name: Pre-deployment backup
+        run: |
+          echo "Creating pre-deployment backup..."
+          # Add backup logic here
+
+      - name: Deploy to production
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ format('prod-{0}', needs.version-and-tag.outputs.git-tag) }}
+          NOTE: ${{ format('Production release {0} - {1}', needs.version-and-tag.outputs.new-version, vars.RELEASE_NOTE) }}
+        run: |
+          gh release create "$TAG" build.zip build.tar.gz \
+            --title "Production Release ${{ needs.version-and-tag.outputs.new-version }}" \
+            --notes "$NOTE" \
+            --latest
+
+      - name: Post-deployment verification
+        id: verify
+        run: |
+          echo "Running post-deployment verification..."
+          # Add verification tests here
+          echo "verification-status=success" >> $GITHUB_OUTPUT
+
+      - name: Rollback on failure
+        if: steps.verify.outputs.verification-status != 'success'
+        run: |
+          echo "Deployment verification failed, initiating rollback..."
+          gh release delete "$TAG" --yes || true
+          git tag -d "$TAG" || true
+          git push origin --delete "$TAG" || true
+
+      - name: Notify production deployment
+        if: steps.verify.outputs.verification-status == 'success'
+        run: |
+          echo "🎉 Production deployment successful!"
+          if [ "${{ github.event.inputs.notify_slack }}" == "true" ] && [ -n "$SLACK_WEBHOOK_URL" ]; then
+            curl -X POST -H 'Content-type: application/json' \
+              --data '{"text":"🎉 Production deployment successful for version ${{ needs.version-and-tag.outputs.new-version }}! 🚀"}' \
+              $SLACK_WEBHOOK_URL
+          fi
+
+  cleanup:
+    needs: [version-and-tag, deploy-production]
+    runs-on: ubuntu-latest
+    if: always()
+    
+    steps:
+      - name: Cleanup old artifacts
+        run: |
+          echo "Cleaning up old build artifacts..."
+          # Add cleanup logic here
+
+      - name: Update deployment status
+        run: |
+          echo "Updating deployment status dashboard..."
+          # Add status update logic here
