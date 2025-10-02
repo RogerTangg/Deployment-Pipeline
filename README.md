@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-這裡會由 GitHub Actions 自動更新，顯示最近的 Commit / PR / Issue 活動。
+1. 🗣 Commented on [#13125](https://github.com/ministryofjustice/modernisation-platform-environments/pull/13125#issuecomment-3357125011) in [ministryofjustice/modernisation-platform-environments](https://github.com/ministryofjustice/modernisation-platform-environments)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
