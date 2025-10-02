@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v0.44.2](https://github.com/NHSDigital/vaccinations-app/releases/tag/v0.44.2) in [NHSDigital/vaccinations-app](https://github.com/NHSDigital/vaccinations-app)
+1. 🗣 Commented on [#1100](https://github.com/invariant-labs/webapp/pull/1100#issuecomment-3361031418) in [invariant-labs/webapp](https://github.com/invariant-labs/webapp)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
