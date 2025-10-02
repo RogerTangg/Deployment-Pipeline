@@ -4,7 +4,12 @@
 
 A Node.js sample project demonstrating multi-stage deployment pipeline using GitHub Actions, featuring complete CI/CD automation workflows for learning and demonstrating modern software deployment practices.
 
-## 📋 專案概述 (Project Overview)
+## 最近活動
+<!--START_SECTION:activity-->
+這裡會由 GitHub Actions 自動更新，顯示最近的 Commit / PR / Issue 活動。
+<!--END_SECTION:activity-->
+
+<!-- ## 📋 專案概述 (Project Overview)
 
 這個專案展示了現代軟體開發中的持續整合與持續部署 (CI/CD) 實務，包含：
 
@@ -320,7 +325,7 @@ npm test -- --coverage
 - 📖 查看 GitHub Actions 執行日誌
 - 📋 檢查環境設定指南 `config/environments-setup.md`
 - 🔧 確認所有環境變數已正確配置
-- 💬 在 Issues 頁面提出問題
+- 💬 在 Issues 頁面提出問題 -->
 
 ---
 
