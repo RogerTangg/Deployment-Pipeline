@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.3-dev.3](https://github.com/Tosox/revanced-patches/releases/tag/v1.2.3-dev.3) in [Tosox/revanced-patches](https://github.com/Tosox/revanced-patches)
+1. 🗣 Commented on [#5150](https://github.com/dmwm/T0/pull/5150#issuecomment-3361473433) in [dmwm/T0](https://github.com/dmwm/T0)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
