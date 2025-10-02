@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [AWS Toolkit 3.96-SNAPSHOT: prerelease](https://github.com/aws/aws-toolkit-jetbrains/releases/tag/prerelease) in [aws/aws-toolkit-jetbrains](https://github.com/aws/aws-toolkit-jetbrains)
+1. 🗣 Commented on [#41272](https://github.com/huggingface/transformers/pull/41272#issuecomment-3360556721) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
