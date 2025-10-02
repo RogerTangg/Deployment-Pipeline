@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Build 254 (konka_komi-a31)](https://github.com/QC3284/imagebuilder-actions/releases/tag/build-18200365633-konka_komi-a31) in [QC3284/imagebuilder-actions](https://github.com/QC3284/imagebuilder-actions)
+1. 🗣 Commented on [#754](https://github.com/bcgov/EDUC-CCOF/issues/754#issuecomment-3362374080) in [bcgov/EDUC-CCOF](https://github.com/bcgov/EDUC-CCOF)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
