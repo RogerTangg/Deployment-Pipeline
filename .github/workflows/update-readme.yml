@@ -24,7 +24,7 @@ jobs:
       - name: Update README
         uses: jamesgeorge007/github-activity-readme@v0.4.1
         with:
-          GH_TOKEN: ${{ secrets.REPO_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push changes
         run: |
