@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5150](https://github.com/dmwm/T0/pull/5150#issuecomment-3361473433) in [dmwm/T0](https://github.com/dmwm/T0)
+1. 🗣 Commented on [#2705](https://github.com/hiero-ledger/solo/pull/2705#issuecomment-3361627751) in [hiero-ledger/solo](https://github.com/hiero-ledger/solo)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
