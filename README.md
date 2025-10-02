@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20439](https://github.com/hpcc-systems/HPCC-Platform/pull/20439#issuecomment-3361814368) in [hpcc-systems/HPCC-Platform](https://github.com/hpcc-systems/HPCC-Platform)
+1. ❗ Opened issue [#8](https://github.com/bug-vs-me/test/issues/8) in [bug-vs-me/test](https://github.com/bug-vs-me/test)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
