@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/bug-vs-me/test/issues/8) in [bug-vs-me/test](https://github.com/bug-vs-me/test)
+1. 🗣 Commented on [#15463](https://github.com/uniget-org/tools/pull/15463#issuecomment-3362123556) in [uniget-org/tools](https://github.com/uniget-org/tools)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
