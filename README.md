@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2705](https://github.com/hiero-ledger/solo/pull/2705#issuecomment-3361627751) in [hiero-ledger/solo](https://github.com/hiero-ledger/solo)
+1. 🗣 Commented on [#20439](https://github.com/hpcc-systems/HPCC-Platform/pull/20439#issuecomment-3361814368) in [hpcc-systems/HPCC-Platform](https://github.com/hpcc-systems/HPCC-Platform)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
