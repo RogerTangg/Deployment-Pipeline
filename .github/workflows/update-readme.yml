@@ -23,6 +23,8 @@ jobs:
 
       - name: Update README
         uses: jamesgeorge007/github-activity-readme@v0.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           GH_USERNAME: "github-actions[bot]"
           COMMIT_NAME: "github-actions[bot]"
