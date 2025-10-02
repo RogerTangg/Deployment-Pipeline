@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/edsonwade/spring-testing-mastery/pull/4#issuecomment-3357147395) in [edsonwade/spring-testing-mastery](https://github.com/edsonwade/spring-testing-mastery)
+1. 🚀 Published release [Mullvad Browser: 14.5.7](https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/tag/14.5.7%402025-10-01_1759336015) in [Portable-Linux-Apps/mullvad-browser-AppImage](https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
