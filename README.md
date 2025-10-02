@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41272](https://github.com/huggingface/transformers/pull/41272#issuecomment-3360556721) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. 🚀 Published release [Release v0.44.2](https://github.com/NHSDigital/vaccinations-app/releases/tag/v0.44.2) in [NHSDigital/vaccinations-app](https://github.com/NHSDigital/vaccinations-app)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
