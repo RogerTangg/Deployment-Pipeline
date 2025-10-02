@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Mullvad Browser: 14.5.7](https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage/releases/tag/14.5.7%402025-10-01_1759336015) in [Portable-Linux-Apps/mullvad-browser-AppImage](https://github.com/Portable-Linux-Apps/mullvad-browser-AppImage)
+1. 🗣 Commented on [#152](https://github.com/f1she3/eccountant/pull/152#issuecomment-3357308699) in [f1she3/eccountant](https://github.com/f1she3/eccountant)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
