@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DemantiaClockX v1.4](https://github.com/osmanksonmez/DemantiaClockX/releases/tag/v1.4) in [osmanksonmez/DemantiaClockX](https://github.com/osmanksonmez/DemantiaClockX)
+1. 🚀 Published release [AWS Toolkit 3.96-SNAPSHOT: prerelease](https://github.com/aws/aws-toolkit-jetbrains/releases/tag/prerelease) in [aws/aws-toolkit-jetbrains](https://github.com/aws/aws-toolkit-jetbrains)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
