@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1100](https://github.com/invariant-labs/webapp/pull/1100#issuecomment-3361031418) in [invariant-labs/webapp](https://github.com/invariant-labs/webapp)
+1. 🗣 Commented on [#1](https://github.com/Candicehuang0829/skills-code-with-codespaces/issues/1#issuecomment-3361154542) in [Candicehuang0829/skills-code-with-codespaces](https://github.com/Candicehuang0829/skills-code-with-codespaces)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
