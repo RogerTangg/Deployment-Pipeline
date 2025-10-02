@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/f1she3/eccountant/pull/152#issuecomment-3357308699) in [f1she3/eccountant](https://github.com/f1she3/eccountant)
+1. 🚀 Published release [DemantiaClockX v1.4](https://github.com/osmanksonmez/DemantiaClockX/releases/tag/v1.4) in [osmanksonmez/DemantiaClockX](https://github.com/osmanksonmez/DemantiaClockX)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
