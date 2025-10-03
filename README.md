@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8322](https://github.com/dmarx/papers-feed/issues/8322) in [dmarx/papers-feed](https://github.com/dmarx/papers-feed)
+1. 🚀 Published release [v1.7.1](https://github.com/qwertyuiop8899/streamvix/releases/tag/v1.7.1) in [qwertyuiop8899/streamvix](https://github.com/qwertyuiop8899/streamvix)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
