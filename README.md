@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3250](https://github.com/GraphiteEditor/Graphite/pull/3250#issuecomment-3365864353) in [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
+1. 🗣 Commented on [#7436](https://github.com/firebase/firebase-android-sdk/pull/7436#issuecomment-3366008550) in [firebase/firebase-android-sdk](https://github.com/firebase/firebase-android-sdk)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
