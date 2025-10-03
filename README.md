@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Latest patron counts](https://github.com/syarb/tcc-patron-counts/releases/tag/latest) in [syarb/tcc-patron-counts](https://github.com/syarb/tcc-patron-counts)
+1. 🚀 Published release [IPQ807X-WIFI-NO_immortalwrt.git-main_25.10.03_06.20.20](https://github.com/drgallifrey/OpenWRT-CI/releases/tag/IPQ807X-WIFI-NO_immortalwrt.git-main_25.10.03_06.20.20) in [drgallifrey/OpenWRT-CI](https://github.com/drgallifrey/OpenWRT-CI)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
