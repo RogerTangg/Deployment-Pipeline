@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#146](https://github.com/evgenygurin/easy-flow/issues/146) in [evgenygurin/easy-flow](https://github.com/evgenygurin/easy-flow)
+1. ❗ Opened issue [#52847](https://github.com/lotofissues/issues/issues/52847) in [lotofissues/issues](https://github.com/lotofissues/issues)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
