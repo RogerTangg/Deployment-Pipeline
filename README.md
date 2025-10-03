@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Unofficial TWRP for a34x // 20251003](https://github.com/mrx7014/Lazy_Action-Recoverys-Builder/releases/tag/18216313717) in [mrx7014/Lazy_Action-Recoverys-Builder](https://github.com/mrx7014/Lazy_Action-Recoverys-Builder)
+1. 🗣 Commented on [#1](https://github.com/aiueo0306/Seiyaku_2/issues/1#issuecomment-3364954585) in [aiueo0306/Seiyaku_2](https://github.com/aiueo0306/Seiyaku_2)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
