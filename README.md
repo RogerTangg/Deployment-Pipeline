@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/baosang12/BotG/issues/191#issuecomment-3364167426) in [baosang12/BotG](https://github.com/baosang12/BotG)
+1. 🚀 Published release [v1.12.8](https://github.com/bi4nbn/Sing-Box_Actions_Builder/releases/tag/v1.12.8) in [bi4nbn/Sing-Box_Actions_Builder](https://github.com/bi4nbn/Sing-Box_Actions_Builder)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
