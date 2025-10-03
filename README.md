@@ -1,6 +1,6 @@
 # 部署流水線作業 (Deployment Pipeline Assignment)
 
-一個展示使用 GitHub Actions 進行多階段部署流水線的 Node.js 範例專案。此專案包含完整的 CI/CD 自動化流程。
+展示使用 GitHub Actions 進行多階段部署流水線的 Node.js 範例專案。此專案包含完整的 CI/CD 自動化流程。
 
 A Node.js sample project demonstrating multi-stage deployment pipeline using GitHub Actions, featuring complete CI/CD automation workflows.
 
