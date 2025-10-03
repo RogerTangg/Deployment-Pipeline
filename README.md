@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1524](https://github.com/neurodesk/neurocontainers/issues/1524#issuecomment-3364589110) in [neurodesk/neurocontainers](https://github.com/neurodesk/neurocontainers)
+1. ❗ Opened issue [#450](https://github.com/kaito01234/auto-keep-server/issues/450) in [kaito01234/auto-keep-server](https://github.com/kaito01234/auto-keep-server)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
