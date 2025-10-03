@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.1](https://github.com/mr0xf/axdump/releases/tag/0.1.1) in [mr0xf/axdump](https://github.com/mr0xf/axdump)
+1. 🔒 Closed issue [#8322](https://github.com/dmarx/papers-feed/issues/8322) in [dmarx/papers-feed](https://github.com/dmarx/papers-feed)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
