@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8467](https://github.com/redhat-appstudio/infra-deployments/pull/8467#issuecomment-3365430604) in [redhat-appstudio/infra-deployments](https://github.com/redhat-appstudio/infra-deployments)
+1. 🚀 Published release [0.1.1](https://github.com/mr0xf/axdump/releases/tag/0.1.1) in [mr0xf/axdump](https://github.com/mr0xf/axdump)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
