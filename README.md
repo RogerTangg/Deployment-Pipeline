@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#754](https://github.com/bcgov/EDUC-CCOF/issues/754#issuecomment-3362374080) in [bcgov/EDUC-CCOF](https://github.com/bcgov/EDUC-CCOF)
+1. ❗ Opened issue [#146](https://github.com/evgenygurin/easy-flow/issues/146) in [evgenygurin/easy-flow](https://github.com/evgenygurin/easy-flow)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
