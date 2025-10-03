@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/rwilson-source/skills-build-applications-w-copilot-agent-mode/issues/1#issuecomment-3363054414) in [rwilson-source/skills-build-applications-w-copilot-agent-mode](https://github.com/rwilson-source/skills-build-applications-w-copilot-agent-mode)
+1. 🚀 Published release [Latest patron counts](https://github.com/syarb/tcc-patron-counts/releases/tag/latest) in [syarb/tcc-patron-counts](https://github.com/syarb/tcc-patron-counts)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
