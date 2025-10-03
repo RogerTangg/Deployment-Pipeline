@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.6.0](https://github.com/qixing-jk/all-api-hub/releases/tag/v1.6.0) in [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub)
+1. 🗣 Commented on [#1524](https://github.com/neurodesk/neurocontainers/issues/1524#issuecomment-3364589110) in [neurodesk/neurocontainers](https://github.com/neurodesk/neurocontainers)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
