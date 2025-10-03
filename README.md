@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20734](https://github.com/MetaMask/metamask-mobile/pull/20734#issuecomment-3365291996) in [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
+1. 🗣 Commented on [#8467](https://github.com/redhat-appstudio/infra-deployments/pull/8467#issuecomment-3365430604) in [redhat-appstudio/infra-deployments](https://github.com/redhat-appstudio/infra-deployments)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
