@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.7.1](https://github.com/qwertyuiop8899/streamvix/releases/tag/v1.7.1) in [qwertyuiop8899/streamvix](https://github.com/qwertyuiop8899/streamvix)
+1. 🗣 Commented on [#3250](https://github.com/GraphiteEditor/Graphite/pull/3250#issuecomment-3365864353) in [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
