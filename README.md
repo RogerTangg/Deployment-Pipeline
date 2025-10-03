@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [IPQ807X-WIFI-NO_immortalwrt.git-main_25.10.03_06.20.20](https://github.com/drgallifrey/OpenWRT-CI/releases/tag/IPQ807X-WIFI-NO_immortalwrt.git-main_25.10.03_06.20.20) in [drgallifrey/OpenWRT-CI](https://github.com/drgallifrey/OpenWRT-CI)
+1. 🗣 Commented on [#191](https://github.com/baosang12/BotG/issues/191#issuecomment-3364167426) in [baosang12/BotG](https://github.com/baosang12/BotG)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
