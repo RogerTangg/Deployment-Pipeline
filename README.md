@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/lagiosv/reactflux-reader/pull/27) in [lagiosv/reactflux-reader](https://github.com/lagiosv/reactflux-reader)
+1. ❗ Opened issue [#55851](https://github.com/lotofissues/issues/issues/55851) in [lotofissues/issues](https://github.com/lotofissues/issues)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
