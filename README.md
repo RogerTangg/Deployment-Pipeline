@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#450](https://github.com/kaito01234/auto-keep-server/issues/450) in [kaito01234/auto-keep-server](https://github.com/kaito01234/auto-keep-server)
+1. 🚀 Published release [Unofficial TWRP for a34x // 20251003](https://github.com/mrx7014/Lazy_Action-Recoverys-Builder/releases/tag/18216313717) in [mrx7014/Lazy_Action-Recoverys-Builder](https://github.com/mrx7014/Lazy_Action-Recoverys-Builder)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
