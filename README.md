@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/bcgov/nr-bcwat/issues/174#issuecomment-3368143679) in [bcgov/nr-bcwat](https://github.com/bcgov/nr-bcwat)
+1. 🗣 Commented on [#346](https://github.com/BarbourSmith/FluidNC/pull/346#issuecomment-3368166168) in [BarbourSmith/FluidNC](https://github.com/BarbourSmith/FluidNC)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
