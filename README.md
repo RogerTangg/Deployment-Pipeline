@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#170](https://github.com/TransactionProcessing/EstateReportingAPI/issues/170#issuecomment-3366861998) in [TransactionProcessing/EstateReportingAPI](https://github.com/TransactionProcessing/EstateReportingAPI)
+1. 🚀 Published release [Release 1675](https://github.com/matanki-saito/Ck3JpMod/releases/tag/1675) in [matanki-saito/Ck3JpMod](https://github.com/matanki-saito/Ck3JpMod)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
