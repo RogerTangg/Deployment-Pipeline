@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 1675](https://github.com/matanki-saito/Ck3JpMod/releases/tag/1675) in [matanki-saito/Ck3JpMod](https://github.com/matanki-saito/Ck3JpMod)
+1. 🚀 Published release [v0.301.0](https://github.com/invopop/gobl/releases/tag/v0.301.0) in [invopop/gobl](https://github.com/invopop/gobl)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
