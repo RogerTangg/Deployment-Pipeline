@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7436](https://github.com/firebase/firebase-android-sdk/pull/7436#issuecomment-3366008550) in [firebase/firebase-android-sdk](https://github.com/firebase/firebase-android-sdk)
+1. 🗣 Commented on [#2004](https://github.com/celeritas-project/celeritas/pull/2004#issuecomment-3366292335) in [celeritas-project/celeritas](https://github.com/celeritas-project/celeritas)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
