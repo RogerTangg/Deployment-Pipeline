@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1022](https://github.com/itdojp/ae-framework/pull/1022#issuecomment-3367863680) in [itdojp/ae-framework](https://github.com/itdojp/ae-framework)
+1. 🔒 Closed issue [#2878](https://github.com/meshtastic/Meshtastic-Android/issues/2878) in [meshtastic/Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
