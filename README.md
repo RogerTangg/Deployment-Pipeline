@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10116](https://github.com/langflow-ai/langflow/pull/10116#issuecomment-3367782763) in [langflow-ai/langflow](https://github.com/langflow-ai/langflow)
+1. 🗣 Commented on [#1022](https://github.com/itdojp/ae-framework/pull/1022#issuecomment-3367863680) in [itdojp/ae-framework](https://github.com/itdojp/ae-framework)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
