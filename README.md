@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#956](https://github.com/TransactionProcessing/SecurityService/issues/956) in [TransactionProcessing/SecurityService](https://github.com/TransactionProcessing/SecurityService)
+1. 🗣 Commented on [#170](https://github.com/TransactionProcessing/EstateReportingAPI/issues/170#issuecomment-3366861998) in [TransactionProcessing/EstateReportingAPI](https://github.com/TransactionProcessing/EstateReportingAPI)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
