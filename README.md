@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2004](https://github.com/celeritas-project/celeritas/pull/2004#issuecomment-3366292335) in [celeritas-project/celeritas](https://github.com/celeritas-project/celeritas)
+1. 🗣 Commented on [#1520](https://github.com/kristof-mattei/advent-of-code-2022/pull/1520#issuecomment-3366427941) in [kristof-mattei/advent-of-code-2022](https://github.com/kristof-mattei/advent-of-code-2022)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
