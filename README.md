@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [b6684](https://github.com/ishandutta2007/llama.cpp/releases/tag/b6684) in [ishandutta2007/llama.cpp](https://github.com/ishandutta2007/llama.cpp)
+1. ❗ Opened issue [#956](https://github.com/TransactionProcessing/SecurityService/issues/956) in [TransactionProcessing/SecurityService](https://github.com/TransactionProcessing/SecurityService)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
