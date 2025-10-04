@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1520](https://github.com/kristof-mattei/advent-of-code-2022/pull/1520#issuecomment-3366427941) in [kristof-mattei/advent-of-code-2022](https://github.com/kristof-mattei/advent-of-code-2022)
+1. ❗ Opened issue [#824](https://github.com/TransactionProcessing/SecurityService/issues/824) in [TransactionProcessing/SecurityService](https://github.com/TransactionProcessing/SecurityService)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
