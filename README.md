@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1387](https://github.com/sveltejs/eslint-plugin-svelte/pull/1387#issuecomment-3367252297) in [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte)
+1. 🚀 Published release [Released on 202510032211](https://github.com/QXAzusa/geosite-and-geoip-dat/releases/tag/202510032211) in [QXAzusa/geosite-and-geoip-dat](https://github.com/QXAzusa/geosite-and-geoip-dat)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
