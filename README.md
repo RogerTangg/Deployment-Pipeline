@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Nikz16/skills-getting-started-with-github-copilot/issues/1#issuecomment-3368000267) in [Nikz16/skills-getting-started-with-github-copilot](https://github.com/Nikz16/skills-getting-started-with-github-copilot)
+1. 🚀 Published release [Aseprite-Windows-x64-v1.3.15.3](https://github.com/binbirbaris1-cmyk/auto-aseprite/releases/tag/v1.3.15.3) in [binbirbaris1-cmyk/auto-aseprite](https://github.com/binbirbaris1-cmyk/auto-aseprite)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
