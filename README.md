@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Released on 202510032211](https://github.com/QXAzusa/geosite-and-geoip-dat/releases/tag/202510032211) in [QXAzusa/geosite-and-geoip-dat](https://github.com/QXAzusa/geosite-and-geoip-dat)
+1. 🚀 Published release [IPQ60XX-WIFI-YES_openwrt-6.x.git-k6.12-nss_25.10.04_06.13.05](https://github.com/AltarsCN/Openwrt-CI/releases/tag/IPQ60XX-WIFI-YES_openwrt-6.x.git-k6.12-nss_25.10.04_06.13.05) in [AltarsCN/Openwrt-CI](https://github.com/AltarsCN/Openwrt-CI)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
