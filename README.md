@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Aseprite-Windows-x64-v1.3.15.3](https://github.com/binbirbaris1-cmyk/auto-aseprite/releases/tag/v1.3.15.3) in [binbirbaris1-cmyk/auto-aseprite](https://github.com/binbirbaris1-cmyk/auto-aseprite)
+1. 🗣 Commented on [#92](https://github.com/brstu/OTIS-2025/pull/92#issuecomment-3368102747) in [brstu/OTIS-2025](https://github.com/brstu/OTIS-2025)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
