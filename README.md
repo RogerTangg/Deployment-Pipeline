@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5354](https://github.com/theopensystemslab/planx-new/pull/5354#issuecomment-3367159324) in [theopensystemslab/planx-new](https://github.com/theopensystemslab/planx-new)
+1. 🗣 Commented on [#1387](https://github.com/sveltejs/eslint-plugin-svelte/pull/1387#issuecomment-3367252297) in [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
