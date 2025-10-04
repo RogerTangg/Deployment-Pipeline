@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/brstu/OTIS-2025/pull/92#issuecomment-3368102747) in [brstu/OTIS-2025](https://github.com/brstu/OTIS-2025)
+1. 🚀 Published release [Release v3.5.12](https://github.com/mqc393/DoudouBPB/releases/tag/v3.5.12) in [mqc393/DoudouBPB](https://github.com/mqc393/DoudouBPB)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
