@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [IPQ60XX-WIFI-YES_openwrt-6.x.git-k6.12-nss_25.10.04_06.13.05](https://github.com/AltarsCN/Openwrt-CI/releases/tag/IPQ60XX-WIFI-YES_openwrt-6.x.git-k6.12-nss_25.10.04_06.13.05) in [AltarsCN/Openwrt-CI](https://github.com/AltarsCN/Openwrt-CI)
+1. 🗣 Commented on [#2207](https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC/pull/2207#issuecomment-3367725630) in [UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC](https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
