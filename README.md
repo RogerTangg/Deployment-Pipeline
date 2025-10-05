@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ntocariuc-ext/skills-code-with-codespaces/issues/2#issuecomment-3368472087) in [ntocariuc-ext/skills-code-with-codespaces](https://github.com/ntocariuc-ext/skills-code-with-codespaces)
+1. 💪 Opened PR [#6](https://github.com/obeli-sk/obelisk-deploy-flyio/pull/6) in [obeli-sk/obelisk-deploy-flyio](https://github.com/obeli-sk/obelisk-deploy-flyio)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
