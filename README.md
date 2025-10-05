@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#301](https://github.com/Dregos13/ClientStatus/issues/301#issuecomment-3369051245) in [Dregos13/ClientStatus](https://github.com/Dregos13/ClientStatus)
+1. ❗ Opened issue [#69027](https://github.com/lotofissues/issues/issues/69027) in [lotofissues/issues](https://github.com/lotofissues/issues)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
