@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3287](https://github.com/small-big-wedding/uptime-checker/issues/3287) in [small-big-wedding/uptime-checker](https://github.com/small-big-wedding/uptime-checker)
+1. 🗣 Commented on [#37](https://github.com/yuanyuanyuan/codex-father/pull/37#issuecomment-3368984449) in [yuanyuanyuan/codex-father](https://github.com/yuanyuanyuan/codex-father)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
