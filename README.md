@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7541](https://github.com/hagezi/dns-blocklists/issues/7541#issuecomment-3368439935) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
+1. ❗ Opened issue [#843](https://github.com/daretechie/github-actions-ec2-pipeline/issues/843) in [daretechie/github-actions-ec2-pipeline](https://github.com/daretechie/github-actions-ec2-pipeline)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
