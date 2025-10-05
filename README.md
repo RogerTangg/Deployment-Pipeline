@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/shinnok69/Support/issues/30#issuecomment-3368550619) in [shinnok69/Support](https://github.com/shinnok69/Support)
+1. 🚀 Published release [MEDIATEK_immortalwrt.git-owrt_25.10.05_06.14.40](https://github.com/xuzhongliang13/OpenWRT-CI/releases/tag/MEDIATEK_immortalwrt.git-owrt_25.10.05_06.14.40) in [xuzhongliang13/OpenWRT-CI](https://github.com/xuzhongliang13/OpenWRT-CI)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
