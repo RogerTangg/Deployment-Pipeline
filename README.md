@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/obeli-sk/obelisk-deploy-flyio/pull/6) in [obeli-sk/obelisk-deploy-flyio](https://github.com/obeli-sk/obelisk-deploy-flyio)
+1. 🗣 Commented on [#1030](https://github.com/itdojp/ae-framework/pull/1030#issuecomment-3368514795) in [itdojp/ae-framework](https://github.com/itdojp/ae-framework)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
