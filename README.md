@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#843](https://github.com/daretechie/github-actions-ec2-pipeline/issues/843) in [daretechie/github-actions-ec2-pipeline](https://github.com/daretechie/github-actions-ec2-pipeline)
+1. 🗣 Commented on [#2](https://github.com/ntocariuc-ext/skills-code-with-codespaces/issues/2#issuecomment-3368472087) in [ntocariuc-ext/skills-code-with-codespaces](https://github.com/ntocariuc-ext/skills-code-with-codespaces)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
