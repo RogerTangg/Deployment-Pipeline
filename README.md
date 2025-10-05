@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#404](https://github.com/mrugges/flux-cluster/pull/404#issuecomment-3368363290) in [mrugges/flux-cluster](https://github.com/mrugges/flux-cluster)
+1. 🗣 Commented on [#7541](https://github.com/hagezi/dns-blocklists/issues/7541#issuecomment-3368439935) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
