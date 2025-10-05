@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [master](https://github.com/LonelyPasserby404/rustdesk/releases/tag/master) in [LonelyPasserby404/rustdesk](https://github.com/LonelyPasserby404/rustdesk)
+1. 🗣 Commented on [#404](https://github.com/mrugges/flux-cluster/pull/404#issuecomment-3368363290) in [mrugges/flux-cluster](https://github.com/mrugges/flux-cluster)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
