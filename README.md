@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#66911](https://github.com/lotofissues/issues/issues/66911) in [lotofissues/issues](https://github.com/lotofissues/issues)
+1. 🔒 Closed issue [#2998](https://github.com/zkitefly/upptime/issues/2998) in [zkitefly/upptime](https://github.com/zkitefly/upptime)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
