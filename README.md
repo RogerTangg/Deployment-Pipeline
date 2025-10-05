@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/NHSDigital/eligibility-signposting-api-regression-tests/pull/56#issuecomment-3368597423) in [NHSDigital/eligibility-signposting-api-regression-tests](https://github.com/NHSDigital/eligibility-signposting-api-regression-tests)
+1. 🗣 Commented on [#693](https://github.com/nginx/documentation/issues/693#issuecomment-3368675765) in [nginx/documentation](https://github.com/nginx/documentation)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
