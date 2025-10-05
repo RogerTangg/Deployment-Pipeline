@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1030](https://github.com/itdojp/ae-framework/pull/1030#issuecomment-3368514795) in [itdojp/ae-framework](https://github.com/itdojp/ae-framework)
+1. 🗣 Commented on [#30](https://github.com/shinnok69/Support/issues/30#issuecomment-3368550619) in [shinnok69/Support](https://github.com/shinnok69/Support)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
