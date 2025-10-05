@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#693](https://github.com/nginx/documentation/issues/693#issuecomment-3368675765) in [nginx/documentation](https://github.com/nginx/documentation)
+1. 💪 Opened PR [#165](https://github.com/thecrypticace/bun/pull/165) in [thecrypticace/bun](https://github.com/thecrypticace/bun)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
