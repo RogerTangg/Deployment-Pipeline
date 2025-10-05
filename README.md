@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#165](https://github.com/thecrypticace/bun/pull/165) in [thecrypticace/bun](https://github.com/thecrypticace/bun)
+1. 🗣 Commented on [#50](https://github.com/python-project-templates/python-template/pull/50#issuecomment-3368760312) in [python-project-templates/python-template](https://github.com/python-project-templates/python-template)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
