@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/yuanyuanyuan/codex-father/pull/37#issuecomment-3368984449) in [yuanyuanyuan/codex-father](https://github.com/yuanyuanyuan/codex-father)
+1. 🗣 Commented on [#301](https://github.com/Dregos13/ClientStatus/issues/301#issuecomment-3369051245) in [Dregos13/ClientStatus](https://github.com/Dregos13/ClientStatus)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
