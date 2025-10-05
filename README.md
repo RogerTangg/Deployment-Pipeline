@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#346](https://github.com/BarbourSmith/FluidNC/pull/346#issuecomment-3368166168) in [BarbourSmith/FluidNC](https://github.com/BarbourSmith/FluidNC)
+1. 🚀 Published release [master](https://github.com/LonelyPasserby404/rustdesk/releases/tag/master) in [LonelyPasserby404/rustdesk](https://github.com/LonelyPasserby404/rustdesk)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
