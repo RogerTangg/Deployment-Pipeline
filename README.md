@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#634](https://github.com/webdriverio-community/wdio-testrail-reporter/pull/634) in [webdriverio-community/wdio-testrail-reporter](https://github.com/webdriverio-community/wdio-testrail-reporter)
+1. 🗣 Commented on [#171](https://github.com/Skenvy/dispatch-suggestor/pull/171#issuecomment-3371804331) in [Skenvy/dispatch-suggestor](https://github.com/Skenvy/dispatch-suggestor)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
