@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [tranquill v1.6.8](https://github.com/tranquill-dev/tranquill/releases/tag/v1.6.8) in [tranquill-dev/tranquill](https://github.com/tranquill-dev/tranquill)
+1. 🚀 Published release [Latest](https://github.com/aarchd/images/releases/tag/latest) in [aarchd/images](https://github.com/aarchd/images)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
