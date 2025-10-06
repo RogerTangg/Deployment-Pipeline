@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [lambda-biocache-index-management-v0.0.19](https://github.com/inbo/inbo-vbp-pipeline/releases/tag/lambda-biocache-index-management-v0.0.19) in [inbo/inbo-vbp-pipeline](https://github.com/inbo/inbo-vbp-pipeline)
+1. 🗣 Commented on [#7628](https://github.com/fineanmol/Hacktoberfest2025/pull/7628#issuecomment-3370941522) in [fineanmol/Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
