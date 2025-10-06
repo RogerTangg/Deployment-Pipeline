@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AlbertoBHCLTech/skills-getting-started-with-github-copilot/issues/1#issuecomment-3371951593) in [AlbertoBHCLTech/skills-getting-started-with-github-copilot](https://github.com/AlbertoBHCLTech/skills-getting-started-with-github-copilot)
+1. 🗣 Commented on [#2641](https://github.com/Infomaniak/android-kMail/pull/2641#issuecomment-3372133279) in [Infomaniak/android-kMail](https://github.com/Infomaniak/android-kMail)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
