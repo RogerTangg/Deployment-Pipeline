@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#489](https://github.com/vshn/appcat/pull/489#issuecomment-3370292114) in [vshn/appcat](https://github.com/vshn/appcat)
+1. 🗣 Commented on [#3760](https://github.com/Altinn/app-frontend-react/pull/3760#issuecomment-3370393471) in [Altinn/app-frontend-react](https://github.com/Altinn/app-frontend-react)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
