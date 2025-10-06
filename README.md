@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#171](https://github.com/Skenvy/dispatch-suggestor/pull/171#issuecomment-3371804331) in [Skenvy/dispatch-suggestor](https://github.com/Skenvy/dispatch-suggestor)
+1. 🗣 Commented on [#1](https://github.com/AlbertoBHCLTech/skills-getting-started-with-github-copilot/issues/1#issuecomment-3371951593) in [AlbertoBHCLTech/skills-getting-started-with-github-copilot](https://github.com/AlbertoBHCLTech/skills-getting-started-with-github-copilot)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
