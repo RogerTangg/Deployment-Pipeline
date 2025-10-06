@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.1](https://github.com/hoetaek/doist/releases/tag/v0.4.1) in [hoetaek/doist](https://github.com/hoetaek/doist)
+1. 🎉 Merged PR [#634](https://github.com/webdriverio-community/wdio-testrail-reporter/pull/634) in [webdriverio-community/wdio-testrail-reporter](https://github.com/webdriverio-community/wdio-testrail-reporter)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
