@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1426](https://github.com/insanetim/the-movie-db/pull/1426) in [insanetim/the-movie-db](https://github.com/insanetim/the-movie-db)
+1. ❗ Opened issue [#73080](https://github.com/lotofissues/issues/issues/73080) in [lotofissues/issues](https://github.com/lotofissues/issues)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
