@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11837](https://github.com/axiomofjoy/phoenix/pull/11837) in [axiomofjoy/phoenix](https://github.com/axiomofjoy/phoenix)
+1. 🎉 Merged PR [#1426](https://github.com/insanetim/the-movie-db/pull/1426) in [insanetim/the-movie-db](https://github.com/insanetim/the-movie-db)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
