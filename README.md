@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7628](https://github.com/fineanmol/Hacktoberfest2025/pull/7628#issuecomment-3370941522) in [fineanmol/Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025)
+1. 🗣 Commented on [#88](https://github.com/softwareone-platform/mpt-api-python-client/pull/88#issuecomment-3371034206) in [softwareone-platform/mpt-api-python-client](https://github.com/softwareone-platform/mpt-api-python-client)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
