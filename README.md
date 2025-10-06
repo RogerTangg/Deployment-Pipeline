@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#545](https://github.com/lifinance/widget/pull/545#issuecomment-3370721311) in [lifinance/widget](https://github.com/lifinance/widget)
+1. 🚀 Published release [lambda-biocache-index-management-v0.0.19](https://github.com/inbo/inbo-vbp-pipeline/releases/tag/lambda-biocache-index-management-v0.0.19) in [inbo/inbo-vbp-pipeline](https://github.com/inbo/inbo-vbp-pipeline)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
