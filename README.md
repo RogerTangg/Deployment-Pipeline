@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8068](https://github.com/fineanmol/Hacktoberfest2025/pull/8068#issuecomment-3369165550) in [fineanmol/Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025)
+1. 🚀 Published release [Release 0.0.7](https://github.com/henryupton/tundra/releases/tag/0.0.7) in [henryupton/tundra](https://github.com/henryupton/tundra)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
