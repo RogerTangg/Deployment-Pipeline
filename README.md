@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.9](https://github.com/rhehfl/ai_talk/releases/tag/v1.0.9) in [rhehfl/ai_talk](https://github.com/rhehfl/ai_talk)
+1. 🚀 Published release [v0.4.1](https://github.com/hoetaek/doist/releases/tag/v0.4.1) in [hoetaek/doist](https://github.com/hoetaek/doist)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
