@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/softwareone-platform/mpt-api-python-client/pull/88#issuecomment-3371034206) in [softwareone-platform/mpt-api-python-client](https://github.com/softwareone-platform/mpt-api-python-client)
+1. 🚀 Published release [v1.0.9](https://github.com/rhehfl/ai_talk/releases/tag/v1.0.9) in [rhehfl/ai_talk](https://github.com/rhehfl/ai_talk)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
