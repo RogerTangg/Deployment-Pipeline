@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Latest](https://github.com/aarchd/images/releases/tag/latest) in [aarchd/images](https://github.com/aarchd/images)
+1. 💪 Opened PR [#11837](https://github.com/axiomofjoy/phoenix/pull/11837) in [axiomofjoy/phoenix](https://github.com/axiomofjoy/phoenix)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
