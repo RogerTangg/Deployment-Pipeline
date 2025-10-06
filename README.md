@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 0.0.7](https://github.com/henryupton/tundra/releases/tag/0.0.7) in [henryupton/tundra](https://github.com/henryupton/tundra)
+1. 🗣 Commented on [#1234](https://github.com/Cpluz/sitecheck-temp/issues/1234#issuecomment-3369400066) in [Cpluz/sitecheck-temp](https://github.com/Cpluz/sitecheck-temp)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
