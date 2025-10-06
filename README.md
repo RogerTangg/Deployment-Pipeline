@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1234](https://github.com/Cpluz/sitecheck-temp/issues/1234#issuecomment-3369400066) in [Cpluz/sitecheck-temp](https://github.com/Cpluz/sitecheck-temp)
+1. 🚀 Published release [tranquill v1.6.8](https://github.com/tranquill-dev/tranquill/releases/tag/v1.6.8) in [tranquill-dev/tranquill](https://github.com/tranquill-dev/tranquill)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
