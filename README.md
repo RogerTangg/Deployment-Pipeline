@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2025.10.07-2311 • X86_64 • 24.10.3](https://github.com/doa2011/OpenWRT-Action/releases/tag/X86_64-2025.10.07-2311) in [doa2011/OpenWRT-Action](https://github.com/doa2011/OpenWRT-Action)
+1. 🗣 Commented on [#39276](https://github.com/PostHog/posthog/pull/39276#issuecomment-3378416119) in [PostHog/posthog](https://github.com/PostHog/posthog)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
