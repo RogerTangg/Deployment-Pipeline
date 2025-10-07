@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20125](https://github.com/dd3tech/status-page/issues/20125) in [dd3tech/status-page](https://github.com/dd3tech/status-page)
+1. ❗ Opened issue [#77104](https://github.com/lotofissues/issues/issues/77104) in [lotofissues/issues](https://github.com/lotofissues/issues)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
