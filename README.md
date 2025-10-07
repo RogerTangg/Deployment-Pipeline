@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25630](https://github.com/microsoft/FluidFramework/pull/25630#issuecomment-3374668100) in [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework)
+1. 🗣 Commented on [#15675](https://github.com/MetaMask/metamask-mobile/pull/15675#issuecomment-3374734240) in [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
