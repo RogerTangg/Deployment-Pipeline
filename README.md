@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70526](https://github.com/digitalinnovationone/dio-lab-open-source/pull/70526) in [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
+1. 🗣 Commented on [#86](https://github.com/bgd-labs/uptime/issues/86#issuecomment-3373955379) in [bgd-labs/uptime](https://github.com/bgd-labs/uptime)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
