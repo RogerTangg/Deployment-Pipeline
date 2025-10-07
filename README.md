@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#642](https://github.com/Banabyte/status.banabyte.com/issues/642#issuecomment-3377684143) in [Banabyte/status.banabyte.com](https://github.com/Banabyte/status.banabyte.com)
+1. 🚀 Published release [master.lmde7](https://github.com/linuxmint/mint-themes/releases/tag/master.lmde7) in [linuxmint/mint-themes](https://github.com/linuxmint/mint-themes)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
