@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/Anxcye/anx-reader/issues/35#issuecomment-3374849052) in [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
+1. 💪 Opened PR [#16875](https://github.com/meysamzandy/lang/pull/16875) in [meysamzandy/lang](https://github.com/meysamzandy/lang)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
