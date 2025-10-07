@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1221](https://github.com/goochs/home-ops/pull/1221#issuecomment-3373447424) in [goochs/home-ops](https://github.com/goochs/home-ops)
+1. 🎉 Merged PR [#70526](https://github.com/digitalinnovationone/dio-lab-open-source/pull/70526) in [digitalinnovationone/dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
