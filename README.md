@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [master.lmde7](https://github.com/linuxmint/mint-themes/releases/tag/master.lmde7) in [linuxmint/mint-themes](https://github.com/linuxmint/mint-themes)
+1. 🗣 Commented on [#17303](https://github.com/goauthentik/authentik/pull/17303#issuecomment-3377824359) in [goauthentik/authentik](https://github.com/goauthentik/authentik)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
