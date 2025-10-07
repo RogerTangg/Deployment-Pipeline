@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15675](https://github.com/MetaMask/metamask-mobile/pull/15675#issuecomment-3374734240) in [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
+1. 🗣 Commented on [#35](https://github.com/Anxcye/anx-reader/issues/35#issuecomment-3374849052) in [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
