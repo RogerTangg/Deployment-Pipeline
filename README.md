@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16875](https://github.com/meysamzandy/lang/pull/16875) in [meysamzandy/lang](https://github.com/meysamzandy/lang)
+1. 🔒 Closed issue [#412](https://github.com/woowacourse-teams/2025-moitz/issues/412) in [woowacourse-teams/2025-moitz](https://github.com/woowacourse-teams/2025-moitz)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
