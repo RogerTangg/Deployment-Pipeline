@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#77104](https://github.com/lotofissues/issues/issues/77104) in [lotofissues/issues](https://github.com/lotofissues/issues)
+1. 🗣 Commented on [#25630](https://github.com/microsoft/FluidFramework/pull/25630#issuecomment-3374668100) in [microsoft/FluidFramework](https://github.com/microsoft/FluidFramework)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
