@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#623](https://github.com/tvv-lippu-ja-maksujarjestelma-oy/waltti-apc-journey-matcher/pull/623#issuecomment-3372733905) in [tvv-lippu-ja-maksujarjestelma-oy/waltti-apc-journey-matcher](https://github.com/tvv-lippu-ja-maksujarjestelma-oy/waltti-apc-journey-matcher)
+1. 🗣 Commented on [#82](https://github.com/apnea-scrap/apnea-scrap-lab/pull/82#issuecomment-3372970322) in [apnea-scrap/apnea-scrap-lab](https://github.com/apnea-scrap/apnea-scrap-lab)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
