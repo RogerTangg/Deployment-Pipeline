@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1142](https://github.com/nearform/mercurius-apollo-tracing/pull/1142) in [nearform/mercurius-apollo-tracing](https://github.com/nearform/mercurius-apollo-tracing)
+1. ❗ Opened issue [#20125](https://github.com/dd3tech/status-page/issues/20125) in [dd3tech/status-page](https://github.com/dd3tech/status-page)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
