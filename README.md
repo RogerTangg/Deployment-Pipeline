@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/bgd-labs/uptime/issues/86#issuecomment-3373955379) in [bgd-labs/uptime](https://github.com/bgd-labs/uptime)
+1. 🎉 Merged PR [#1142](https://github.com/nearform/mercurius-apollo-tracing/pull/1142) in [nearform/mercurius-apollo-tracing](https://github.com/nearform/mercurius-apollo-tracing)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
