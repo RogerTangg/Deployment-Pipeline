@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/earlyai/pull-request-test-generation/pull/81#issuecomment-3373108200) in [earlyai/pull-request-test-generation](https://github.com/earlyai/pull-request-test-generation)
+1. 🗣 Commented on [#1221](https://github.com/goochs/home-ops/pull/1221#issuecomment-3373447424) in [goochs/home-ops](https://github.com/goochs/home-ops)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
