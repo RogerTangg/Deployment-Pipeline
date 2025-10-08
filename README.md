@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/minademian/minademian.com-v2/pull/9#issuecomment-3379486576) in [minademian/minademian.com-v2](https://github.com/minademian/minademian.com-v2)
+1. 🗣 Commented on [#6620](https://github.com/DataDog/dd-trace-js/pull/6620#issuecomment-3379584539) in [DataDog/dd-trace-js](https://github.com/DataDog/dd-trace-js)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
