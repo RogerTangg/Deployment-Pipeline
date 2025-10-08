@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2025.10.08.00.03](https://github.com/curseforge-mirror/atlas-battlegrounds/releases/tag/v2025.10.08.00.03) in [curseforge-mirror/atlas-battlegrounds](https://github.com/curseforge-mirror/atlas-battlegrounds)
+1. 🚀 Published release [v1.26.0](https://github.com/guessi/kubectl-grep/releases/tag/v1.26.0) in [guessi/kubectl-grep](https://github.com/guessi/kubectl-grep)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
