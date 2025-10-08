@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#85556](https://github.com/lotofissues/issues/issues/85556) in [lotofissues/issues](https://github.com/lotofissues/issues)
+1. 🎉 Merged PR [#289](https://github.com/CodeEditorLand/Water/pull/289) in [CodeEditorLand/Water](https://github.com/CodeEditorLand/Water)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
