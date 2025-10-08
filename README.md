@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1133](https://github.com/TransactionProcessing/TransactionProcessor/issues/1133#issuecomment-3380719232) in [TransactionProcessing/TransactionProcessor](https://github.com/TransactionProcessing/TransactionProcessor)
+1. 🔒 Closed issue [#31](https://github.com/yurake/pptx_generator/issues/31) in [yurake/pptx_generator](https://github.com/yurake/pptx_generator)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
