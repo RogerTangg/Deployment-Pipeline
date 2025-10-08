@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#687](https://github.com/infitx-org/profile-cd/pull/687) in [infitx-org/profile-cd](https://github.com/infitx-org/profile-cd)
+1. 🚀 Published release [v1.2.1](https://github.com/dagimg-dot/cvm/releases/tag/v1.2.1) in [dagimg-dot/cvm](https://github.com/dagimg-dot/cvm)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
