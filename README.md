@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.0.0](https://github.com/gr2m/github-enterprise-server-versions/releases/tag/v3.0.0) in [gr2m/github-enterprise-server-versions](https://github.com/gr2m/github-enterprise-server-versions)
+1. 🚀 Published release [Released on 202510072222](https://github.com/911061873/v2ray-rules-dat/releases/tag/202510072222) in [911061873/v2ray-rules-dat](https://github.com/911061873/v2ray-rules-dat)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
