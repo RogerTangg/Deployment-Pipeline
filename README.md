@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39276](https://github.com/PostHog/posthog/pull/39276#issuecomment-3378416119) in [PostHog/posthog](https://github.com/PostHog/posthog)
+1. 🗣 Commented on [#1137](https://github.com/gnknzm/crss.gnknzm.net/issues/1137#issuecomment-3378643029) in [gnknzm/crss.gnknzm.net](https://github.com/gnknzm/crss.gnknzm.net)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
