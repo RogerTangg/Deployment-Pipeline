@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1889](https://github.com/digdir/release.digdir.no/pull/1889) in [digdir/release.digdir.no](https://github.com/digdir/release.digdir.no)
+1. 🚀 Published release [speckle-server-2.26.3-alpha.1199](https://github.com/specklesystems/helm/releases/tag/speckle-server-2.26.3-alpha.1199) in [specklesystems/helm](https://github.com/specklesystems/helm)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
