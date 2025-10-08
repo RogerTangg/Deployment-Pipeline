@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#918](https://github.com/jcowhigjr/yelp_search_demo/pull/918#issuecomment-3381213471) in [jcowhigjr/yelp_search_demo](https://github.com/jcowhigjr/yelp_search_demo)
+1. 💪 Opened PR [#687](https://github.com/infitx-org/profile-cd/pull/687) in [infitx-org/profile-cd](https://github.com/infitx-org/profile-cd)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
