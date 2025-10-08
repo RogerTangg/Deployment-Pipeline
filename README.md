@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [IPQ60XX-RE-CS-02-VIKINGYFY-main-25.10.08-06.20.49](https://github.com/StarryskyLL/OpenWRT-CI/releases/tag/IPQ60XX-RE-CS-02-VIKINGYFY-main-25.10.08-06.20.49) in [StarryskyLL/OpenWRT-CI](https://github.com/StarryskyLL/OpenWRT-CI)
+1. 🚀 Published release [v2025.10.08.00.03](https://github.com/curseforge-mirror/atlas-battlegrounds/releases/tag/v2025.10.08.00.03) in [curseforge-mirror/atlas-battlegrounds](https://github.com/curseforge-mirror/atlas-battlegrounds)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
