@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#31](https://github.com/yurake/pptx_generator/issues/31) in [yurake/pptx_generator](https://github.com/yurake/pptx_generator)
+1. 🚀 Published release [Release v29.0.19](https://github.com/adolfokrah/konto/releases/tag/v29.0.19) in [adolfokrah/konto](https://github.com/adolfokrah/konto)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
