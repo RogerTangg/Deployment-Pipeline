@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v29.0.19](https://github.com/adolfokrah/konto/releases/tag/v29.0.19) in [adolfokrah/konto](https://github.com/adolfokrah/konto)
+1. 🗣 Commented on [#18648](https://github.com/RROrg/rr/issues/18648#issuecomment-3381060624) in [RROrg/rr](https://github.com/RROrg/rr)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
