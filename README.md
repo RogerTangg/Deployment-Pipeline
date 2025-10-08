@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1137](https://github.com/gnknzm/crss.gnknzm.net/issues/1137#issuecomment-3378643029) in [gnknzm/crss.gnknzm.net](https://github.com/gnknzm/crss.gnknzm.net)
+1. 🚀 Published release [v3.0.0](https://github.com/gr2m/github-enterprise-server-versions/releases/tag/v3.0.0) in [gr2m/github-enterprise-server-versions](https://github.com/gr2m/github-enterprise-server-versions)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
