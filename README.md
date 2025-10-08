@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6620](https://github.com/DataDog/dd-trace-js/pull/6620#issuecomment-3379584539) in [DataDog/dd-trace-js](https://github.com/DataDog/dd-trace-js)
+1. 🚀 Published release [v2025.10.08.06.01](https://github.com/curseforge-mirror/proultragraphics/releases/tag/v2025.10.08.06.01) in [curseforge-mirror/proultragraphics](https://github.com/curseforge-mirror/proultragraphics)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
