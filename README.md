@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#289](https://github.com/CodeEditorLand/Water/pull/289) in [CodeEditorLand/Water](https://github.com/CodeEditorLand/Water)
+1. 🗣 Commented on [#1133](https://github.com/TransactionProcessing/TransactionProcessor/issues/1133#issuecomment-3380719232) in [TransactionProcessing/TransactionProcessor](https://github.com/TransactionProcessing/TransactionProcessor)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
