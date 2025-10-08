@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2025.10.08.06.01](https://github.com/curseforge-mirror/proultragraphics/releases/tag/v2025.10.08.06.01) in [curseforge-mirror/proultragraphics](https://github.com/curseforge-mirror/proultragraphics)
+1. ❗ Opened issue [#84994](https://github.com/lotofissues/issues/issues/84994) in [lotofissues/issues](https://github.com/lotofissues/issues)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
