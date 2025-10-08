@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.26.0](https://github.com/guessi/kubectl-grep/releases/tag/v1.26.0) in [guessi/kubectl-grep](https://github.com/guessi/kubectl-grep)
+1. 🗣 Commented on [#9](https://github.com/minademian/minademian.com-v2/pull/9#issuecomment-3379486576) in [minademian/minademian.com-v2](https://github.com/minademian/minademian.com-v2)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
