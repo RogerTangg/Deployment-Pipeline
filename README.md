@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Released on 202510072222](https://github.com/911061873/v2ray-rules-dat/releases/tag/202510072222) in [911061873/v2ray-rules-dat](https://github.com/911061873/v2ray-rules-dat)
+1. 🚀 Published release [IPQ60XX-RE-CS-02-VIKINGYFY-main-25.10.08-06.20.49](https://github.com/StarryskyLL/OpenWRT-CI/releases/tag/IPQ60XX-RE-CS-02-VIKINGYFY-main-25.10.08-06.20.49) in [StarryskyLL/OpenWRT-CI](https://github.com/StarryskyLL/OpenWRT-CI)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
