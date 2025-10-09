@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#92372](https://github.com/lotofissues/issues/issues/92372) in [lotofissues/issues](https://github.com/lotofissues/issues)
+1. 🎉 Merged PR [#361](https://github.com/IBM-Cloud/cloud-provider-ibm/pull/361) in [IBM-Cloud/cloud-provider-ibm](https://github.com/IBM-Cloud/cloud-provider-ibm)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
