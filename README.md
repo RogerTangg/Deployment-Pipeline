@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#361](https://github.com/IBM-Cloud/cloud-provider-ibm/pull/361) in [IBM-Cloud/cloud-provider-ibm](https://github.com/IBM-Cloud/cloud-provider-ibm)
+1. 🚀 Published release [Release v1.0.7](https://github.com/felipec84/SimpleMailShareHelper/releases/tag/v1.0.7) in [felipec84/SimpleMailShareHelper](https://github.com/felipec84/SimpleMailShareHelper)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
