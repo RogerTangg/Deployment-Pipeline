@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/meenathillainataraj-jpg/skills-introduction-to-github/issues/1#issuecomment-3382033037) in [meenathillainataraj-jpg/skills-introduction-to-github](https://github.com/meenathillainataraj-jpg/skills-introduction-to-github)
+1. 🎉 Merged PR [#339](https://github.com/feedbackfruits/eslint-config/pull/339) in [feedbackfruits/eslint-config](https://github.com/feedbackfruits/eslint-config)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
