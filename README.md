@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1200](https://github.com/hmcts/auto-shutdown/issues/1200#issuecomment-3385542880) in [hmcts/auto-shutdown](https://github.com/hmcts/auto-shutdown)
+1. 🗣 Commented on [#3411](https://github.com/pagopa/pagopa-infra/pull/3411#issuecomment-3385635666) in [pagopa/pagopa-infra](https://github.com/pagopa/pagopa-infra)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
