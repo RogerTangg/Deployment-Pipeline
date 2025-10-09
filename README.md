@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.6.1](https://github.com/glieske/gossm/releases/tag/v1.6.1) in [glieske/gossm](https://github.com/glieske/gossm)
+1. 🗣 Commented on [#29](https://github.com/breardon2011/demo-opentofu/pull/29#issuecomment-3382632792) in [breardon2011/demo-opentofu](https://github.com/breardon2011/demo-opentofu)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
