@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37761](https://github.com/microsoft/playwright/pull/37761#issuecomment-3385368808) in [microsoft/playwright](https://github.com/microsoft/playwright)
+1. 🗣 Commented on [#1200](https://github.com/hmcts/auto-shutdown/issues/1200#issuecomment-3385542880) in [hmcts/auto-shutdown](https://github.com/hmcts/auto-shutdown)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
