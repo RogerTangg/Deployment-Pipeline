@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#339](https://github.com/feedbackfruits/eslint-config/pull/339) in [feedbackfruits/eslint-config](https://github.com/feedbackfruits/eslint-config)
+1. 🗣 Commented on [#24065](https://github.com/bigbluebutton/bigbluebutton/pull/24065#issuecomment-3382196172) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
