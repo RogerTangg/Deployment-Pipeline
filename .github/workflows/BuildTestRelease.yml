@@ -65,4 +65,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "✅ Tests passed. Releasing new dev build..."
-          gh release create "dev-$(date +%s)" build/* --notes "Automated release after successful tests"
+          cd build
+          tar -czf ../deployment-package.tar.gz .
+          cd ..
+          gh release create "dev-$(date +%s)" deployment-package.tar.gz --notes "Automated release after successful tests"
