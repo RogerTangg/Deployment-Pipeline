@@ -1,22 +1,22 @@
 # 部署流水線作業 (Deployment Pipeline Assignment)
 
-展示使用 GitHub Actions 進行多階段部署流水線的 Node.js 範例專案。此專案包含完整的 CI/CD 自動化流程。
+展示使用 GitHub Actions 進行 CI/CD 部署流水線的 Node.js 範例專案。此專案包含完整的建置、測試、發布自動化流程。
 
-A Node.js sample project demonstrating multi-stage deployment pipeline using GitHub Actions, featuring complete CI/CD automation workflows.
+A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Actions, featuring complete build, test, and release automation workflows.
 
 ## 最近活動
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v1.6.1](https://github.com/mikezhouhan/gank-interview-client-releases/releases/tag/v1.6.1) in [mikezhouhan/gank-interview-client-releases](https://github.com/mikezhouhan/gank-interview-client-releases)
 <!--END_SECTION:activity-->
 
-<!-- ## 📋 專案概述 (Project Overview)
+## 📋 專案概述 (Project Overview)
 
 這個專案展示了現代軟體開發中的持續整合與持續部署 (CI/CD) 實務，包含：
 
 - **Express.js REST API** - 簡潔的 Web 服務應用程式
 - **自動化測試** - 使用 Jest 進行單元測試與 API 測試
 - **程式碼品質控制** - ESLint 代碼風格檢查
-- **多階段部署流水線** - 開發、測試、生產環境的自動化部署
+- **自動化建置流水線** - Build-Test-Release 完整流程
 - **GitHub Actions 工作流程** - 完整的 CI/CD 自動化
 
 ## 🏗️ 專案架構 (Project Structure)
@@ -24,8 +24,9 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 ```
 deployment-pipeline/
 ├── .github/workflows/          # GitHub Actions 工作流程檔案
-│   ├── deploy.yml             # 簡化版部署流水線 (A 級作業)
-│   └── cicd.yml              # 完整版 CI/CD 流水線 (E 級作業)
+│   ├── BuildTestRelease.yml   # 建置-測試-發布流水線
+│   ├── update-readme.yml      # README 自動更新
+│   └── cicd.yml              # 多環境 CI/CD 流水線
 ├── src/                       # 原始程式碼
 │   └── index.js              # Express.js 主應用程式
 ├── tests/                     # 測試檔案
@@ -130,55 +131,60 @@ deployment-pipeline/
 
 ## 🔄 CI/CD 流水線 (CI/CD Pipelines)
 
-### 簡化版流水線 (Simplified Pipeline) - `deploy.yml`
+### 主要工作流程 (Main Workflow) - `BuildTestRelease.yml`
 
-**適用對象：** A 級作業要求  
 **觸發條件：** 推送至 main 分支 或 手動觸發
 
 **流程階段：**
+
 1. **建置階段 (Build Stage)**
    - 程式碼檢出 (Code Checkout)
-   - Node.js 環境設定
-   - 相依套件安裝
-   - 程式碼風格檢查 (Linting)
-   - 單元測試執行
-   - 應用程式建置
-   - 建置產物打包
+   - Node.js 18 環境設定
+   - 相依套件安裝 (`npm ci`)
+   - 執行建置腳本 (`npm run build`)
+   - 建置產物上傳 (Upload build artifact)
 
-2. **部署階段 (Deploy Stage)**
-   - 建置產物下載
-   - GitHub Release 建立
-   - 開發環境部署標記
+2. **測試階段 (Test Stage)**
+   - 下載建置產物
+   - 執行自動化測試 (`npm test`)
+   - 測試失敗時終止流程
 
-### 完整版流水線 (Complete Pipeline) - `cicd.yml`
+3. **發布階段 (Release Stage)**
+   - 在 `dev` 環境執行
+   - 創建部署包 (`deployment-package.tar.gz`)
+   - 自動建立 GitHub Release
+   - 上傳部署檔案
 
-**適用對象：** E 級作業要求  
+### 多環境流水線 (Multi-Environment Pipeline) - `cicd.yml`
+
+**適用對象：** 進階多環境部署  
 **觸發條件：** 
-- 推送至 main 分支（僅執行開發環境部署）
-- 手動觸發（執行完整流程）
+- 推送至 main 分支（自動執行 Dev 部署）
+- 手動觸發（可執行 Staging 和 Production 部署）
 
 **流程階段：**
 
-1. **建置階段 (Build Stage)**
+1. **建置與打包 (Build & Package)**
    - 完整的程式碼品質檢查
-   - 測試覆蓋率分析
-   - 版本管理
-   - 建置產物建立
+   - 版本管理與 Artifact 建立
 
 2. **開發環境部署 (Development Deployment)**
    - 自動觸發（推送時）
    - 建立 Pre-release
-   - 開發環境標記
 
 3. **測試環境部署 (Staging Deployment)**
-   - 手動觸發
+   - 手動觸發工作流程
    - 測試環境驗證
-   - 預生產環境準備
 
 4. **生產環境部署 (Production Deployment)**
+   - 手動觸發工作流程
    - **需要人工審核** ⚠️
-   - 生產環境部署
-   - 最終版本發佈
+   - 正式版本發佈
+
+### README 自動更新 - `update-readme.yml`
+
+**功能：** 自動更新 README 中的最近活動區塊  
+**觸發時間：** 每小時執行一次 或 手動觸發
 
 ## 🌍 GitHub 環境設定 (GitHub Environments)
 
@@ -247,29 +253,38 @@ npm test -- --coverage
 | `BUILD_TAG` | 建置標籤 | `local-build` |
 | `RELEASE_NOTE` | 發布說明 | `Local development build` |
 
-## 📝 作業完成指南 (Assignment Completion Guide)
+## 📝 使用指南 (Usage Guide)
 
-### A 級作業 (Basic Requirements)
-1. ✅ 使用 `deploy.yml` 工作流程
-2. ✅ 設定 `dev` 環境變數
-3. ✅ 推送程式碼觸發自動部署
-4. ✅ 驗證 GitHub Release 建立成功
+### 基本工作流程 (Basic Workflow)
 
-### E 級作業 (Advanced Requirements)
-1. ✅ 使用 `cicd.yml` 完整工作流程
-2. ✅ 設定三個環境 (dev, staging, production)
-3. ✅ 配置生產環境保護規則
-4. ✅ 測試手動工作流程觸發
-5. ✅ 驗證審核流程運作
-6. ✅ 確認多階段部署成功
+1. **自動觸發 (Push 到 main 分支)**
+   ```bash
+   git add .
+   git commit -m "feat: 新增功能"
+   git push origin main
+   ```
+   - 自動執行 `BuildTestRelease.yml` 工作流程
+   - 通過測試後自動建立 Dev Release
 
-### O 級作業 (Outstanding Requirements)
-進階功能擴展建議：
-- 🔄 動態版本號自動遞增
-- 📧 Slack/Email 部署通知
-- 🧪 多 Node.js 版本矩陣測試
-- 🔙 自動回滚機制
-- 📊 部署狀態儀表板
+2. **手動觸發進階部署**
+   - 前往 GitHub Actions 頁面
+   - 選擇 `CI/CD Deployment Pipeline`
+   - 點擊 `Run workflow`
+   - 輸入可選的版本號和發布說明
+   - 可部署到 Staging 或 Production 環境
+
+### 建置產物說明 (Build Artifacts)
+
+**建置腳本 (`scripts/build.js`) 會產生：**
+- `build/src/` - 應用程式原始碼
+- `build/package.json` - 生產環境用的簡化配置
+- `build/build-info.json` - 建置資訊和版本詳細
+- `build/*.tgz` - 打包的部署檔案
+
+**GitHub Release 包含：**
+- `deployment-package.tar.gz` - 完整的部署包
+- 自動產生的版本標籤（格式：`dev-{timestamp}`）
+- 建置說明和環境資訊
 
 ## � 專案特色 (Project Features)
 
@@ -292,11 +307,28 @@ npm test -- --coverage
 
 此專案採用 MIT 授權條款 - 詳見 [LICENSE](LICENSE) 檔案
 
-## 🆘 常見問題與排除 (Troubleshooting)
+## 🔧 故障排除 (Troubleshooting)
 
-### 常見問題 (Common Issues)
+### GitHub Actions 常見問題
 
-1. **測試失敗**
+1. **Artifact 找不到錯誤**
+   ```
+   Error: Unable to download artifact(s): Artifact not found
+   ```
+   **解決方案：** 確保 build job 成功完成，檢查建置腳本是否正確產生 `build/` 目錄
+
+2. **權限錯誤 (HTTP 403)**
+   ```
+   HTTP 403: Resource not accessible by integration
+   ```
+   **解決方案：** 確認工作流程檔案中包含適當的權限設定：
+   ```yaml
+   permissions:
+     contents: write
+     deployments: write
+   ```
+
+3. **測試失敗**
    ```bash
    # 確保安裝所有相依套件
    npm install
@@ -304,22 +336,17 @@ npm test -- --coverage
    npm cache clean --force
    ```
 
-2. **建置錯誤**
+4. **建置錯誤**
    ```bash
    # 檢查 Node.js 版本（需要 16+）
    node --version
    ```
 
-3. **工作流程失敗**
-   - 確認環境變數正確設定
-   - 檢查 GitHub token 權限
-   - 驗證分支保護規則
-
-4. **部署權限錯誤**
-   - 確認 GITHUB_TOKEN 權限
-   - 檢查環境保護設定
-   - 驗證審核者設定
+5. **Release 建立失敗**
+   - 確認 `GITHUB_TOKEN` 有適當權限
+   - 檢查是否嘗試上傳目錄而非檔案
+   - 驗證檔案路徑是否正確
 
 ---
 
-*最後更新：2024年10月 | Last Updated: October 2024*
+*最後更新：2025年10月 | Last Updated: October 2025*
