@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0](https://github.com/paulscherrerinstitute/data_board_frontend/releases/tag/v1.2.0) in [paulscherrerinstitute/data_board_frontend](https://github.com/paulscherrerinstitute/data_board_frontend)
+1. 🗣 Commented on [#1](https://github.com/meenathillainataraj-jpg/skills-introduction-to-github/issues/1#issuecomment-3382033037) in [meenathillainataraj-jpg/skills-introduction-to-github](https://github.com/meenathillainataraj-jpg/skills-introduction-to-github)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
