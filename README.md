@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#313](https://github.com/TEAM-HOUME/HOUME-SERVER/pull/313#issuecomment-3386167247) in [TEAM-HOUME/HOUME-SERVER](https://github.com/TEAM-HOUME/HOUME-SERVER)
+1. 🎉 Merged PR [#25966](https://github.com/3bsalam-1/MountainCar/pull/25966) in [3bsalam-1/MountainCar](https://github.com/3bsalam-1/MountainCar)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
