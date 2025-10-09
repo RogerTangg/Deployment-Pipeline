@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24065](https://github.com/bigbluebutton/bigbluebutton/pull/24065#issuecomment-3382196172) in [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton)
+1. ❗ Opened issue [#1786](https://github.com/scottlepp/gen/issues/1786) in [scottlepp/gen](https://github.com/scottlepp/gen)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
