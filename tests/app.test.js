@@ -5,13 +5,16 @@ const { sum } = require('../src/sum')
 console.log('🔎 Running automated tests...')
 /* eslint-enable no-console */
 
-// 檢查是否在 GitHub Action 的 Test 階段
-const isGitHubActionTestStage = process.env.GITHUB_ACTIONS === 'true' &&
-                               process.env.GITHUB_WORKFLOW
+// 透過 GITHUB_JOB 環境變數，精準判斷是否在 GitHub Action 的 "test" job 中
+const isTestJob = process.env.GITHUB_JOB === 'test'
+
+/* eslint-disable no-console */
+console.log(`目前環境: ${isTestJob ? 'GitHub Action Test Job' : '本地環境或 Build Job'}, GITHUB_JOB = ${process.env.GITHUB_JOB || '未設定'}`)
+/* eslint-enable no-console */
 
 try {
-  if (isGitHubActionTestStage) {
-    // ❌ 在 GitHub Action Test 階段故意失敗
+  if (isTestJob) {
+    // ❌ 在 GitHub Action 的 "test" job 中故意失敗
     assert.strictEqual(sum(1, 2), 4) // 故意錯的期待值，會失敗
   } else {
     // ✅ 在本地環境和 Build 階段通過
