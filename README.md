@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3411](https://github.com/pagopa/pagopa-infra/pull/3411#issuecomment-3385635666) in [pagopa/pagopa-infra](https://github.com/pagopa/pagopa-infra)
+1. ❗ Opened issue [#92372](https://github.com/lotofissues/issues/issues/92372) in [lotofissues/issues](https://github.com/lotofissues/issues)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
