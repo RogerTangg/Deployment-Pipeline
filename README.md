@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#882](https://github.com/embrace-io/embrace-web-sdk/pull/882#issuecomment-3382789359) in [embrace-io/embrace-web-sdk](https://github.com/embrace-io/embrace-web-sdk)
+1. 🗣 Commented on [#37761](https://github.com/microsoft/playwright/pull/37761#issuecomment-3385368808) in [microsoft/playwright](https://github.com/microsoft/playwright)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
