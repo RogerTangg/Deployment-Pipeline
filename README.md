@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25966](https://github.com/3bsalam-1/MountainCar/pull/25966) in [3bsalam-1/MountainCar](https://github.com/3bsalam-1/MountainCar)
+1. 🎉 Merged PR [#17](https://github.com/regues-796/flow/pull/17) in [regues-796/flow](https://github.com/regues-796/flow)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
