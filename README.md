@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v1.0.7](https://github.com/felipec84/SimpleMailShareHelper/releases/tag/v1.0.7) in [felipec84/SimpleMailShareHelper](https://github.com/felipec84/SimpleMailShareHelper)
+1. 🗣 Commented on [#402](https://github.com/TuringLang/JuliaBUGS.jl/pull/402#issuecomment-3385971599) in [TuringLang/JuliaBUGS.jl](https://github.com/TuringLang/JuliaBUGS.jl)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
