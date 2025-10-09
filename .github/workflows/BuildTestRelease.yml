@@ -23,7 +23,7 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: build-artifact
-          path: dist/
+          path: build/
 
   test:
     runs-on: ubuntu-latest
@@ -40,7 +40,7 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           name: build-artifact
-          path: dist/
+          path: build/
       - name: Run Automated Tests
         run: |
           echo "Running automated tests..."
@@ -55,10 +55,10 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           name: build-artifact
-          path: dist/
+          path: build/
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "✅ Tests passed. Releasing new dev build..."
-          gh release create "dev-$(date +%s)" dist/* --notes "Automated release after successful tests"
+          gh release create "dev-$(date +%s)" build/* --notes "Automated release after successful tests"
