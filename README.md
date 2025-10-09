@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1524](https://github.com/neurodesk/neurocontainers/issues/1524#issuecomment-3364589110) in [neurodesk/neurocontainers](https://github.com/neurodesk/neurocontainers)
+1. 🚀 Published release [v1.6.1](https://github.com/mikezhouhan/gank-interview-client-releases/releases/tag/v1.6.1) in [mikezhouhan/gank-interview-client-releases](https://github.com/mikezhouhan/gank-interview-client-releases)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
