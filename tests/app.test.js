@@ -10,7 +10,9 @@ const assert = require('assert')
 const request = require('supertest')
 const app = require('../src/index')
 
+/* eslint-disable no-console */
 console.log('🔎 Running automated tests...')
+/* eslint-enable no-console */
 
 // API 端點測試群組
 describe('API Endpoints', () => {
@@ -50,17 +52,21 @@ describe('API Endpoints', () => {
       const response = await request(app).get('/api/info')
 
       expect(response.status).toBe(200)
-      
+
       try {
         // ❌ 使用 assert 進行故意失敗的測試
         assert.strictEqual(response.body.name, 'Wrong App Name') // 故意錯的期待值，會失敗
+        /* eslint-disable no-console */
         console.log('✅ Assert test passed (this should not appear)')
+        /* eslint-enable no-console */
       } catch (err) {
+        /* eslint-disable no-console */
         console.error('❌ Assert test failed:', err.message)
+        /* eslint-enable no-console */
         // 重新拋出錯誤讓 Jest 捕獲
         throw err
       }
-      
+
       expect(response.body).toHaveProperty('description')
       expect(response.body).toHaveProperty('environment')
       expect(response.body).toHaveProperty('version')
