@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.9](https://github.com/lukos/postfix_watcher/releases/tag/v0.1.9) in [lukos/postfix_watcher](https://github.com/lukos/postfix_watcher)
+1. 🗣 Commented on [#313](https://github.com/TEAM-HOUME/HOUME-SERVER/pull/313#issuecomment-3386167247) in [TEAM-HOUME/HOUME-SERVER](https://github.com/TEAM-HOUME/HOUME-SERVER)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
