@@ -6,7 +6,7 @@ A Node.js sample project demonstrating multi-stage deployment pipeline using Git
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release sha-51f8c64e7a939796018bdbabaa20cc6d29366cd1](https://github.com/daniel-hauser/moneyman/releases/tag/sha-51f8c64e7a939796018bdbabaa20cc6d29366cd1) in [daniel-hauser/moneyman](https://github.com/daniel-hauser/moneyman)
+1. 🚀 Published release [v1.2.0](https://github.com/paulscherrerinstitute/data_board_frontend/releases/tag/v1.2.0) in [paulscherrerinstitute/data_board_frontend](https://github.com/paulscherrerinstitute/data_board_frontend)
 <!--END_SECTION:activity-->
 
 <!-- ## 📋 專案概述 (Project Overview)
