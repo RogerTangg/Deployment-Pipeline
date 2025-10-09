@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#402](https://github.com/TuringLang/JuliaBUGS.jl/pull/402#issuecomment-3385971599) in [TuringLang/JuliaBUGS.jl](https://github.com/TuringLang/JuliaBUGS.jl)
+1. 🚀 Published release [v0.1.9](https://github.com/lukos/postfix_watcher/releases/tag/v0.1.9) in [lukos/postfix_watcher](https://github.com/lukos/postfix_watcher)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
