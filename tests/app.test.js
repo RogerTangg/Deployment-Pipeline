@@ -1,13 +1,19 @@
-const assert = require('assert');
-const { sum } = require('../src/sum');
+const assert = require('assert')
+const { sum } = require('../src/sum')
 
-console.log('🔎 Running automated tests...');
+/* eslint-disable no-console */
+console.log('🔎 Running automated tests...')
+/* eslint-enable no-console */
 
 try {
-  assert.strictEqual(sum(1, 2), 4); // ❌ 故意錯的期待值，會失敗
-  console.log('✅ All tests passed.');
-  process.exit(0);
+  assert.strictEqual(sum(1, 2), 4) // ❌ 故意錯的期待值，會失敗
+  /* eslint-disable no-console */
+  console.log('✅ All tests passed.')
+  /* eslint-enable no-console */
+  process.exit(0)
 } catch (err) {
-  console.error('❌ Test failed:', err.message);
-  process.exit(1);
+  /* eslint-disable no-console */
+  console.error('❌ Test failed:', err.message)
+  /* eslint-enable no-console */
+  process.exit(1)
 }
