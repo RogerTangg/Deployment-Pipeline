@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.17](https://github.com/JuliaIO/DiskArrays.jl/releases/tag/v0.4.17) in [JuliaIO/DiskArrays.jl](https://github.com/JuliaIO/DiskArrays.jl)
+1. 🗣 Commented on [#882](https://github.com/embrace-io/embrace-web-sdk/pull/882#issuecomment-3382789359) in [embrace-io/embrace-web-sdk](https://github.com/embrace-io/embrace-web-sdk)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
