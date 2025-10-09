@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Software Release API Cache](https://github.com/pangzhaoyhy/openwrt-passwall-packages/releases/tag/api-cache) in [pangzhaoyhy/openwrt-passwall-packages](https://github.com/pangzhaoyhy/openwrt-passwall-packages)
+1. 🗣 Commented on [#62686](https://github.com/metabase/metabase/pull/62686#issuecomment-3386699152) in [metabase/metabase](https://github.com/metabase/metabase)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
