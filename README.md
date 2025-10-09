@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/regues-796/flow/pull/17) in [regues-796/flow](https://github.com/regues-796/flow)
+1. 🚀 Published release [Software Release API Cache](https://github.com/pangzhaoyhy/openwrt-passwall-packages/releases/tag/api-cache) in [pangzhaoyhy/openwrt-passwall-packages](https://github.com/pangzhaoyhy/openwrt-passwall-packages)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
