@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14502](https://github.com/trunk-io/flake-farm/pull/14502) in [trunk-io/flake-farm](https://github.com/trunk-io/flake-farm)
+1. ❗ Opened issue [#1](https://github.com/yuq149/skills-getting-started-with-github-copilot/issues/1) in [yuq149/skills-getting-started-with-github-copilot](https://github.com/yuq149/skills-getting-started-with-github-copilot)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
