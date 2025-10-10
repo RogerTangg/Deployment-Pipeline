@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/edwardtheharris/helm-charts/pull/119#issuecomment-3387622015) in [edwardtheharris/helm-charts](https://github.com/edwardtheharris/helm-charts)
+1. 🚀 Published release [2025.10.10-0651](https://github.com/kxjhcmc/openwrtx64-firmware/releases/tag/2025.10.10-0651) in [kxjhcmc/openwrtx64-firmware](https://github.com/kxjhcmc/openwrtx64-firmware)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
