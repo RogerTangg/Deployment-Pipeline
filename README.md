@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14486](https://github.com/trunk-io/flake-farm/pull/14486) in [trunk-io/flake-farm](https://github.com/trunk-io/flake-farm)
+1. 🗣 Commented on [#119](https://github.com/edwardtheharris/helm-charts/pull/119#issuecomment-3387622015) in [edwardtheharris/helm-charts](https://github.com/edwardtheharris/helm-charts)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
