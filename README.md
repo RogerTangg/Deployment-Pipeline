@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/launchdarkly/go-server-sdk-firestore/pull/2) in [launchdarkly/go-server-sdk-firestore](https://github.com/launchdarkly/go-server-sdk-firestore)
+1. 🗣 Commented on [#35472](https://github.com/spring-projects/spring-framework/issues/35472#issuecomment-3387087858) in [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
