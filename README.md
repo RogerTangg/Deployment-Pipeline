@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [@tanstack/query-sync-storage-persister@5.90.3](https://github.com/TanStack/query/releases/tag/%40tanstack/query-sync-storage-persister%405.90.3) in [TanStack/query](https://github.com/TanStack/query)
+1. 🗣 Commented on [#9910](https://github.com/posit-dev/positron/pull/9910#issuecomment-3392392938) in [posit-dev/positron](https://github.com/posit-dev/positron)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
