@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#247734](https://github.com/Homebrew/homebrew-core/pull/247734#issuecomment-3387493577) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 🎉 Merged PR [#14486](https://github.com/trunk-io/flake-farm/pull/14486) in [trunk-io/flake-farm](https://github.com/trunk-io/flake-farm)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
