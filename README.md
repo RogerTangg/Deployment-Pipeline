@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#271](https://github.com/poad/rdb-based-api/pull/271) in [poad/rdb-based-api](https://github.com/poad/rdb-based-api)
+1. 🗣 Commented on [#1](https://github.com/static-web-apps-testing-org/swab28fe28c2ef845e4bfd8602a43446bcd/pull/1#issuecomment-3388363147) in [static-web-apps-testing-org/swab28fe28c2ef845e4bfd8602a43446bcd](https://github.com/static-web-apps-testing-org/swab28fe28c2ef845e4bfd8602a43446bcd)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
