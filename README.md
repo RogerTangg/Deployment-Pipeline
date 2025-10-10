@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/yuq149/skills-getting-started-with-github-copilot/issues/1) in [yuq149/skills-getting-started-with-github-copilot](https://github.com/yuq149/skills-getting-started-with-github-copilot)
+1. 🗣 Commented on [#7262](https://github.com/multiversx/mx-chain-go/pull/7262#issuecomment-3388672804) in [multiversx/mx-chain-go](https://github.com/multiversx/mx-chain-go)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
