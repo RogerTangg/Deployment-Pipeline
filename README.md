@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#457](https://github.com/cupagain/daka/issues/457) in [cupagain/daka](https://github.com/cupagain/daka)
+1. ❌ Closed PR [#2](https://github.com/frostproject/threadpool/pull/2) in [frostproject/threadpool](https://github.com/frostproject/threadpool)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
