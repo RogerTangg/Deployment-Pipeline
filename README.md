@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/xn-intenton-z2a/repository0-web/issues/78#issuecomment-3387424877) in [xn-intenton-z2a/repository0-web](https://github.com/xn-intenton-z2a/repository0-web)
+1. 🗣 Commented on [#247734](https://github.com/Homebrew/homebrew-core/pull/247734#issuecomment-3387493577) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
