@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/static-web-apps-testing-org/swab28fe28c2ef845e4bfd8602a43446bcd/pull/1#issuecomment-3388363147) in [static-web-apps-testing-org/swab28fe28c2ef845e4bfd8602a43446bcd](https://github.com/static-web-apps-testing-org/swab28fe28c2ef845e4bfd8602a43446bcd)
+1. 🎉 Merged PR [#14502](https://github.com/trunk-io/flake-farm/pull/14502) in [trunk-io/flake-farm](https://github.com/trunk-io/flake-farm)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
