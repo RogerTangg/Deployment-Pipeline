@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.6](https://github.com/alexlovelltroy/fabrica/releases/tag/v0.2.6) in [alexlovelltroy/fabrica](https://github.com/alexlovelltroy/fabrica)
+1. 🚀 Published release [Release v1.0.148](https://github.com/ortelius/workflow-toolkit/releases/tag/v1.0.148) in [ortelius/workflow-toolkit](https://github.com/ortelius/workflow-toolkit)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
