@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/static-web-apps-testing-org/swa4a7cd438b658482ead16620d2342dc6b/pull/1#issuecomment-3387841887) in [static-web-apps-testing-org/swa4a7cd438b658482ead16620d2342dc6b](https://github.com/static-web-apps-testing-org/swa4a7cd438b658482ead16620d2342dc6b)
+1. 🔒 Closed issue [#457](https://github.com/cupagain/daka/issues/457) in [cupagain/daka](https://github.com/cupagain/daka)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
