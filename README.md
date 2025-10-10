@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7262](https://github.com/multiversx/mx-chain-go/pull/7262#issuecomment-3388672804) in [multiversx/mx-chain-go](https://github.com/multiversx/mx-chain-go)
+1. 🚀 Published release [v0.2.6](https://github.com/alexlovelltroy/fabrica/releases/tag/v0.2.6) in [alexlovelltroy/fabrica](https://github.com/alexlovelltroy/fabrica)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
