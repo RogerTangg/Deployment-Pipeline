@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [@loglayer/transport-log4js@2.1.6](https://github.com/loglayer/loglayer/releases/tag/%40loglayer/transport-log4js%402.1.6) in [loglayer/loglayer](https://github.com/loglayer/loglayer)
+1. 💪 Opened PR [#84](https://github.com/stevezhu/eslint-config/pull/84) in [stevezhu/eslint-config](https://github.com/stevezhu/eslint-config)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
