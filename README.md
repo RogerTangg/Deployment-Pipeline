@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/abhisek247767/LeetCode2024-6Companies30Days/pull/217#issuecomment-3393134446) in [abhisek247767/LeetCode2024-6Companies30Days](https://github.com/abhisek247767/LeetCode2024-6Companies30Days)
+1. 🚀 Published release [v1.0.0](https://github.com/AlnPir/repo-automation/releases/tag/v1.0.0) in [AlnPir/repo-automation](https://github.com/AlnPir/repo-automation)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
