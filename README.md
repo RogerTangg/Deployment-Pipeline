@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26205](https://github.com/3bsalam-1/3bsalam-1/pull/26205) in [3bsalam-1/3bsalam-1](https://github.com/3bsalam-1/3bsalam-1)
+1. 🚀 Published release [IPQ60XX-WIFI-YES-VIKINGYFY-main-25.10.12-06.26.00](https://github.com/liyiranlab/OpenWRT-CI/releases/tag/IPQ60XX-WIFI-YES-VIKINGYFY-main-25.10.12-06.26.00) in [liyiranlab/OpenWRT-CI](https://github.com/liyiranlab/OpenWRT-CI)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
