@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [JG RTX Bedrock 1.4.2](https://github.com/jasonjgardner/jg-rtx/releases/tag/v1.4.2) in [jasonjgardner/jg-rtx](https://github.com/jasonjgardner/jg-rtx)
+1. 🚀 Published release [Release 218](https://github.com/storesace-cv/bwb-stream2yt/releases/tag/release-218) in [storesace-cv/bwb-stream2yt](https://github.com/storesace-cv/bwb-stream2yt)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
