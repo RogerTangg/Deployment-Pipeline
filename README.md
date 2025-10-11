@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8148](https://github.com/Van4kk/lang/pull/8148#issuecomment-3392743509) in [Van4kk/lang](https://github.com/Van4kk/lang)
+1. ❗ Opened issue [#29](https://github.com/partrita/kimchi-gold/issues/29) in [partrita/kimchi-gold](https://github.com/partrita/kimchi-gold)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
