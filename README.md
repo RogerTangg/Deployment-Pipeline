@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3092](https://github.com/sst/opencode/issues/3092#issuecomment-3392923816) in [sst/opencode](https://github.com/sst/opencode)
+1. 🚀 Published release [vkd3d-proton-2.14.1-17-949728a](https://github.com/EvoXCX/components/releases/tag/vkd3d-proton-2.14.1-17-949728a) in [EvoXCX/components](https://github.com/EvoXCX/components)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
