@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/AlnPir/repo-automation/releases/tag/v1.0.0) in [AlnPir/repo-automation](https://github.com/AlnPir/repo-automation)
+1. 🚀 Published release [v1.3.53](https://github.com/lspecian/chronik-stream/releases/tag/v1.3.53) in [lspecian/chronik-stream](https://github.com/lspecian/chronik-stream)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
