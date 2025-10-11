@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v1.3.0](https://github.com/tsnearly/dialogue-guardian/releases/tag/v1.3.0) in [tsnearly/dialogue-guardian](https://github.com/tsnearly/dialogue-guardian)
+1. 🚀 Published release [JG RTX Bedrock 1.4.2](https://github.com/jasonjgardner/jg-rtx/releases/tag/v1.4.2) in [jasonjgardner/jg-rtx](https://github.com/jasonjgardner/jg-rtx)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
