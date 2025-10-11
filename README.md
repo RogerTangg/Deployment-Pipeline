@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26189](https://github.com/3bsalam-1/3bsalam-1/pull/26189) in [3bsalam-1/3bsalam-1](https://github.com/3bsalam-1/3bsalam-1)
+1. 🚀 Published release [CVE 2025-10-11_1500Z](https://github.com/ScorpionBytes/cvelistV5/releases/tag/cve_2025-10-11_1500Z) in [ScorpionBytes/cvelistV5](https://github.com/ScorpionBytes/cvelistV5)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
