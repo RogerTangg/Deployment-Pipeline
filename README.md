@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Alpha 2025-10-11.0](https://github.com/PenumbraOS/installer/releases/tag/2025-10-11.0) in [PenumbraOS/installer](https://github.com/PenumbraOS/installer)
+1. 🚀 Published release [@loglayer/transport-log4js@2.1.6](https://github.com/loglayer/loglayer/releases/tag/%40loglayer/transport-log4js%402.1.6) in [loglayer/loglayer](https://github.com/loglayer/loglayer)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
