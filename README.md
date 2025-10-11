@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [OpenWrt_official_save_2025.10](https://github.com/neomikanagi/amlogic-s9xxx-openwrt/releases/tag/OpenWrt_official_save_2025.10) in [neomikanagi/amlogic-s9xxx-openwrt](https://github.com/neomikanagi/amlogic-s9xxx-openwrt)
+1. 🗣 Commented on [#217](https://github.com/abhisek247767/LeetCode2024-6Companies30Days/pull/217#issuecomment-3393134446) in [abhisek247767/LeetCode2024-6Companies30Days](https://github.com/abhisek247767/LeetCode2024-6Companies30Days)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
