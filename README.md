@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [openwrt-23.05.6-xiaomi-4c](https://github.com/xiv3r/Xiaomi-Router-4C-OpenWRT-Image-Builder/releases/tag/openwrt-23.05.6-xiaomi-4c) in [xiv3r/Xiaomi-Router-4C-OpenWRT-Image-Builder](https://github.com/xiv3r/Xiaomi-Router-4C-OpenWRT-Image-Builder)
+1. 🚀 Published release [LSpatched](https://github.com/MartinatorTime/auto-lspatch/releases/tag/LSpatched) in [MartinatorTime/auto-lspatch](https://github.com/MartinatorTime/auto-lspatch)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
