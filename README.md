@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#193](https://github.com/admirerr/DSA-Collection/pull/193#issuecomment-3393057385) in [admirerr/DSA-Collection](https://github.com/admirerr/DSA-Collection)
+1. 🚀 Published release [OpenWrt_official_save_2025.10](https://github.com/neomikanagi/amlogic-s9xxx-openwrt/releases/tag/OpenWrt_official_save_2025.10) in [neomikanagi/amlogic-s9xxx-openwrt](https://github.com/neomikanagi/amlogic-s9xxx-openwrt)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
