@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [CVE 2025-10-11_1500Z](https://github.com/ScorpionBytes/cvelistV5/releases/tag/cve_2025-10-11_1500Z) in [ScorpionBytes/cvelistV5](https://github.com/ScorpionBytes/cvelistV5)
+1. 🚀 Published release [Release v1.3.0](https://github.com/tsnearly/dialogue-guardian/releases/tag/v1.3.0) in [tsnearly/dialogue-guardian](https://github.com/tsnearly/dialogue-guardian)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
