@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#29](https://github.com/partrita/kimchi-gold/issues/29) in [partrita/kimchi-gold](https://github.com/partrita/kimchi-gold)
+1. 🗣 Commented on [#3092](https://github.com/sst/opencode/issues/3092#issuecomment-3392923816) in [sst/opencode](https://github.com/sst/opencode)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
