@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#103907](https://github.com/aelmanaa/cl-docs/pull/103907) in [aelmanaa/cl-docs](https://github.com/aelmanaa/cl-docs)
+1. 🗣 Commented on [#36303](https://github.com/servo/servo/pull/36303#issuecomment-3394825921) in [servo/servo](https://github.com/servo/servo)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
