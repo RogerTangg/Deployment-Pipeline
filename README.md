@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17631](https://github.com/ibm-developer-skills-network/gkpbt-css-circle/pull/17631#issuecomment-3393980552) in [ibm-developer-skills-network/gkpbt-css-circle](https://github.com/ibm-developer-skills-network/gkpbt-css-circle)
+1. 🗣 Commented on [#679](https://github.com/kaito01234/auto-keep-server/issues/679#issuecomment-3394000443) in [kaito01234/auto-keep-server](https://github.com/kaito01234/auto-keep-server)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
