@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v20251012](https://github.com/PixxelSong/MergeTrackers/releases/tag/v20251012) in [PixxelSong/MergeTrackers](https://github.com/PixxelSong/MergeTrackers)
+1. 🚀 Published release [GKI内核: SukiSU(13417)  & SUSFS v1.5.11](https://github.com/wangblog0/GKI_KernelSU_SUSFS/releases/tag/v1.5.11-r9) in [wangblog0/GKI_KernelSU_SUSFS](https://github.com/wangblog0/GKI_KernelSU_SUSFS)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
