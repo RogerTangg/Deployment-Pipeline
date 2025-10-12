@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/vahiiiid/go-rest-api-boilerplate/pull/56#issuecomment-3394054321) in [vahiiiid/go-rest-api-boilerplate](https://github.com/vahiiiid/go-rest-api-boilerplate)
+1. 🚀 Published release [M2OS cosmic sysexts (x86_64)](https://github.com/m2Giles/fedora-sysexts/releases/tag/m2os-cosmic) in [m2Giles/fedora-sysexts](https://github.com/m2Giles/fedora-sysexts)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
