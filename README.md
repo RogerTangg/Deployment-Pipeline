@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [IPQ60XX-WIFI-YES-VIKINGYFY-main-25.10.12-06.26.00](https://github.com/liyiranlab/OpenWRT-CI/releases/tag/IPQ60XX-WIFI-YES-VIKINGYFY-main-25.10.12-06.26.00) in [liyiranlab/OpenWRT-CI](https://github.com/liyiranlab/OpenWRT-CI)
+1. 💪 Opened PR [#33](https://github.com/JoshTRN/tree-sitter-langs/pull/33) in [JoshTRN/tree-sitter-langs](https://github.com/JoshTRN/tree-sitter-langs)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
