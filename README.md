@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v12.6.0](https://github.com/kitelev/exocortex-obsidian-plugin/releases/tag/v12.6.0) in [kitelev/exocortex-obsidian-plugin](https://github.com/kitelev/exocortex-obsidian-plugin)
+1. 🚀 Published release [grc rc298b56](https://github.com/carlosrabelo/grc/releases/tag/rc298b56) in [carlosrabelo/grc](https://github.com/carlosrabelo/grc)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
