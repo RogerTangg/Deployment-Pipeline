@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19670](https://github.com/ovh/manager/pull/19670#issuecomment-3395013697) in [ovh/manager](https://github.com/ovh/manager)
+1. 🚀 Published release [v12.6.0](https://github.com/kitelev/exocortex-obsidian-plugin/releases/tag/v12.6.0) in [kitelev/exocortex-obsidian-plugin](https://github.com/kitelev/exocortex-obsidian-plugin)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
