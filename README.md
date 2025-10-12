@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36303](https://github.com/servo/servo/pull/36303#issuecomment-3394825921) in [servo/servo](https://github.com/servo/servo)
+1. 🗣 Commented on [#19670](https://github.com/ovh/manager/pull/19670#issuecomment-3395013697) in [ovh/manager](https://github.com/ovh/manager)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
