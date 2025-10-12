@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [grc rc298b56](https://github.com/carlosrabelo/grc/releases/tag/rc298b56) in [carlosrabelo/grc](https://github.com/carlosrabelo/grc)
+1. 🚀 Published release [IPQ60XX-WIFI-YES-VIKINGYFY-main-25.10.13-00.32.00](https://github.com/krisxu23/openwrt-ci/releases/tag/IPQ60XX-WIFI-YES-VIKINGYFY-main-25.10.13-00.32.00) in [krisxu23/openwrt-ci](https://github.com/krisxu23/openwrt-ci)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
