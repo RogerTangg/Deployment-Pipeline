@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.14](https://github.com/jiandanzhineng/hardware/releases/tag/v1.1.14) in [jiandanzhineng/hardware](https://github.com/jiandanzhineng/hardware)
+1. 💪 Opened PR [#103907](https://github.com/aelmanaa/cl-docs/pull/103907) in [aelmanaa/cl-docs](https://github.com/aelmanaa/cl-docs)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
