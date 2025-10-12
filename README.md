@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2485](https://github.com/stranske/Trend_Model_Project/issues/2485) in [stranske/Trend_Model_Project](https://github.com/stranske/Trend_Model_Project)
+1. 🗣 Commented on [#17631](https://github.com/ibm-developer-skills-network/gkpbt-css-circle/pull/17631#issuecomment-3393980552) in [ibm-developer-skills-network/gkpbt-css-circle](https://github.com/ibm-developer-skills-network/gkpbt-css-circle)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
