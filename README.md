@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [M2OS cosmic sysexts (x86_64)](https://github.com/m2Giles/fedora-sysexts/releases/tag/m2os-cosmic) in [m2Giles/fedora-sysexts](https://github.com/m2Giles/fedora-sysexts)
+1. 🚀 Published release [Release 3.1.5](https://github.com/brsynth/rxn_rebuild/releases/tag/3.1.5) in [brsynth/rxn_rebuild](https://github.com/brsynth/rxn_rebuild)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
