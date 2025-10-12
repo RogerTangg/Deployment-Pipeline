@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#453](https://github.com/UofT-DSI/shell/pull/453#issuecomment-3394371327) in [UofT-DSI/shell](https://github.com/UofT-DSI/shell)
+1. 🎉 Merged PR [#2226](https://github.com/Qwal-1/talos-cluster/pull/2226) in [Qwal-1/talos-cluster](https://github.com/Qwal-1/talos-cluster)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
