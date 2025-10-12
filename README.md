@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 3.1.5](https://github.com/brsynth/rxn_rebuild/releases/tag/3.1.5) in [brsynth/rxn_rebuild](https://github.com/brsynth/rxn_rebuild)
+1. 🗣 Commented on [#453](https://github.com/UofT-DSI/shell/pull/453#issuecomment-3394371327) in [UofT-DSI/shell](https://github.com/UofT-DSI/shell)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
