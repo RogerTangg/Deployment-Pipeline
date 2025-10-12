@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/JoshTRN/tree-sitter-langs/pull/33) in [JoshTRN/tree-sitter-langs](https://github.com/JoshTRN/tree-sitter-langs)
+1. 🚀 Published release [v20251012](https://github.com/PixxelSong/MergeTrackers/releases/tag/v20251012) in [PixxelSong/MergeTrackers](https://github.com/PixxelSong/MergeTrackers)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
