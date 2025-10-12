@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [GKI内核: SukiSU(13417)  & SUSFS v1.5.11](https://github.com/wangblog0/GKI_KernelSU_SUSFS/releases/tag/v1.5.11-r9) in [wangblog0/GKI_KernelSU_SUSFS](https://github.com/wangblog0/GKI_KernelSU_SUSFS)
+1. ❗ Opened issue [#2485](https://github.com/stranske/Trend_Model_Project/issues/2485) in [stranske/Trend_Model_Project](https://github.com/stranske/Trend_Model_Project)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
