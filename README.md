@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#679](https://github.com/kaito01234/auto-keep-server/issues/679#issuecomment-3394000443) in [kaito01234/auto-keep-server](https://github.com/kaito01234/auto-keep-server)
+1. 🗣 Commented on [#56](https://github.com/vahiiiid/go-rest-api-boilerplate/pull/56#issuecomment-3394054321) in [vahiiiid/go-rest-api-boilerplate](https://github.com/vahiiiid/go-rest-api-boilerplate)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
