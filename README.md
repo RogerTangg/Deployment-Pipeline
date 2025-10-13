@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#131](https://github.com/marco13-moo/cron-actions/issues/131) in [marco13-moo/cron-actions](https://github.com/marco13-moo/cron-actions)
+1. 🗣 Commented on [#84](https://github.com/brandonyoungdev/tldx/pull/84#issuecomment-3395669230) in [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
