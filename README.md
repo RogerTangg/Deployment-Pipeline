@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [IPQ60XX-WIFI-YES-VIKINGYFY-main-25.10.13-00.32.00](https://github.com/krisxu23/openwrt-ci/releases/tag/IPQ60XX-WIFI-YES-VIKINGYFY-main-25.10.13-00.32.00) in [krisxu23/openwrt-ci](https://github.com/krisxu23/openwrt-ci)
+1. 💪 Opened PR [#12742](https://github.com/axiomofjoy/phoenix/pull/12742) in [axiomofjoy/phoenix](https://github.com/axiomofjoy/phoenix)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
