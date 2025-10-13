@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.2](https://github.com/YaseiTanuki/Cryptan/releases/tag/v0.4.2) in [YaseiTanuki/Cryptan](https://github.com/YaseiTanuki/Cryptan)
+1. 🗣 Commented on [#162884](https://github.com/llvm/llvm-project/pull/162884#issuecomment-3395810864) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
