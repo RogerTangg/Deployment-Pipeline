@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12742](https://github.com/axiomofjoy/phoenix/pull/12742) in [axiomofjoy/phoenix](https://github.com/axiomofjoy/phoenix)
+1. 🚀 Published release [Released on 202510122235](https://github.com/Wizard89/surge-rules/releases/tag/202510122235) in [Wizard89/surge-rules](https://github.com/Wizard89/surge-rules)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
