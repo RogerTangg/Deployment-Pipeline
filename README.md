@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/daedalist/ghostbook/pull/53#issuecomment-3396589343) in [daedalist/ghostbook](https://github.com/daedalist/ghostbook)
+1. 🚀 Published release [TidyMark v1.4.4](https://github.com/PanHywel/TidyMark/releases/tag/v1.4.4) in [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
