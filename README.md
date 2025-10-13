@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4808](https://github.com/elastic/apm-agent-nodejs/pull/4808#issuecomment-3395487529) in [elastic/apm-agent-nodejs](https://github.com/elastic/apm-agent-nodejs)
+1. ❗ Opened issue [#131](https://github.com/marco13-moo/cron-actions/issues/131) in [marco13-moo/cron-actions](https://github.com/marco13-moo/cron-actions)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
