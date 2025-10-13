@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#162884](https://github.com/llvm/llvm-project/pull/162884#issuecomment-3395810864) in [llvm/llvm-project](https://github.com/llvm/llvm-project)
+1. 🗣 Commented on [#1508](https://github.com/microsoft/vscode-java-pack/issues/1508#issuecomment-3395870193) in [microsoft/vscode-java-pack](https://github.com/microsoft/vscode-java-pack)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
