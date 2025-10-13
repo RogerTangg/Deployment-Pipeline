@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [20251013-0518](https://github.com/rpardini/tinkerbell-hook/releases/tag/20251013-0518) in [rpardini/tinkerbell-hook](https://github.com/rpardini/tinkerbell-hook)
+1. 💪 Opened PR [#75](https://github.com/stackhpc/ovn-octavia-provider/pull/75) in [stackhpc/ovn-octavia-provider](https://github.com/stackhpc/ovn-octavia-provider)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
