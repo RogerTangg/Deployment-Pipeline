@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/brandonyoungdev/tldx/pull/84#issuecomment-3395669230) in [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx)
+1. 🗣 Commented on [#31](https://github.com/vylegzhaninn/OOP/pull/31#issuecomment-3395712719) in [vylegzhaninn/OOP](https://github.com/vylegzhaninn/OOP)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
