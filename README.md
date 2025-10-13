@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [TidyMark v1.4.4](https://github.com/PanHywel/TidyMark/releases/tag/v1.4.4) in [PanHywel/TidyMark](https://github.com/PanHywel/TidyMark)
+1. 🗣 Commented on [#65](https://github.com/YEONSEO93/GenAI-console-game/pull/65#issuecomment-3396828196) in [YEONSEO93/GenAI-console-game](https://github.com/YEONSEO93/GenAI-console-game)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
