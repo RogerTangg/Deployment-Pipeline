@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/iholo/emoji-kitchen/issues/1) in [iholo/emoji-kitchen](https://github.com/iholo/emoji-kitchen)
+1. 🗣 Commented on [#14](https://github.com/JHOFER-Cloud/renovate/pull/14#issuecomment-3396401081) in [JHOFER-Cloud/renovate](https://github.com/JHOFER-Cloud/renovate)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
