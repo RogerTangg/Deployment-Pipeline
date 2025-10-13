@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1508](https://github.com/microsoft/vscode-java-pack/issues/1508#issuecomment-3395870193) in [microsoft/vscode-java-pack](https://github.com/microsoft/vscode-java-pack)
+1. 🚀 Published release [20251013-0518](https://github.com/rpardini/tinkerbell-hook/releases/tag/20251013-0518) in [rpardini/tinkerbell-hook](https://github.com/rpardini/tinkerbell-hook)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
