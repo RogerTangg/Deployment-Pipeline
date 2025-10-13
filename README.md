@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/vylegzhaninn/OOP/pull/31#issuecomment-3395712719) in [vylegzhaninn/OOP](https://github.com/vylegzhaninn/OOP)
+1. 🚀 Published release [v0.4.2](https://github.com/YaseiTanuki/Cryptan/releases/tag/v0.4.2) in [YaseiTanuki/Cryptan](https://github.com/YaseiTanuki/Cryptan)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
