@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13412](https://github.com/ministryofjustice/modernisation-platform-environments/pull/13412#issuecomment-3396560391) in [ministryofjustice/modernisation-platform-environments](https://github.com/ministryofjustice/modernisation-platform-environments)
+1. 🗣 Commented on [#53](https://github.com/daedalist/ghostbook/pull/53#issuecomment-3396589343) in [daedalist/ghostbook](https://github.com/daedalist/ghostbook)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
