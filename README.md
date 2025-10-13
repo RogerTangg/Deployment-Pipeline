@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/YEONSEO93/GenAI-console-game/pull/65#issuecomment-3396828196) in [YEONSEO93/GenAI-console-game](https://github.com/YEONSEO93/GenAI-console-game)
+1. 🚀 Published release [DataTables Charts Plugin v1.1.1](https://github.com/uniqdev-id/Datatables-Charts/releases/tag/v1.1.1) in [uniqdev-id/Datatables-Charts](https://github.com/uniqdev-id/Datatables-Charts)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
