@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/stackhpc/ovn-octavia-provider/pull/75) in [stackhpc/ovn-octavia-provider](https://github.com/stackhpc/ovn-octavia-provider)
+1. 🗣 Commented on [#318](https://github.com/Geonitab/architecture_as_code/pull/318#issuecomment-3396108344) in [Geonitab/architecture_as_code](https://github.com/Geonitab/architecture_as_code)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
