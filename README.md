@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DataTables Charts Plugin v1.1.1](https://github.com/uniqdev-id/Datatables-Charts/releases/tag/v1.1.1) in [uniqdev-id/Datatables-Charts](https://github.com/uniqdev-id/Datatables-Charts)
+1. 🔒 Closed issue [#1](https://github.com/JamesGoddardCofloUser/skills-getting-started-with-github-copilot/issues/1) in [JamesGoddardCofloUser/skills-getting-started-with-github-copilot](https://github.com/JamesGoddardCofloUser/skills-getting-started-with-github-copilot)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
