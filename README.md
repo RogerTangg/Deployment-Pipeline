@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#318](https://github.com/Geonitab/architecture_as_code/pull/318#issuecomment-3396108344) in [Geonitab/architecture_as_code](https://github.com/Geonitab/architecture_as_code)
+1. 🗣 Commented on [#1](https://github.com/Akshay-0799/skills-hello-github-actions/issues/1#issuecomment-3396181022) in [Akshay-0799/skills-hello-github-actions](https://github.com/Akshay-0799/skills-hello-github-actions)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
