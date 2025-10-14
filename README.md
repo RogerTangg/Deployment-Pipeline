@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#242](https://github.com/utilbot/discord-api-types/pull/242#issuecomment-3397267617) in [utilbot/discord-api-types](https://github.com/utilbot/discord-api-types)
+1. ❗ Opened issue [#115641](https://github.com/lotofissues/issues/issues/115641) in [lotofissues/issues](https://github.com/lotofissues/issues)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
