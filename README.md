@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/imi-ms/MoPat/pull/220#issuecomment-3401204289) in [imi-ms/MoPat](https://github.com/imi-ms/MoPat)
+1. 🔒 Closed issue [#470](https://github.com/Supermarpig/daka/issues/470) in [Supermarpig/daka](https://github.com/Supermarpig/daka)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
