@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.80.0](https://github.com/Myra-Security-GmbH/terraform-provider-myrasec/releases/tag/v1.80.0) in [Myra-Security-GmbH/terraform-provider-myrasec](https://github.com/Myra-Security-GmbH/terraform-provider-myrasec)
+1. ❗ Opened issue [#1696](https://github.com/teledec/status/issues/1696) in [teledec/status](https://github.com/teledec/status)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
