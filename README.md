@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#115641](https://github.com/lotofissues/issues/issues/115641) in [lotofissues/issues](https://github.com/lotofissues/issues)
+1. 🚀 Published release [0.1.28](https://github.com/kvj/hass-Super-Template-helper/releases/tag/0.1.28) in [kvj/hass-Super-Template-helper](https://github.com/kvj/hass-Super-Template-helper)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
