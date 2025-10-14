@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [4030](https://github.com/Lobanokivan11/DIY-MICROG-SYSTEMWIDE/releases/tag/4030) in [Lobanokivan11/DIY-MICROG-SYSTEMWIDE](https://github.com/Lobanokivan11/DIY-MICROG-SYSTEMWIDE)
+1. 🗣 Commented on [#864](https://github.com/siemens/element/pull/864#issuecomment-3400811431) in [siemens/element](https://github.com/siemens/element)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
