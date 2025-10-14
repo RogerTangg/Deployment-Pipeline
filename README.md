@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1521](https://github.com/giantswarm/cluster-aws/pull/1521#issuecomment-3403483167) in [giantswarm/cluster-aws](https://github.com/giantswarm/cluster-aws)
+1. 🚀 Published release [Build-2025.10.15-02.46.50](https://github.com/CarbonEmSelf/docker-py-revanced/releases/tag/Build-2025.10.15-02.46.50) in [CarbonEmSelf/docker-py-revanced](https://github.com/CarbonEmSelf/docker-py-revanced)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
