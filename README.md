@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#288](https://github.com/suzuka-kosen-festa/2025-hp/pull/288#issuecomment-3403110245) in [suzuka-kosen-festa/2025-hp](https://github.com/suzuka-kosen-festa/2025-hp)
+1. 🚀 Published release [latest](https://github.com/JeffriesDuan/clash-ruleset/releases/tag/latest) in [JeffriesDuan/clash-ruleset](https://github.com/JeffriesDuan/clash-ruleset)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
