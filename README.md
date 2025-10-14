@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#467](https://github.com/tongjiann/daily-bing-wallpaper/pull/467) in [tongjiann/daily-bing-wallpaper](https://github.com/tongjiann/daily-bing-wallpaper)
+1. 🚀 Published release [4030](https://github.com/Lobanokivan11/DIY-MICROG-SYSTEMWIDE/releases/tag/4030) in [Lobanokivan11/DIY-MICROG-SYSTEMWIDE](https://github.com/Lobanokivan11/DIY-MICROG-SYSTEMWIDE)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
