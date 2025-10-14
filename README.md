@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/JamesGoddardCofloUser/skills-getting-started-with-github-copilot/issues/1) in [JamesGoddardCofloUser/skills-getting-started-with-github-copilot](https://github.com/JamesGoddardCofloUser/skills-getting-started-with-github-copilot)
+1. 🗣 Commented on [#242](https://github.com/utilbot/discord-api-types/pull/242#issuecomment-3397267617) in [utilbot/discord-api-types](https://github.com/utilbot/discord-api-types)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
