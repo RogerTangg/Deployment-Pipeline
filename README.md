@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.28](https://github.com/kvj/hass-Super-Template-helper/releases/tag/0.1.28) in [kvj/hass-Super-Template-helper](https://github.com/kvj/hass-Super-Template-helper)
+1. 🗣 Commented on [#11014](https://github.com/google-gemini/gemini-cli/pull/11014#issuecomment-3397627343) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
