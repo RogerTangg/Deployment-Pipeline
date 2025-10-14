@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [latest](https://github.com/JeffriesDuan/clash-ruleset/releases/tag/latest) in [JeffriesDuan/clash-ruleset](https://github.com/JeffriesDuan/clash-ruleset)
+1. 🗣 Commented on [#1521](https://github.com/giantswarm/cluster-aws/pull/1521#issuecomment-3403483167) in [giantswarm/cluster-aws](https://github.com/giantswarm/cluster-aws)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
