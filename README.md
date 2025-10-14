@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1696](https://github.com/teledec/status/issues/1696) in [teledec/status](https://github.com/teledec/status)
+1. 💪 Opened PR [#467](https://github.com/tongjiann/daily-bing-wallpaper/pull/467) in [tongjiann/daily-bing-wallpaper](https://github.com/tongjiann/daily-bing-wallpaper)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
