@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/static-web-apps-testing-org/swa4672e7eeda8c45268a407711d93dfd22/pull/1#issuecomment-3400966932) in [static-web-apps-testing-org/swa4672e7eeda8c45268a407711d93dfd22](https://github.com/static-web-apps-testing-org/swa4672e7eeda8c45268a407711d93dfd22)
+1. 🗣 Commented on [#17336](https://github.com/lightdash/lightdash/pull/17336#issuecomment-3401060032) in [lightdash/lightdash](https://github.com/lightdash/lightdash)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
