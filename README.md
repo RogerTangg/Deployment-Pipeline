@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.1](https://github.com/lzsjrp/MGDB_APP/releases/tag/v1.3.1) in [lzsjrp/MGDB_APP](https://github.com/lzsjrp/MGDB_APP)
+1. 🔒 Closed issue [#840](https://github.com/PoseidonLi0514/lobe-chat/issues/840) in [PoseidonLi0514/lobe-chat](https://github.com/PoseidonLi0514/lobe-chat)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
