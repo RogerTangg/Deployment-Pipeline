@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/RichardMcNeal/skills-getting-started-with-github-copilot/issues/1#issuecomment-3406984962) in [RichardMcNeal/skills-getting-started-with-github-copilot](https://github.com/RichardMcNeal/skills-getting-started-with-github-copilot)
+1. 🚀 Published release [v0.5.0](https://github.com/jeremymefford/tfgql/releases/tag/v0.5.0) in [jeremymefford/tfgql](https://github.com/jeremymefford/tfgql)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
