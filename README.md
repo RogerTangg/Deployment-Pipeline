@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34250](https://github.com/coralogix/opentelemetry-collector-contrib/pull/34250#issuecomment-3404560986) in [coralogix/opentelemetry-collector-contrib](https://github.com/coralogix/opentelemetry-collector-contrib)
+1. ❌ Labeled PR [#279](undefined) in [MC-MAGA/beam](https://github.com/MC-MAGA/beam)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
