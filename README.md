@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com/canonical/wazuh-server-operator/pull/306#issuecomment-3404936374) in [canonical/wazuh-server-operator](https://github.com/canonical/wazuh-server-operator)
+1. ❌ Labeled PR [#32413](undefined) in [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
