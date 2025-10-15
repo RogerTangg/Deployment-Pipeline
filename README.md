@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#838](https://github.com/PoseidonLi0514/lobe-chat/issues/838) in [PoseidonLi0514/lobe-chat](https://github.com/PoseidonLi0514/lobe-chat)
+1. 🗣 Commented on [#2](https://github.com/Lincoln-cn/JAiRouter/issues/2#issuecomment-3404337498) in [Lincoln-cn/JAiRouter](https://github.com/Lincoln-cn/JAiRouter)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
