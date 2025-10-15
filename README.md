@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [AFK-Check v1.0.0 1.21-1.21.10](https://github.com/DominoWWW/AFK-Check/releases/tag/v1.0.0_1.21-1.21.10) in [DominoWWW/AFK-Check](https://github.com/DominoWWW/AFK-Check)
+1. 🔒 Labeled issue [#838](https://github.com/PoseidonLi0514/lobe-chat/issues/838) in [PoseidonLi0514/lobe-chat](https://github.com/PoseidonLi0514/lobe-chat)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
