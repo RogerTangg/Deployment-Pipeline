@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.0](https://github.com/jeremymefford/tfgql/releases/tag/v0.5.0) in [jeremymefford/tfgql](https://github.com/jeremymefford/tfgql)
+1. 🚀 Published release [v1.3.1](https://github.com/lzsjrp/MGDB_APP/releases/tag/v1.3.1) in [lzsjrp/MGDB_APP](https://github.com/lzsjrp/MGDB_APP)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
