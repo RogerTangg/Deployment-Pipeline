@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [action-v9618](https://github.com/azisaba/resourcepacks/releases/tag/action-v9618) in [azisaba/resourcepacks](https://github.com/azisaba/resourcepacks)
+1. 🗣 Commented on [#1](https://github.com/RichardMcNeal/skills-getting-started-with-github-copilot/issues/1#issuecomment-3406984962) in [RichardMcNeal/skills-getting-started-with-github-copilot](https://github.com/RichardMcNeal/skills-getting-started-with-github-copilot)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
