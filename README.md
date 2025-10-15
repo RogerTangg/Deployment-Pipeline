@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#840](https://github.com/PoseidonLi0514/lobe-chat/issues/840) in [PoseidonLi0514/lobe-chat](https://github.com/PoseidonLi0514/lobe-chat)
+1. 💪 Opened PR [#13](undefined) in [dsyme/charset_normalizer](https://github.com/dsyme/charset_normalizer)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
