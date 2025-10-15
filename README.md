@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#222](undefined) in [erickirt/haystack](https://github.com/erickirt/haystack)
+1. 🚀 Published release [mlrun-ce-0.9.1-rc5](https://github.com/mlrun/ce/releases/tag/mlrun-ce-0.9.1-rc5) in [mlrun/ce](https://github.com/mlrun/ce)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
