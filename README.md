@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72356](https://github.com/WordPress/gutenberg/pull/72356#issuecomment-3406223926) in [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+1. ❌ Labeled PR [#1441](undefined) in [operaton/operaton](https://github.com/operaton/operaton)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
