@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#32413](undefined) in [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
+1. 🗣 Commented on [#29](https://github.com/51Degrees/ip-intelligence-java-examples/pull/29#issuecomment-3405420643) in [51Degrees/ip-intelligence-java-examples](https://github.com/51Degrees/ip-intelligence-java-examples)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
