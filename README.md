@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#456](undefined) in [taoyounger/spiderpool](https://github.com/taoyounger/spiderpool)
+1. 🗣 Commented on [#928](https://github.com/langchain-ai/docs/pull/928#issuecomment-3408321821) in [langchain-ai/docs](https://github.com/langchain-ai/docs)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
