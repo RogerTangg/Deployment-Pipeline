@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Released on 202510152216](https://github.com/plsy1/v2ray-rules-dat/releases/tag/202510152216) in [plsy1/v2ray-rules-dat](https://github.com/plsy1/v2ray-rules-dat)
+1. ❌ Labeled PR [#45516](undefined) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
