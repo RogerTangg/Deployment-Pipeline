@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [mlrun-ce-0.9.1-rc5](https://github.com/mlrun/ce/releases/tag/mlrun-ce-0.9.1-rc5) in [mlrun/ce](https://github.com/mlrun/ce)
+1. 🗣 Commented on [#72356](https://github.com/WordPress/gutenberg/pull/72356#issuecomment-3406223926) in [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
