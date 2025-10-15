@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#1441](undefined) in [operaton/operaton](https://github.com/operaton/operaton)
+1. 🚀 Published release [action-v9618](https://github.com/azisaba/resourcepacks/releases/tag/action-v9618) in [azisaba/resourcepacks](https://github.com/azisaba/resourcepacks)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
