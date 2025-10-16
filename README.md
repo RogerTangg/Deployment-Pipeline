@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#595](https://github.com/jfrazx/home-ops/pull/595#issuecomment-3411883645) in [jfrazx/home-ops](https://github.com/jfrazx/home-ops)
+1. ❌ Labeled PR [#136](undefined) in [LadyK-21/dependabot-core](https://github.com/LadyK-21/dependabot-core)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
