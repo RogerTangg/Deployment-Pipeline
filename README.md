@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#136](undefined) in [LadyK-21/dependabot-core](https://github.com/LadyK-21/dependabot-core)
+1. 🚀 Published release [homelab-autoscaler-0.1.8](https://github.com/homecluster-dev/homelab-autoscaler/releases/tag/homelab-autoscaler-0.1.8) in [homecluster-dev/homelab-autoscaler](https://github.com/homecluster-dev/homelab-autoscaler)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
