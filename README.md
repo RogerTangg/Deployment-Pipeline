@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#781](https://github.com/dse-as/workflow_IIIF-ATR-TEI/issues/781#issuecomment-3409524330) in [dse-as/workflow_IIIF-ATR-TEI](https://github.com/dse-as/workflow_IIIF-ATR-TEI)
+1. 🚀 Published release [Build-2025.10.16-13.57.53](https://github.com/CarbonEmSelf/docker-py-revanced/releases/tag/Build-2025.10.16-13.57.53) in [CarbonEmSelf/docker-py-revanced](https://github.com/CarbonEmSelf/docker-py-revanced)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
