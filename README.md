@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#15614](https://github.com/BerriAI/litellm/issues/15614) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
+1. 🗣 Commented on [#28](https://github.com/davidcassany/elemental-obs/pull/28#issuecomment-3413032270) in [davidcassany/elemental-obs](https://github.com/davidcassany/elemental-obs)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
