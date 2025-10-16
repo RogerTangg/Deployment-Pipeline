@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#6025](undefined) in [aristanetworks/avd](https://github.com/aristanetworks/avd)
+1. 🗣 Commented on [#595](https://github.com/jfrazx/home-ops/pull/595#issuecomment-3411883645) in [jfrazx/home-ops](https://github.com/jfrazx/home-ops)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
