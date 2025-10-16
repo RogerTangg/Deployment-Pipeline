@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16195](https://github.com/meshery/meshery/pull/16195#issuecomment-3411429919) in [meshery/meshery](https://github.com/meshery/meshery)
+1. ❌ Labeled PR [#6025](undefined) in [aristanetworks/avd](https://github.com/aristanetworks/avd)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
