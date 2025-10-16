@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#4853](undefined) in [gnolang/gno](https://github.com/gnolang/gno)
+1. 🗣 Commented on [#337](https://github.com/opentdf/tests/pull/337#issuecomment-3408986385) in [opentdf/tests](https://github.com/opentdf/tests)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
