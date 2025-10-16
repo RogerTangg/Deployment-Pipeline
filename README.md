@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Build-2025.10.16-19.01.20](https://github.com/CarbonEmSelf/docker-py-revanced/releases/tag/Build-2025.10.16-19.01.20) in [CarbonEmSelf/docker-py-revanced](https://github.com/CarbonEmSelf/docker-py-revanced)
+1. ❗ Opened issue [#219](https://github.com/ifhito/firepoker-neo/issues/219) in [ifhito/firepoker-neo](https://github.com/ifhito/firepoker-neo)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
