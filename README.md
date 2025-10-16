@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Assigned issue [#880](https://github.com/catalyst-cooperative/pudl-archiver/issues/880) in [catalyst-cooperative/pudl-archiver](https://github.com/catalyst-cooperative/pudl-archiver)
+1. ❌ Labeled PR [#21282](undefined) in [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
