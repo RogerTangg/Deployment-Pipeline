@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [homelab-autoscaler-0.1.8](https://github.com/homecluster-dev/homelab-autoscaler/releases/tag/homelab-autoscaler-0.1.8) in [homecluster-dev/homelab-autoscaler](https://github.com/homecluster-dev/homelab-autoscaler)
+1. 🚀 Published release [v0.1.0](https://github.com/JustinVijar/FreeERD/releases/tag/v0.1.0) in [JustinVijar/FreeERD](https://github.com/JustinVijar/FreeERD)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
