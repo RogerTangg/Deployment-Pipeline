@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10220](https://github.com/Jammicus/opentelemetry-collector-contrib/pull/10220#issuecomment-3409213901) in [Jammicus/opentelemetry-collector-contrib](https://github.com/Jammicus/opentelemetry-collector-contrib)
+1. 🗣 Commented on [#1872](https://github.com/Enterprise-CMCS/cmcs-eregulations/pull/1872#issuecomment-3409376410) in [Enterprise-CMCS/cmcs-eregulations](https://github.com/Enterprise-CMCS/cmcs-eregulations)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
