@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#21282](undefined) in [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
+1. 🚀 Published release [Build-2025.10.16-19.01.20](https://github.com/CarbonEmSelf/docker-py-revanced/releases/tag/Build-2025.10.16-19.01.20) in [CarbonEmSelf/docker-py-revanced](https://github.com/CarbonEmSelf/docker-py-revanced)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
