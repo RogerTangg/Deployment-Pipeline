@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#45516](undefined) in [Automattic/jetpack](https://github.com/Automattic/jetpack)
+1. ❌ Labeled PR [#4853](undefined) in [gnolang/gno](https://github.com/gnolang/gno)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
