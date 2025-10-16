@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#1274](undefined) in [web-infra-dev/rslib](https://github.com/web-infra-dev/rslib)
+1. 🗣 Commented on [#1](https://github.com/chandrikagudi/skills-getting-started-with-github-copilot/issues/1#issuecomment-3410189941) in [chandrikagudi/skills-getting-started-with-github-copilot](https://github.com/chandrikagudi/skills-getting-started-with-github-copilot)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
