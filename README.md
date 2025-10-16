@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/YuunJiee/1141-ML-W7_Titanic_Preprocessing/pull/20#issuecomment-3409122962) in [YuunJiee/1141-ML-W7_Titanic_Preprocessing](https://github.com/YuunJiee/1141-ML-W7_Titanic_Preprocessing)
+1. 🗣 Commented on [#10220](https://github.com/Jammicus/opentelemetry-collector-contrib/pull/10220#issuecomment-3409213901) in [Jammicus/opentelemetry-collector-contrib](https://github.com/Jammicus/opentelemetry-collector-contrib)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
