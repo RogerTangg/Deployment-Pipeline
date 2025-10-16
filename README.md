@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/JustinVijar/FreeERD/releases/tag/v0.1.0) in [JustinVijar/FreeERD](https://github.com/JustinVijar/FreeERD)
+1. 🔒 Labeled issue [#15614](https://github.com/BerriAI/litellm/issues/15614) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
