@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1872](https://github.com/Enterprise-CMCS/cmcs-eregulations/pull/1872#issuecomment-3409376410) in [Enterprise-CMCS/cmcs-eregulations](https://github.com/Enterprise-CMCS/cmcs-eregulations)
+1. 🗣 Commented on [#781](https://github.com/dse-as/workflow_IIIF-ATR-TEI/issues/781#issuecomment-3409524330) in [dse-as/workflow_IIIF-ATR-TEI](https://github.com/dse-as/workflow_IIIF-ATR-TEI)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
