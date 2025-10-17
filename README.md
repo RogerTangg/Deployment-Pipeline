@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [surveilr-omnibus v0.1.10](https://github.com/surveilr/packages/releases/tag/omnibus-v0.1.10) in [surveilr/packages](https://github.com/surveilr/packages)
+1. 🗣 Commented on [#7605](https://github.com/ardatan/graphql-tools/pull/7605#issuecomment-3417262756) in [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
