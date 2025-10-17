@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.11.38](https://github.com/tomacheese/discord-tweet-embedder/releases/tag/v1.11.38) in [tomacheese/discord-tweet-embedder](https://github.com/tomacheese/discord-tweet-embedder)
+1. 🗣 Commented on [#25903](https://github.com/cloudflare/cloudflare-docs/pull/25903#issuecomment-3416252044) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
