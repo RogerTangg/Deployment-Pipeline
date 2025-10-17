@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Lincoln-cn/JAiRouter/issues/2#issuecomment-3413606225) in [Lincoln-cn/JAiRouter](https://github.com/Lincoln-cn/JAiRouter)
+1. ❌ Labeled PR [#355](undefined) in [dparmar18/ceph](https://github.com/dparmar18/ceph)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
