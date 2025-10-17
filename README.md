@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/opsmith96/skills-getting-started-with-github-copilot/issues/1#issuecomment-3414070437) in [opsmith96/skills-getting-started-with-github-copilot](https://github.com/opsmith96/skills-getting-started-with-github-copilot)
+1. 🔒 Labeled issue [#1384](https://github.com/NVIDIA-NeMo/RL/issues/1384) in [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
