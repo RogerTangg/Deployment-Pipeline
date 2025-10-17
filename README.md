@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#3417](undefined) in [sublime-security/sublime-rules](https://github.com/sublime-security/sublime-rules)
+1. 🗣 Commented on [#3084](https://github.com/railmapgen/rmp-gallery/issues/3084#issuecomment-3416634786) in [railmapgen/rmp-gallery](https://github.com/railmapgen/rmp-gallery)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
