@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#355](undefined) in [dparmar18/ceph](https://github.com/dparmar18/ceph)
+1. 🗣 Commented on [#80](https://github.com/ductruong2810/ev-co-ownership/pull/80#issuecomment-3413927380) in [ductruong2810/ev-co-ownership](https://github.com/ductruong2810/ev-co-ownership)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
