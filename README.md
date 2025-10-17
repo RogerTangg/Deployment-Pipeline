@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/ductruong2810/ev-co-ownership/pull/80#issuecomment-3413927380) in [ductruong2810/ev-co-ownership](https://github.com/ductruong2810/ev-co-ownership)
+1. 🗣 Commented on [#1](https://github.com/opsmith96/skills-getting-started-with-github-copilot/issues/1#issuecomment-3414070437) in [opsmith96/skills-getting-started-with-github-copilot](https://github.com/opsmith96/skills-getting-started-with-github-copilot)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
