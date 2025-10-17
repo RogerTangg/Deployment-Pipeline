@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5291](https://github.com/bcgov/SIMS/pull/5291#issuecomment-3417402475) in [bcgov/SIMS](https://github.com/bcgov/SIMS)
+1. 🗣 Commented on [#24](https://github.com/Kiyoshiakira/Bonnie-Lass-Florals/pull/24#issuecomment-3417492476) in [Kiyoshiakira/Bonnie-Lass-Florals](https://github.com/Kiyoshiakira/Bonnie-Lass-Florals)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
