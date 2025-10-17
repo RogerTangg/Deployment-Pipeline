@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20947](https://github.com/astral-sh/ruff/pull/20947#issuecomment-3416786852) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+1. 🚀 Published release [surveilr-omnibus v0.1.10](https://github.com/surveilr/packages/releases/tag/omnibus-v0.1.10) in [surveilr/packages](https://github.com/surveilr/packages)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
