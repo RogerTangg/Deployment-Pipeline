@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#433](https://github.com/BarbourSmith/FluidNC/pull/433#issuecomment-3415806846) in [BarbourSmith/FluidNC](https://github.com/BarbourSmith/FluidNC)
+1. 🚀 Published release [v1.11.38](https://github.com/tomacheese/discord-tweet-embedder/releases/tag/v1.11.38) in [tomacheese/discord-tweet-embedder](https://github.com/tomacheese/discord-tweet-embedder)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
