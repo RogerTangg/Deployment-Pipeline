@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3084](https://github.com/railmapgen/rmp-gallery/issues/3084#issuecomment-3416634786) in [railmapgen/rmp-gallery](https://github.com/railmapgen/rmp-gallery)
+1. 🗣 Commented on [#20947](https://github.com/astral-sh/ruff/pull/20947#issuecomment-3416786852) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
