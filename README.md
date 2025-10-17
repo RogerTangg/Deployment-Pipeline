@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [hashicorp-ad8a20d390b84cae93b2f69a6c5f5d44-460-vault-0.17.0](https://github.com/openshift-helm-charts/sandbox/releases/tag/hashicorp-ad8a20d390b84cae93b2f69a6c5f5d44-460-vault-0.17.0) in [openshift-helm-charts/sandbox](https://github.com/openshift-helm-charts/sandbox)
+1. 🚀 Published release [v0.0.218](https://github.com/5stackgg/game-server/releases/tag/v0.0.218) in [5stackgg/game-server](https://github.com/5stackgg/game-server)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
