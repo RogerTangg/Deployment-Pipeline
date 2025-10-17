@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Unlabeled PR [#3215](undefined) in [mfem/mfem](https://github.com/mfem/mfem)
+1. 🗣 Commented on [#2](https://github.com/Lincoln-cn/JAiRouter/issues/2#issuecomment-3413606225) in [Lincoln-cn/JAiRouter](https://github.com/Lincoln-cn/JAiRouter)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
