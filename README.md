@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#1384](https://github.com/NVIDIA-NeMo/RL/issues/1384) in [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL)
+1. ❌ Labeled PR [#452](undefined) in [do-dorio/rsshub-comment2434](https://github.com/do-dorio/rsshub-comment2434)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
