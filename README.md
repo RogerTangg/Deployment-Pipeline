@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4890](https://github.com/marigold-ui/marigold/pull/4890#issuecomment-3415626771) in [marigold-ui/marigold](https://github.com/marigold-ui/marigold)
+1. 🗣 Commented on [#433](https://github.com/BarbourSmith/FluidNC/pull/433#issuecomment-3415806846) in [BarbourSmith/FluidNC](https://github.com/BarbourSmith/FluidNC)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
