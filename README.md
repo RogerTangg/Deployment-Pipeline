@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105755](https://github.com/firstcontributions/first-contributions/pull/105755#issuecomment-3418750653) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. ❌ Labeled PR [#28](undefined) in [pvarki/Docusaurus-docs](https://github.com/pvarki/Docusaurus-docs)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
