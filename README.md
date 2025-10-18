@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Vue Dino Game v25.10.18 (Manual)](https://github.com/SunshineCloudTech/SunshineCloud-DinoLikeGame-Vue/releases/tag/v25.10.18) in [SunshineCloudTech/SunshineCloud-DinoLikeGame-Vue](https://github.com/SunshineCloudTech/SunshineCloud-DinoLikeGame-Vue)
+1. 🗣 Commented on [#279](https://github.com/RetroReversing/retroReversing/pull/279#issuecomment-3418627164) in [RetroReversing/retroReversing](https://github.com/RetroReversing/retroReversing)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
