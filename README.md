@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7701](https://github.com/hagezi/dns-blocklists/issues/7701#issuecomment-3417819852) in [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists)
+1. 🗣 Commented on [#21064](https://github.com/dd3tech/status-page/issues/21064#issuecomment-3417881631) in [dd3tech/status-page](https://github.com/dd3tech/status-page)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
