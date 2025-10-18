@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.336.0](https://github.com/suyiiyii/runner/releases/tag/v2.336.0) in [suyiiyii/runner](https://github.com/suyiiyii/runner)
+1. 🚀 Published release [vault-static-secret-0.1.3](https://github.com/vinhpham-techlab/helm-charts/releases/tag/vault-static-secret-0.1.3) in [vinhpham-techlab/helm-charts](https://github.com/vinhpham-techlab/helm-charts)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
