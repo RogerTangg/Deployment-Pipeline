@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#1085](undefined) in [Dynamic-Capital/Dynamic-Capital](https://github.com/Dynamic-Capital/Dynamic-Capital)
+1. 🗣 Commented on [#151](https://github.com/parca-dev/opentelemetry-ebpf-profiler/issues/151#issuecomment-3417759327) in [parca-dev/opentelemetry-ebpf-profiler](https://github.com/parca-dev/opentelemetry-ebpf-profiler)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
