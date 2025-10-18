@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [vault-static-secret-0.1.3](https://github.com/vinhpham-techlab/helm-charts/releases/tag/vault-static-secret-0.1.3) in [vinhpham-techlab/helm-charts](https://github.com/vinhpham-techlab/helm-charts)
+1. 🗣 Commented on [#248](https://github.com/tasmota/esp-idf/pull/248#issuecomment-3418252925) in [tasmota/esp-idf](https://github.com/tasmota/esp-idf)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
