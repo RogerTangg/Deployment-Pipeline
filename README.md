@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21064](https://github.com/dd3tech/status-page/issues/21064#issuecomment-3417881631) in [dd3tech/status-page](https://github.com/dd3tech/status-page)
+1. 🔒 Labeled issue [#419](https://github.com/RNA4219/llm_orch/issues/419) in [RNA4219/llm_orch](https://github.com/RNA4219/llm_orch)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
