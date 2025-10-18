@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#279](https://github.com/RetroReversing/retroReversing/pull/279#issuecomment-3418627164) in [RetroReversing/retroReversing](https://github.com/RetroReversing/retroReversing)
+1. 🚀 Published release [v1.78.4-nightly](https://github.com/BerriAI/litellm/releases/tag/v1.78.4-nightly) in [BerriAI/litellm](https://github.com/BerriAI/litellm)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
