@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8867](https://github.com/cloudnative-pg/cloudnative-pg/pull/8867#issuecomment-3418462348) in [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)
+1. 🚀 Published release [Vue Dino Game v25.10.18 (Manual)](https://github.com/SunshineCloudTech/SunshineCloud-DinoLikeGame-Vue/releases/tag/v25.10.18) in [SunshineCloudTech/SunshineCloud-DinoLikeGame-Vue](https://github.com/SunshineCloudTech/SunshineCloud-DinoLikeGame-Vue)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
