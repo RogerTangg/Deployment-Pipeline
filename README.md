@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#28](undefined) in [pvarki/Docusaurus-docs](https://github.com/pvarki/Docusaurus-docs)
+1. 🗣 Commented on [#21](https://github.com/Gerome-Elassaad/codinit-app/pull/21#issuecomment-3418823660) in [Gerome-Elassaad/codinit-app](https://github.com/Gerome-Elassaad/codinit-app)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
