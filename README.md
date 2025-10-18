@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#250190](undefined) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+1. 🚀 Published release [istio-gateway-v1.0.0](https://github.com/b1e90ff/helm-repository/releases/tag/istio-gateway-v1.0.0) in [b1e90ff/helm-repository](https://github.com/b1e90ff/helm-repository)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
