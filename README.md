@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#917](https://github.com/kaito01234/auto-keep-server/issues/917) in [kaito01234/auto-keep-server](https://github.com/kaito01234/auto-keep-server)
+1. 🚀 Published release [v2.336.0](https://github.com/suyiiyii/runner/releases/tag/v2.336.0) in [suyiiyii/runner](https://github.com/suyiiyii/runner)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
