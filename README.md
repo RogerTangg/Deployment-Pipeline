@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#20](https://github.com/eigenkor/MarketForecaster-DTN-Symbol-Downloader/issues/20) in [eigenkor/MarketForecaster-DTN-Symbol-Downloader](https://github.com/eigenkor/MarketForecaster-DTN-Symbol-Downloader)
+1. ❌ Labeled PR [#1085](undefined) in [Dynamic-Capital/Dynamic-Capital](https://github.com/Dynamic-Capital/Dynamic-Capital)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
