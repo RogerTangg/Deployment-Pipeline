@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [capturingpower-v1.0.0](https://github.com/Nova1422/plugins/releases/tag/v1.0.0-capturingpower) in [Nova1422/plugins](https://github.com/Nova1422/plugins)
+1. 🚀 Published release [v0.2.0_Beta](https://github.com/sayonari/twitchTransFreeNeo/releases/tag/v0.2.0_Beta) in [sayonari/twitchTransFreeNeo](https://github.com/sayonari/twitchTransFreeNeo)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
