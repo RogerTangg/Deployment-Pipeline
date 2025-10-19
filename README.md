@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/ayubkhankariev/skills-introduction-to-repository-management/issues/1) in [ayubkhankariev/skills-introduction-to-repository-management](https://github.com/ayubkhankariev/skills-introduction-to-repository-management)
+1. 🗣 Commented on [#290](https://github.com/kijimaD/ruins/pull/290#issuecomment-3419582710) in [kijimaD/ruins](https://github.com/kijimaD/ruins)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
