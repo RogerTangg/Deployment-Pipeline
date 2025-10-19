@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/nvuorio/skills-getting-started-with-github-copilot/issues/1#issuecomment-3419781121) in [nvuorio/skills-getting-started-with-github-copilot](https://github.com/nvuorio/skills-getting-started-with-github-copilot)
+1. 🚀 Published release [capturingpower-v1.0.0](https://github.com/Nova1422/plugins/releases/tag/v1.0.0-capturingpower) in [Nova1422/plugins](https://github.com/Nova1422/plugins)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
