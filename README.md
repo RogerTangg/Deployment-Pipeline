@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.16](https://github.com/hjinco/mdit/releases/tag/v0.0.16) in [hjinco/mdit](https://github.com/hjinco/mdit)
+1. 🗣 Commented on [#4444](https://github.com/infonl/dimpact-zaakafhandelcomponent/pull/4444#issuecomment-3419701992) in [infonl/dimpact-zaakafhandelcomponent](https://github.com/infonl/dimpact-zaakafhandelcomponent)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
