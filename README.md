@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#179](https://github.com/shortlink-org/marketing/issues/179) in [shortlink-org/marketing](https://github.com/shortlink-org/marketing)
+1. 🚀 Published release [CVE 2025-10-19_0700Z](https://github.com/hkong-mitre/cvelistV5/releases/tag/cve_2025-10-19_0700Z) in [hkong-mitre/cvelistV5](https://github.com/hkong-mitre/cvelistV5)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
