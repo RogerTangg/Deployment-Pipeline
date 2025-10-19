@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4777](https://github.com/Goob-Station/Goob-Station/pull/4777#issuecomment-3419742630) in [Goob-Station/Goob-Station](https://github.com/Goob-Station/Goob-Station)
+1. 🗣 Commented on [#1](https://github.com/nvuorio/skills-getting-started-with-github-copilot/issues/1#issuecomment-3419781121) in [nvuorio/skills-getting-started-with-github-copilot](https://github.com/nvuorio/skills-getting-started-with-github-copilot)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
