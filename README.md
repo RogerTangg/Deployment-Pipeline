@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [CIDR Lists Update - 2025-10-19 20:19 UTC](https://github.com/THEzombiePL/Anti-VPN-List/releases/tag/v20251019-201951) in [THEzombiePL/Anti-VPN-List](https://github.com/THEzombiePL/Anti-VPN-List)
+1. 🗣 Commented on [#49](https://github.com/justinelliottcobb/Amari/pull/49#issuecomment-3419964589) in [justinelliottcobb/Amari](https://github.com/justinelliottcobb/Amari)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
