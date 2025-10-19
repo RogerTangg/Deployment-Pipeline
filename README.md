@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Custom Vencord Build](https://github.com/BryanL43/VencordLargeUpload/releases/tag/custom-build-124) in [BryanL43/VencordLargeUpload](https://github.com/BryanL43/VencordLargeUpload)
+1. 🚀 Published release [CVE 2025-10-19_0900Z](https://github.com/ScorpionBytes/cvelistV5/releases/tag/cve_2025-10-19_0900Z) in [ScorpionBytes/cvelistV5](https://github.com/ScorpionBytes/cvelistV5)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
