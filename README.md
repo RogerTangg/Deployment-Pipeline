@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [CVE 2025-10-19_0900Z](https://github.com/ScorpionBytes/cvelistV5/releases/tag/cve_2025-10-19_0900Z) in [ScorpionBytes/cvelistV5](https://github.com/ScorpionBytes/cvelistV5)
+1. ❗ Opened issue [#1](https://github.com/ayubkhankariev/skills-introduction-to-repository-management/issues/1) in [ayubkhankariev/skills-introduction-to-repository-management](https://github.com/ayubkhankariev/skills-introduction-to-repository-management)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
