@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [18624624496_1](https://github.com/its3mile/nscs-caf-scraper/releases/tag/18624624496_1) in [its3mile/nscs-caf-scraper](https://github.com/its3mile/nscs-caf-scraper)
+1. 🚀 Published release [CIDR Lists Update - 2025-10-19 04:23 UTC](https://github.com/THEzombiePL/Anti-VPN-List/releases/tag/v20251019-042319) in [THEzombiePL/Anti-VPN-List](https://github.com/THEzombiePL/Anti-VPN-List)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
