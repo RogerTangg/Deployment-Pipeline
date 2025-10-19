@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/symmatree/tiles/pull/3#issuecomment-3420004155) in [symmatree/tiles](https://github.com/symmatree/tiles)
+1. 🗣 Commented on [#48](https://github.com/jeffreyfriedman/windjammer/pull/48#issuecomment-3420045390) in [jeffreyfriedman/windjammer](https://github.com/jeffreyfriedman/windjammer)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
