@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4444](https://github.com/infonl/dimpact-zaakafhandelcomponent/pull/4444#issuecomment-3419701992) in [infonl/dimpact-zaakafhandelcomponent](https://github.com/infonl/dimpact-zaakafhandelcomponent)
+1. 🗣 Commented on [#4777](https://github.com/Goob-Station/Goob-Station/pull/4777#issuecomment-3419742630) in [Goob-Station/Goob-Station](https://github.com/Goob-Station/Goob-Station)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
