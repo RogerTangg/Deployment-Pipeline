@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [CVE 2025-10-19_1900Z](https://github.com/CVEProject/cvelistV5/releases/tag/cve_2025-10-19_1900Z) in [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5)
+1. 🚀 Published release [CIDR Lists Update - 2025-10-19 20:19 UTC](https://github.com/THEzombiePL/Anti-VPN-List/releases/tag/v20251019-201951) in [THEzombiePL/Anti-VPN-List](https://github.com/THEzombiePL/Anti-VPN-List)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
