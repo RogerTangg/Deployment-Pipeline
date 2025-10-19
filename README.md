@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#290](https://github.com/kijimaD/ruins/pull/290#issuecomment-3419582710) in [kijimaD/ruins](https://github.com/kijimaD/ruins)
+1. 🚀 Published release [v1.0.0](https://github.com/Sendo-labs/plugin-cryptoscore/releases/tag/v1.0.0) in [Sendo-labs/plugin-cryptoscore](https://github.com/Sendo-labs/plugin-cryptoscore)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
