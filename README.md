@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#327](undefined) in [mdipirro/scala-tutorials](https://github.com/mdipirro/scala-tutorials)
+1. 🚀 Published release [18624624496_1](https://github.com/its3mile/nscs-caf-scraper/releases/tag/18624624496_1) in [its3mile/nscs-caf-scraper](https://github.com/its3mile/nscs-caf-scraper)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
