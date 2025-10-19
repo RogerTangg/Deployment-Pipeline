@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/Sendo-labs/plugin-cryptoscore/releases/tag/v1.0.0) in [Sendo-labs/plugin-cryptoscore](https://github.com/Sendo-labs/plugin-cryptoscore)
+1. 🚀 Published release [v0.0.16](https://github.com/hjinco/mdit/releases/tag/v0.0.16) in [hjinco/mdit](https://github.com/hjinco/mdit)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
