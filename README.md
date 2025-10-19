@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0_Beta](https://github.com/sayonari/twitchTransFreeNeo/releases/tag/v0.2.0_Beta) in [sayonari/twitchTransFreeNeo](https://github.com/sayonari/twitchTransFreeNeo)
+1. 🚀 Published release [CVE 2025-10-19_1900Z](https://github.com/CVEProject/cvelistV5/releases/tag/cve_2025-10-19_1900Z) in [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
