@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15899](undefined) in [Appdynamics/opentelemetry-collector-contrib](https://github.com/Appdynamics/opentelemetry-collector-contrib)
+1. 🔒 Labeled issue [#179](https://github.com/shortlink-org/marketing/issues/179) in [shortlink-org/marketing](https://github.com/shortlink-org/marketing)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
