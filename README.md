@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#985](https://github.com/kmushi-coin/status/issues/985) in [kmushi-coin/status](https://github.com/kmushi-coin/status)
+1. 🗣 Commented on [#126](https://github.com/LSDAF/lsadf_backend/pull/126#issuecomment-3422816395) in [LSDAF/lsadf_backend](https://github.com/LSDAF/lsadf_backend)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
