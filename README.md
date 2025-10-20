@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#521](undefined) in [OpenZeppelin/openzeppelin-relayer](https://github.com/OpenZeppelin/openzeppelin-relayer)
+1. 🗣 Commented on [#29](https://github.com/davidcassany/elemental-obs/pull/29#issuecomment-3421046832) in [davidcassany/elemental-obs](https://github.com/davidcassany/elemental-obs)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
