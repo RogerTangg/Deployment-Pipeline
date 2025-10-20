@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/fedenek/skills-communicate-using-markdown/issues/1#issuecomment-3423755046) in [fedenek/skills-communicate-using-markdown](https://github.com/fedenek/skills-communicate-using-markdown)
+1. 🗣 Commented on [#400](https://github.com/sous-chefs/graphite/pull/400#issuecomment-3423934840) in [sous-chefs/graphite](https://github.com/sous-chefs/graphite)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
