@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Assigned issue [#215862](https://github.com/AdguardTeam/AdguardFilters/issues/215862) in [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters)
+1. ❌ Labeled PR [#75](undefined) in [benzine-framework/core](https://github.com/benzine-framework/core)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
