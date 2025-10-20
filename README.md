@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [zaakafhandelcomponent 3.17.31](https://github.com/infonl/dimpact-zaakafhandelcomponent/releases/tag/v3.17.31) in [infonl/dimpact-zaakafhandelcomponent](https://github.com/infonl/dimpact-zaakafhandelcomponent)
+1. 🚀 Published release [AgentPMT MCP v1.0.8](https://github.com/Apoth3osis-ai/agent-payment-mcp/releases/tag/v1.0.8) in [Apoth3osis-ai/agent-payment-mcp](https://github.com/Apoth3osis-ai/agent-payment-mcp)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
