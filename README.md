@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/davidcassany/elemental-obs/pull/29#issuecomment-3421046832) in [davidcassany/elemental-obs](https://github.com/davidcassany/elemental-obs)
+1. 🔒 Labeled issue [#1172](https://github.com/robnreb1/cerply/issues/1172) in [robnreb1/cerply](https://github.com/robnreb1/cerply)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
