@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#8](https://github.com/neon-rider578/execution-spec-tests/issues/8) in [neon-rider578/execution-spec-tests](https://github.com/neon-rider578/execution-spec-tests)
+1. 🚀 Published release [zaakafhandelcomponent 3.17.31](https://github.com/infonl/dimpact-zaakafhandelcomponent/releases/tag/v3.17.31) in [infonl/dimpact-zaakafhandelcomponent](https://github.com/infonl/dimpact-zaakafhandelcomponent)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
