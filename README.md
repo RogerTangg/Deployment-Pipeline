@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#1172](https://github.com/robnreb1/cerply/issues/1172) in [robnreb1/cerply](https://github.com/robnreb1/cerply)
+1. 🔒 Assigned issue [#215862](https://github.com/AdguardTeam/AdguardFilters/issues/215862) in [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
