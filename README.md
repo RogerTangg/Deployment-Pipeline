@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1801](https://github.com/SimulatorLife/prettier-plugin-gml/pull/1801#issuecomment-3420496951) in [SimulatorLife/prettier-plugin-gml](https://github.com/SimulatorLife/prettier-plugin-gml)
+1. ❌ Labeled PR [#168](undefined) in [GlueOps/autoglue](https://github.com/GlueOps/autoglue)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
