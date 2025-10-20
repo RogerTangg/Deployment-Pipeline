@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#75](undefined) in [benzine-framework/core](https://github.com/benzine-framework/core)
+1. 🔒 Labeled issue [#8](https://github.com/neon-rider578/execution-spec-tests/issues/8) in [neon-rider578/execution-spec-tests](https://github.com/neon-rider578/execution-spec-tests)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
