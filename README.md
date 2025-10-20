@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#226](undefined) in [aws-deadline/deadline-cloud-test-fixtures](https://github.com/aws-deadline/deadline-cloud-test-fixtures)
+1. 🔒 Labeled issue [#123](https://github.com/evgenygurin/claude-code-ui-nextjs/issues/123) in [evgenygurin/claude-code-ui-nextjs](https://github.com/evgenygurin/claude-code-ui-nextjs)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
