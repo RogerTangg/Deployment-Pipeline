@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [AgentPMT MCP v1.0.8](https://github.com/Apoth3osis-ai/agent-payment-mcp/releases/tag/v1.0.8) in [Apoth3osis-ai/agent-payment-mcp](https://github.com/Apoth3osis-ai/agent-payment-mcp)
+1. 🔒 Closed issue [#985](https://github.com/kmushi-coin/status/issues/985) in [kmushi-coin/status](https://github.com/kmushi-coin/status)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
