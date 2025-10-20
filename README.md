@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/jeffreyfriedman/windjammer/pull/48#issuecomment-3420045390) in [jeffreyfriedman/windjammer](https://github.com/jeffreyfriedman/windjammer)
+1. 🗣 Commented on [#72](https://github.com/HappyGroupHub/CarTunes/pull/72#issuecomment-3420224625) in [HappyGroupHub/CarTunes](https://github.com/HappyGroupHub/CarTunes)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
