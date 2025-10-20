@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#123](https://github.com/evgenygurin/claude-code-ui-nextjs/issues/123) in [evgenygurin/claude-code-ui-nextjs](https://github.com/evgenygurin/claude-code-ui-nextjs)
+1. 🚀 Published release [v2.2.0](https://github.com/RigoOnRails/eslint-config/releases/tag/v2.2.0) in [RigoOnRails/eslint-config](https://github.com/RigoOnRails/eslint-config)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
