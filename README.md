@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/HappyGroupHub/CarTunes/pull/72#issuecomment-3420224625) in [HappyGroupHub/CarTunes](https://github.com/HappyGroupHub/CarTunes)
+1. ❌ Labeled PR [#95](undefined) in [WithHolm/polyenv](https://github.com/WithHolm/polyenv)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
