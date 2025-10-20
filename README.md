@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#168](undefined) in [GlueOps/autoglue](https://github.com/GlueOps/autoglue)
+1. 🔒 Labeled issue [#992](https://github.com/kaito01234/auto-keep-server/issues/992) in [kaito01234/auto-keep-server](https://github.com/kaito01234/auto-keep-server)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
