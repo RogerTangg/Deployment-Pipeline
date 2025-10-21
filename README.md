@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#403](https://github.com/kotreshhr/ceph/pull/403#issuecomment-3426925717) in [kotreshhr/ceph](https://github.com/kotreshhr/ceph)
+1. ❌ Labeled PR [#7369](undefined) in [logto-io/logto](https://github.com/logto-io/logto)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
