@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#935](https://github.com/dbt-labs/dbt-fusion/pull/935#issuecomment-3429427064) in [dbt-labs/dbt-fusion](https://github.com/dbt-labs/dbt-fusion)
+1. 💪 Opened PR [#175](undefined) in [sunaoka/aws-sdk-php-structures](https://github.com/sunaoka/aws-sdk-php-structures)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
