@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Gokku 1.0.37](https://github.com/thadeu/gokku/releases/tag/v1.0.37) in [thadeu/gokku](https://github.com/thadeu/gokku)
+1. 🗣 Commented on [#1](https://github.com/abustos07/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1#issuecomment-3428681473) in [abustos07/skills-scale-institutional-knowledge-using-copilot-spaces](https://github.com/abustos07/skills-scale-institutional-knowledge-using-copilot-spaces)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
