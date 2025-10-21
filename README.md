@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11459](https://github.com/esphome/esphome/pull/11459#issuecomment-3429765664) in [esphome/esphome](https://github.com/esphome/esphome)
+1. ❌ Labeled PR [#612](undefined) in [liudf0716/openwrt](https://github.com/liudf0716/openwrt)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
