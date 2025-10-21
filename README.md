@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Automated build 12](https://github.com/WeslieDE/DEBSERV/releases/tag/build-12) in [WeslieDE/DEBSERV](https://github.com/WeslieDE/DEBSERV)
+1. 🚀 Published release [Gokku 1.0.37](https://github.com/thadeu/gokku/releases/tag/v1.0.37) in [thadeu/gokku](https://github.com/thadeu/gokku)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
