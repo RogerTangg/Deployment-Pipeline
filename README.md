@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1754](https://github.com/pagopa/developer-portal/pull/1754#issuecomment-3425829652) in [pagopa/developer-portal](https://github.com/pagopa/developer-portal)
+1. 🔒 Assigned issue [#7598](https://github.com/NomicFoundation/hardhat/issues/7598) in [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
