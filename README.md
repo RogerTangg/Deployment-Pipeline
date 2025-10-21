@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#447](https://github.com/swwwagcy/daka/issues/447) in [swwwagcy/daka](https://github.com/swwwagcy/daka)
+1. 🗣 Commented on [#1220](https://github.com/YaoApp/yao/pull/1220#issuecomment-3424492464) in [YaoApp/yao](https://github.com/YaoApp/yao)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
