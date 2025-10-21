@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/yufyaj/ai-dev-cycle/issues/44#issuecomment-3426693445) in [yufyaj/ai-dev-cycle](https://github.com/yufyaj/ai-dev-cycle)
+1. 🗣 Commented on [#403](https://github.com/kotreshhr/ceph/pull/403#issuecomment-3426925717) in [kotreshhr/ceph](https://github.com/kotreshhr/ceph)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
