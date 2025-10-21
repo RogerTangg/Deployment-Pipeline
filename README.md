@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [CVE 2025-10-21_1900Z](https://github.com/hkong-mitre/cvelistV5/releases/tag/cve_2025-10-21_1900Z) in [hkong-mitre/cvelistV5](https://github.com/hkong-mitre/cvelistV5)
+1. 🗣 Commented on [#935](https://github.com/dbt-labs/dbt-fusion/pull/935#issuecomment-3429427064) in [dbt-labs/dbt-fusion](https://github.com/dbt-labs/dbt-fusion)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
