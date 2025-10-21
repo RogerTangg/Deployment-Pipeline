@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [202510202316](https://github.com/simplerick-simplefun/sing-ruleset/releases/tag/202510202316) in [simplerick-simplefun/sing-ruleset](https://github.com/simplerick-simplefun/sing-ruleset)
+1. ❗ Opened issue [#447](https://github.com/swwwagcy/daka/issues/447) in [swwwagcy/daka](https://github.com/swwwagcy/daka)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
