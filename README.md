@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#175](undefined) in [sunaoka/aws-sdk-php-structures](https://github.com/sunaoka/aws-sdk-php-structures)
+1. 🗣 Commented on [#11459](https://github.com/esphome/esphome/pull/11459#issuecomment-3429765664) in [esphome/esphome](https://github.com/esphome/esphome)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
