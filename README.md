@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Assigned issue [#7598](https://github.com/NomicFoundation/hardhat/issues/7598) in [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat)
+1. ❌ Labeled PR [#223](undefined) in [nickfnblum/bazel](https://github.com/nickfnblum/bazel)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
