@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#27204](undefined) in [ydb-platform/ydb](https://github.com/ydb-platform/ydb)
+1. 🗣 Commented on [#56](https://github.com/kwila-cloud/simple-sync/pull/56#issuecomment-3425398649) in [kwila-cloud/simple-sync](https://github.com/kwila-cloud/simple-sync)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
