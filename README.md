@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2025-10-21](https://github.com/yomidevs/jmdict-yomitan/releases/tag/2025-10-21) in [yomidevs/jmdict-yomitan](https://github.com/yomidevs/jmdict-yomitan)
+1. 🔒 Labeled issue [#845](https://github.com/PoseidonLi0514/lobe-chat/issues/845) in [PoseidonLi0514/lobe-chat](https://github.com/PoseidonLi0514/lobe-chat)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
