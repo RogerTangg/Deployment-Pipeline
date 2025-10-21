@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1220](https://github.com/YaoApp/yao/pull/1220#issuecomment-3424492464) in [YaoApp/yao](https://github.com/YaoApp/yao)
+1. 🗣 Commented on [#64595](https://github.com/metabase/metabase/pull/64595#issuecomment-3424614521) in [metabase/metabase](https://github.com/metabase/metabase)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
