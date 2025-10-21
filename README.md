@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#7369](undefined) in [logto-io/logto](https://github.com/logto-io/logto)
+1. 🚀 Published release [Automated build 12](https://github.com/WeslieDE/DEBSERV/releases/tag/build-12) in [WeslieDE/DEBSERV](https://github.com/WeslieDE/DEBSERV)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
