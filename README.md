@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#98](undefined) in [adverbdizzy7d/HW-NZL](https://github.com/adverbdizzy7d/HW-NZL)
+1. 🗣 Commented on [#1754](https://github.com/pagopa/developer-portal/pull/1754#issuecomment-3425829652) in [pagopa/developer-portal](https://github.com/pagopa/developer-portal)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
