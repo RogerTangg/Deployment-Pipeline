@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/kwila-cloud/simple-sync/pull/56#issuecomment-3425398649) in [kwila-cloud/simple-sync](https://github.com/kwila-cloud/simple-sync)
+1. 💪 Opened PR [#98](undefined) in [adverbdizzy7d/HW-NZL](https://github.com/adverbdizzy7d/HW-NZL)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
