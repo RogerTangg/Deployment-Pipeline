@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#497](https://github.com/pussycat186/Atlas/pull/497#issuecomment-3431601601) in [pussycat186/Atlas](https://github.com/pussycat186/Atlas)
+1. 🚀 Published release [v0.1.31 🌈](https://github.com/Mai0313/rust_template/releases/tag/v0.1.31) in [Mai0313/rust_template](https://github.com/Mai0313/rust_template)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
