@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/pycabbage/pear-desktop/pull/1#issuecomment-3430442409) in [pycabbage/pear-desktop](https://github.com/pycabbage/pear-desktop)
+1. 🗣 Commented on [#97](https://github.com/dreamoeu/appstore/pull/97#issuecomment-3430545597) in [dreamoeu/appstore](https://github.com/dreamoeu/appstore)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
