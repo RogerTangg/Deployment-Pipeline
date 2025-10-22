@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Unlabeled PR [#21](undefined) in [nullplatform/tofu-modules](https://github.com/nullplatform/tofu-modules)
+1. ❌ Labeled PR [#622](undefined) in [AntoniRokitnicki/AdvancedExpressionFolding](https://github.com/AntoniRokitnicki/AdvancedExpressionFolding)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
