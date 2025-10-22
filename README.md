@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#693](https://github.com/yxtay/python-example-app/pull/693#issuecomment-3431318757) in [yxtay/python-example-app](https://github.com/yxtay/python-example-app)
+1. 🗣 Commented on [#497](https://github.com/pussycat186/Atlas/pull/497#issuecomment-3431601601) in [pussycat186/Atlas](https://github.com/pussycat186/Atlas)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
