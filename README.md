@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#25995](undefined) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
+1. 🗣 Commented on [#1](https://github.com/kartsank/skills-review-pull-requests/issues/1#issuecomment-3433691763) in [kartsank/skills-review-pull-requests](https://github.com/kartsank/skills-review-pull-requests)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
