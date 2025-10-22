@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/dreamoeu/appstore/pull/97#issuecomment-3430545597) in [dreamoeu/appstore](https://github.com/dreamoeu/appstore)
+1. ❌ Labeled PR [#14371](undefined) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
