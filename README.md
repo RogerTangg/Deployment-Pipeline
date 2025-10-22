@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#612](undefined) in [liudf0716/openwrt](https://github.com/liudf0716/openwrt)
+1. 🗣 Commented on [#203](https://github.com/ambient-code/vTeam/pull/203#issuecomment-3430152954) in [ambient-code/vTeam](https://github.com/ambient-code/vTeam)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
