@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#43740](undefined) in [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
+1. ❌ Labeled PR [#66](undefined) in [itsbrex/Auto-GPT](https://github.com/itsbrex/Auto-GPT)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
