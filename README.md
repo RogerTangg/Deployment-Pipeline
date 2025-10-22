@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#51235](undefined) in [moby/moby](https://github.com/moby/moby)
+1. 🗣 Commented on [#693](https://github.com/yxtay/python-example-app/pull/693#issuecomment-3431318757) in [yxtay/python-example-app](https://github.com/yxtay/python-example-app)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
