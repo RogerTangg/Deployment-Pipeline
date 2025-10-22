@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#14371](undefined) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+1. 🗣 Commented on [#59](https://github.com/ettore-bernardi/popMenuInterviewProject/pull/59#issuecomment-3430802458) in [ettore-bernardi/popMenuInterviewProject](https://github.com/ettore-bernardi/popMenuInterviewProject)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
