@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#622](undefined) in [AntoniRokitnicki/AdvancedExpressionFolding](https://github.com/AntoniRokitnicki/AdvancedExpressionFolding)
+1. ❌ Labeled PR [#43740](undefined) in [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
