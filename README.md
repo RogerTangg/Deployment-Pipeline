@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#36364](https://github.com/bitnami/charts/issues/36364) in [bitnami/charts](https://github.com/bitnami/charts)
+1. ❌ Assigned PR [#11525](undefined) in [ls1intum/Artemis](https://github.com/ls1intum/Artemis)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
