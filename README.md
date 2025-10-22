@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.31 🌈](https://github.com/Mai0313/rust_template/releases/tag/v0.1.31) in [Mai0313/rust_template](https://github.com/Mai0313/rust_template)
+1. 🔒 Labeled issue [#848](https://github.com/PoseidonLi0514/lobe-chat/issues/848) in [PoseidonLi0514/lobe-chat](https://github.com/PoseidonLi0514/lobe-chat)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
