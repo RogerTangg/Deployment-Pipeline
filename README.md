@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#66](undefined) in [itsbrex/Auto-GPT](https://github.com/itsbrex/Auto-GPT)
+1. 🚀 Published release [v1.0.4](https://github.com/suncast-org/pyGSK/releases/tag/v1.0.4) in [suncast-org/pyGSK](https://github.com/suncast-org/pyGSK)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
