@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.4](https://github.com/suncast-org/pyGSK/releases/tag/v1.0.4) in [suncast-org/pyGSK](https://github.com/suncast-org/pyGSK)
+1. 🗣 Commented on [#30](https://github.com/sano1233/istani/pull/30#issuecomment-3434757489) in [sano1233/istani](https://github.com/sano1233/istani)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
