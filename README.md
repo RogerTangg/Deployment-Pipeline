@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Unlabeled PR [#106694](undefined) in [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
+1. ❌ Assigned PR [#26037](undefined) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
