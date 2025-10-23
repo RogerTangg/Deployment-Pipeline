@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#30306](https://github.com/backstage/backstage/issues/30306) in [backstage/backstage](https://github.com/backstage/backstage)
+1. 🗣 Commented on [#3678](https://github.com/vllm-project/vllm-ascend/pull/3678#issuecomment-3436400411) in [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
