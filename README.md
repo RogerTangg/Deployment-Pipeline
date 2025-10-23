@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#20203](undefined) in [Alvillarroel/Laravel-lang](https://github.com/Alvillarroel/Laravel-lang)
+1. ❌ Labeled PR [#153](undefined) in [sec-js/prowler](https://github.com/sec-js/prowler)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
