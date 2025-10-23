@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1409](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/issues/1409) in [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies)
+1. 🗣 Commented on [#17915](https://github.com/aptos-labs/aptos-core/pull/17915#issuecomment-3439449111) in [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
