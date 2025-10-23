@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3678](https://github.com/vllm-project/vllm-ascend/pull/3678#issuecomment-3436400411) in [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)
+1. 🔒 Labeled issue [#852](https://github.com/PoseidonLi0514/lobe-chat/issues/852) in [PoseidonLi0514/lobe-chat](https://github.com/PoseidonLi0514/lobe-chat)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
