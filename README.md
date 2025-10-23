@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#153](undefined) in [sec-js/prowler](https://github.com/sec-js/prowler)
+1. 🔒 Labeled issue [#287](https://github.com/johnmillerATcodemag-com/AI-Assisted-Software-Development/issues/287) in [johnmillerATcodemag-com/AI-Assisted-Software-Development](https://github.com/johnmillerATcodemag-com/AI-Assisted-Software-Development)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
