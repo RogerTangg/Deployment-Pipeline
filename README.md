@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#851](https://github.com/PoseidonLi0514/lobe-chat/issues/851) in [PoseidonLi0514/lobe-chat](https://github.com/PoseidonLi0514/lobe-chat)
+1. 🚀 Published release [v0.3.9](https://github.com/nexi-lab/nexus/releases/tag/v0.3.9) in [nexi-lab/nexus](https://github.com/nexi-lab/nexus)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
