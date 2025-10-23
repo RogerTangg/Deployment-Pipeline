@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/sano1233/istani/pull/30#issuecomment-3434757489) in [sano1233/istani](https://github.com/sano1233/istani)
+1. ❌ Labeled PR [#20203](undefined) in [Alvillarroel/Laravel-lang](https://github.com/Alvillarroel/Laravel-lang)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
