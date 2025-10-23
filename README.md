@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/tqer39/edu-quest/pull/132#issuecomment-3435918585) in [tqer39/edu-quest](https://github.com/tqer39/edu-quest)
+1. 🔒 Labeled issue [#30306](https://github.com/backstage/backstage/issues/30306) in [backstage/backstage](https://github.com/backstage/backstage)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
