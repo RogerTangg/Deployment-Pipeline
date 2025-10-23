@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#852](https://github.com/PoseidonLi0514/lobe-chat/issues/852) in [PoseidonLi0514/lobe-chat](https://github.com/PoseidonLi0514/lobe-chat)
+1. 🗣 Commented on [#9006](https://github.com/prowler-cloud/prowler/pull/9006#issuecomment-3437018809) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
