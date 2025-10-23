@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.9](https://github.com/nexi-lab/nexus/releases/tag/v0.3.9) in [nexi-lab/nexus](https://github.com/nexi-lab/nexus)
+1. 🚀 Published release [Release v0.1.0](https://github.com/rossigee/provider-namecheap/releases/tag/v0.1.0) in [rossigee/provider-namecheap](https://github.com/rossigee/provider-namecheap)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
