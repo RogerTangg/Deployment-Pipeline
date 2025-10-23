@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#287](https://github.com/johnmillerATcodemag-com/AI-Assisted-Software-Development/issues/287) in [johnmillerATcodemag-com/AI-Assisted-Software-Development](https://github.com/johnmillerATcodemag-com/AI-Assisted-Software-Development)
+1. ❗ Opened issue [#851](https://github.com/PoseidonLi0514/lobe-chat/issues/851) in [PoseidonLi0514/lobe-chat](https://github.com/PoseidonLi0514/lobe-chat)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
