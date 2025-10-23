@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9006](https://github.com/prowler-cloud/prowler/pull/9006#issuecomment-3437018809) in [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)
+1. 🚀 Published release [Appwrite Functions](https://github.com/lxju100/Appwrite/releases/tag/Appwrite-latest) in [lxju100/Appwrite](https://github.com/lxju100/Appwrite)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
