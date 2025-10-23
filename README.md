@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3536](https://github.com/NVIDIA/cuda-quantum/pull/3536#issuecomment-3437949644) in [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum)
+1. 🚀 Published release [Beta Release](https://github.com/dfiore1230/eventschedule/releases/tag/4.0.26b) in [dfiore1230/eventschedule](https://github.com/dfiore1230/eventschedule)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
