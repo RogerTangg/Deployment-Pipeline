@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/depromeet/momuzzi-server/pull/90#issuecomment-3437600312) in [depromeet/momuzzi-server](https://github.com/depromeet/momuzzi-server)
+1. 🗣 Commented on [#3536](https://github.com/NVIDIA/cuda-quantum/pull/3536#issuecomment-3437949644) in [NVIDIA/cuda-quantum](https://github.com/NVIDIA/cuda-quantum)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
