@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17915](https://github.com/aptos-labs/aptos-core/pull/17915#issuecomment-3439449111) in [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)
+1. 🗣 Commented on [#932](https://github.com/vllm-project/tpu-inference/pull/932#issuecomment-3439691873) in [vllm-project/tpu-inference](https://github.com/vllm-project/tpu-inference)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
