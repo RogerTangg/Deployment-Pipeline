@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [7.0.0](https://github.com/dim0x69/obsidian-kisss3/releases/tag/7.0.0) in [dim0x69/obsidian-kisss3](https://github.com/dim0x69/obsidian-kisss3)
+1. ❌ Unlabeled PR [#106694](undefined) in [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
