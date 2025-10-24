@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#21](undefined) in [fakeyouall/openwrt-passwall-packages](https://github.com/fakeyouall/openwrt-passwall-packages)
+1. ❌ Assigned PR [#64530](undefined) in [StarRocks/starrocks](https://github.com/StarRocks/starrocks)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
