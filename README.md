@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7601](https://github.com/systeminit/si/pull/7601#issuecomment-3443981199) in [systeminit/si](https://github.com/systeminit/si)
+1. 🚀 Published release [REDMI-AX5-JDC-owrt-25.10.24-23.28.27](https://github.com/lijsjust2/REDMI-AX5-JDC/releases/tag/REDMI-AX5-JDC-owrt-25.10.24-23.28.27) in [lijsjust2/REDMI-AX5-JDC](https://github.com/lijsjust2/REDMI-AX5-JDC)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
