@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#21609](undefined) in [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile)
+1. ❗ Opened issue [#2112](https://github.com/teledec/status/issues/2112) in [teledec/status](https://github.com/teledec/status)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
