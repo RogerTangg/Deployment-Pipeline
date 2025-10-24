@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#452](https://github.com/swwwagcy/daka/issues/452) in [swwwagcy/daka](https://github.com/swwwagcy/daka)
+1. 🚀 Published release [kustomize-mutating-webhook-0.7.0](https://github.com/xunholy/fluxcd-kustomize-mutating-webhook/releases/tag/kustomize-mutating-webhook-0.7.0) in [xunholy/fluxcd-kustomize-mutating-webhook](https://github.com/xunholy/fluxcd-kustomize-mutating-webhook)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
