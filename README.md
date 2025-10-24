@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.3.3-test](https://github.com/MorpheusAIs/Morpheus-Lumerin-Node/releases/tag/v5.3.3-test) in [MorpheusAIs/Morpheus-Lumerin-Node](https://github.com/MorpheusAIs/Morpheus-Lumerin-Node)
+1. 🗣 Commented on [#4078](https://github.com/baserow/baserow/pull/4078#issuecomment-3443696861) in [baserow/baserow](https://github.com/baserow/baserow)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
