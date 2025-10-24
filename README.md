@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#184](undefined) in [heoelri/terraform-provider-azurerm](https://github.com/heoelri/terraform-provider-azurerm)
+1. 🔒 Labeled issue [#4110](https://github.com/rossjrw/rossjrw/issues/4110) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
