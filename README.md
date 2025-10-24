@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7626](https://github.com/ardatan/graphql-tools/pull/7626#issuecomment-3444938370) in [ardatan/graphql-tools](https://github.com/ardatan/graphql-tools)
+1. 🔒 Labeled issue [#308](https://github.com/rzonedevops/hurdcog/issues/308) in [rzonedevops/hurdcog](https://github.com/rzonedevops/hurdcog)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
