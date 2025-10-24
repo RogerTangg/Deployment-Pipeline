@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [REDMI-AX5-JDC-owrt-25.10.24-23.28.27](https://github.com/lijsjust2/REDMI-AX5-JDC/releases/tag/REDMI-AX5-JDC-owrt-25.10.24-23.28.27) in [lijsjust2/REDMI-AX5-JDC](https://github.com/lijsjust2/REDMI-AX5-JDC)
+1. 🗣 Commented on [#2857](https://github.com/mabel-dev/opteryx/pull/2857#issuecomment-3444380103) in [mabel-dev/opteryx](https://github.com/mabel-dev/opteryx)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
