@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2857](https://github.com/mabel-dev/opteryx/pull/2857#issuecomment-3444380103) in [mabel-dev/opteryx](https://github.com/mabel-dev/opteryx)
+1. 🗣 Commented on [#899](https://github.com/Xed-Editor/Xed-Editor/pull/899#issuecomment-3444557250) in [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
