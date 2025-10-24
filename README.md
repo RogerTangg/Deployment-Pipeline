@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#899](https://github.com/Xed-Editor/Xed-Editor/pull/899#issuecomment-3444557250) in [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor)
+1. ❌ Labeled PR [#45](undefined) in [papismurf/build-stack](https://github.com/papismurf/build-stack)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
