@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#4110](https://github.com/rossjrw/rossjrw/issues/4110) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+1. 🗣 Commented on [#14108](https://github.com/ohcnetwork/care_fe/pull/14108#issuecomment-3442067644) in [ohcnetwork/care_fe](https://github.com/ohcnetwork/care_fe)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
