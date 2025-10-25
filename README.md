@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5901](https://github.com/Flowseal/zapret-discord-youtube/issues/5901#issuecomment-3446911630) in [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+1. 🗣 Commented on [#10](https://github.com/va13ntis/pennywise-mobile/pull/10#issuecomment-3447000374) in [va13ntis/pennywise-mobile](https://github.com/va13ntis/pennywise-mobile)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
