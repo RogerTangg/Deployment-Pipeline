@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Labeled issue [#16721](https://github.com/WeblateOrg/weblate/issues/16721) in [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)
+1. 🗣 Commented on [#1](https://github.com/kyousuke10000/TriHexPhi/issues/1#issuecomment-3446564906) in [kyousuke10000/TriHexPhi](https://github.com/kyousuke10000/TriHexPhi)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
