@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/va13ntis/pennywise-mobile/pull/10#issuecomment-3447000374) in [va13ntis/pennywise-mobile](https://github.com/va13ntis/pennywise-mobile)
+1. 🗣 Commented on [#268](https://github.com/james-s-tayler/realworld-vibe-coded/pull/268#issuecomment-3447483506) in [james-s-tayler/realworld-vibe-coded](https://github.com/james-s-tayler/realworld-vibe-coded)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
