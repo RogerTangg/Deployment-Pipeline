@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/kyousuke10000/TriHexPhi/issues/1#issuecomment-3446564906) in [kyousuke10000/TriHexPhi](https://github.com/kyousuke10000/TriHexPhi)
+1. 🚀 Published release [CVE 2025-10-25_1300Z](https://github.com/hkong-mitre/cvelistV5/releases/tag/cve_2025-10-25_1300Z) in [hkong-mitre/cvelistV5](https://github.com/hkong-mitre/cvelistV5)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
