@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [CVE 2025-10-25_1300Z](https://github.com/hkong-mitre/cvelistV5/releases/tag/cve_2025-10-25_1300Z) in [hkong-mitre/cvelistV5](https://github.com/hkong-mitre/cvelistV5)
+1. 🗣 Commented on [#89](https://github.com/RoseXTechnology/TripRadar.Server/pull/89#issuecomment-3446750630) in [RoseXTechnology/TripRadar.Server](https://github.com/RoseXTechnology/TripRadar.Server)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
