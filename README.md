@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#268](https://github.com/james-s-tayler/realworld-vibe-coded/pull/268#issuecomment-3447483506) in [james-s-tayler/realworld-vibe-coded](https://github.com/james-s-tayler/realworld-vibe-coded)
+1. 🗣 Commented on [#469](https://github.com/taoyounger/spiderpool/pull/469#issuecomment-3447744783) in [taoyounger/spiderpool](https://github.com/taoyounger/spiderpool)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
