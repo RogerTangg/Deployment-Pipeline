@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#454](https://github.com/swwwagcy/daka/issues/454) in [swwwagcy/daka](https://github.com/swwwagcy/daka)
+1. 🚀 Published release [AutoBuild](https://github.com/KingKDot/FoxyJumpScare/releases/tag/AutoBuild) in [KingKDot/FoxyJumpScare](https://github.com/KingKDot/FoxyJumpScare)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
