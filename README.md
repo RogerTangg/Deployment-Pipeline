@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#469](https://github.com/taoyounger/spiderpool/pull/469#issuecomment-3447744783) in [taoyounger/spiderpool](https://github.com/taoyounger/spiderpool)
+1. ❌ Assigned PR [#124](undefined) in [mrwskdv/papyrus-ui](https://github.com/mrwskdv/papyrus-ui)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
