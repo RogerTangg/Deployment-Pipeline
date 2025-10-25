@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [AutoBuild](https://github.com/KingKDot/FoxyJumpScare/releases/tag/AutoBuild) in [KingKDot/FoxyJumpScare](https://github.com/KingKDot/FoxyJumpScare)
+1. 💪 Opened PR [#26792](undefined) in [3bsalam-1/3bsalam-1](https://github.com/3bsalam-1/3bsalam-1)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
