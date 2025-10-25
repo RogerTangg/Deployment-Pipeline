@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [ROCKCHIP_immortalwrt.git-owrt_25.10.25_06.38.37](https://github.com/LJHR1999/ax1800/releases/tag/ROCKCHIP_immortalwrt.git-owrt_25.10.25_06.38.37) in [LJHR1999/ax1800](https://github.com/LJHR1999/ax1800)
+1. 🔒 Closed issue [#454](https://github.com/swwwagcy/daka/issues/454) in [swwwagcy/daka](https://github.com/swwwagcy/daka)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
