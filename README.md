@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#7920](undefined) in [hashintel/hash](https://github.com/hashintel/hash)
+1. 🚀 Published release [Turbopack Nightly Release turbopack-251025.1](https://github.com/chris-olszewski/turborepo/releases/tag/turbopack-251025.1) in [chris-olszewski/turborepo](https://github.com/chris-olszewski/turborepo)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
