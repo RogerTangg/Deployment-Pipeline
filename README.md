@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.1.8+6](https://github.com/Adithya-Jayan/MyRepertoirApp/releases/tag/v3.1.8%2B6) in [Adithya-Jayan/MyRepertoirApp](https://github.com/Adithya-Jayan/MyRepertoirApp)
+1. ❌ Labeled PR [#7920](undefined) in [hashintel/hash](https://github.com/hashintel/hash)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
