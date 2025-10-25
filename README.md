@@ -6,7 +6,7 @@ A Node.js sample project demonstrating CI/CD deployment pipeline using GitHub Ac
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26792](undefined) in [3bsalam-1/3bsalam-1](https://github.com/3bsalam-1/3bsalam-1)
+1. 🚀 Published release [Nvim development (prerelease) build](https://github.com/danielo515/neovim/releases/tag/nightly) in [danielo515/neovim](https://github.com/danielo515/neovim)
 <!--END_SECTION:activity-->
 
 ## 📋 專案概述 (Project Overview)
